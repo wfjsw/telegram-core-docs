@@ -3,10 +3,10 @@
 Sample Description
 
 <pre>
-<a href="../constructor/contacts.link">contacts.link</a>#3ace484c my_link:<a href="../type/ContactLink.md">ContactLink</a> foreign_link:<a href="../type/ContactLink.md">ContactLink</a> user:<a href="../type/User.md">User</a> = <a href="../type/contacts.Link.md">contacts.Link</a>;
+<a href="../constructor/contacts.link">contacts.link</a>#3ace484c my_link:undefined<a href="../type/ContactLink.md">ContactLink</a> foreign_link:undefined<a href="../type/ContactLink.md">ContactLink</a> user:undefined<a href="../type/User.md">User</a> = undefined<a href="../type/contacts.Link.md">contacts.Link</a>;
 
 ---functions---
-<a href="../method/contacts.deleteContact">contacts.deleteContact</a>#8e953744 id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/contacts.Link.md">contacts.Link</a>;
+<a href="../method/contacts.deleteContact">contacts.deleteContact</a>#8e953744 id:undefined<a href="../type/InputUser.md">InputUser</a> = undefined<a href="../type/contacts.Link.md">contacts.Link</a>;
 
 </pre>
 

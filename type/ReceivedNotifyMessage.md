@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/receivedNotifyMessage">receivedNotifyMessage</a>#a384b779 id:<a href="../type/int.md">int</a> flags:<a href="../type/int.md">int</a> = <a href="../type/ReceivedNotifyMessage.md">ReceivedNotifyMessage</a>;
+<a href="../constructor/receivedNotifyMessage">receivedNotifyMessage</a>#a384b779 id:undefined<a href="../type/int.md">int</a> flags:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/ReceivedNotifyMessage.md">ReceivedNotifyMessage</a>;
 
 </pre>
 

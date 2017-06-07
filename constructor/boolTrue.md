@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
+<a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = undefined<a href="../type/Bool.md">Bool</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[Bool](../type/Bool.md)
+undefined&lt;a href=&#34;../type/Bool.md&#34;&gt;Bool&lt;/a&gt;

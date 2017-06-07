@@ -3,30 +3,30 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateShortChatMessage.md">updateShortChatMessage</a>#16812688 flags:<a href="../type/#.md">#</a> out:<a href="../type/flags.1?true.md">flags.1?true</a> mentioned:<a href="../type/flags.4?true.md">flags.4?true</a> media_unread:<a href="../type/flags.5?true.md">flags.5?true</a> silent:<a href="../type/flags.13?true.md">flags.13?true</a> id:<a href="../type/int.md">int</a> from_id:<a href="../type/int.md">int</a> chat_id:<a href="../type/int.md">int</a> message:<a href="../type/string.md">string</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> fwd_from:<a href="../type/flags.2?MessageFwdHeader.md">flags.2?MessageFwdHeader</a> via_bot_id:<a href="../type/flags.11?int.md">flags.11?int</a> reply_to_msg_id:<a href="../type/flags.3?int.md">flags.3?int</a> entities:Vector&lt;<a href="../type/flags.7?Vector.md">flags.7?Vector</a>&gt; = <a href="../type/Updates.md">Updates</a>;
+<a href="../constructor/updateShortChatMessage.md">updateShortChatMessage</a>#16812688 flags:undefined<a href="../type/#.md">#</a> out:flags.1?<a href="../type/true.md">true</a> mentioned:flags.4?<a href="../type/true.md">true</a> media_unread:flags.5?<a href="../type/true.md">true</a> silent:flags.13?<a href="../type/true.md">true</a> id:undefined<a href="../type/int.md">int</a> from_id:undefined<a href="../type/int.md">int</a> chat_id:undefined<a href="../type/int.md">int</a> message:undefined<a href="../type/string.md">string</a> pts:undefined<a href="../type/int.md">int</a> pts_count:undefined<a href="../type/int.md">int</a> date:undefined<a href="../type/int.md">int</a> fwd_from:flags.2?<a href="../type/MessageFwdHeader.md">MessageFwdHeader</a> via_bot_id:flags.11?<a href="../type/int.md">int</a> reply_to_msg_id:flags.3?<a href="../type/int.md">int</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = undefined<a href="../type/Updates.md">Updates</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **out** | [flags.1?true](../type/flags.1?true.md) | Param description |
-| **mentioned** | [flags.4?true](../type/flags.4?true.md) | Param description |
-| **media_unread** | [flags.5?true](../type/flags.5?true.md) | Param description |
-| **silent** | [flags.13?true](../type/flags.13?true.md) | Param description |
-| **id** | [int](../type/int.md) | Param description |
-| **from_id** | [int](../type/int.md) | Param description |
-| **chat_id** | [int](../type/int.md) | Param description |
-| **message** | [string](../type/string.md) | Param description |
-| **pts** | [int](../type/int.md) | Param description |
-| **pts_count** | [int](../type/int.md) | Param description |
-| **date** | [int](../type/int.md) | Param description |
-| **fwd_from** | [flags.2?MessageFwdHeader](../type/flags.2?MessageFwdHeader.md) | Param description |
-| **via_bot_id** | [flags.11?int](../type/flags.11?int.md) | Param description |
-| **reply_to_msg_id** | [flags.3?int](../type/flags.3?int.md) | Param description |
-| **entities** | Vector<[flags.7?Vector](../type/flags.7?Vector.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **out** | flags.1?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **mentioned** | flags.4?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **media_unread** | flags.5?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **silent** | flags.13?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **from_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **chat_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **message** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **pts** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **pts_count** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **date** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **fwd_from** | flags.2?&lt;a href=&#34;../type/MessageFwdHeader.md&#34;&gt;MessageFwdHeader&lt;/a&gt; | Param description |
+| **via_bot_id** | flags.11?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **reply_to_msg_id** | flags.3?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **entities** | flags.7?Vector&amp;lt;&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[Updates](../type/Updates.md)
+undefined&lt;a href=&#34;../type/Updates.md&#34;&gt;Updates&lt;/a&gt;

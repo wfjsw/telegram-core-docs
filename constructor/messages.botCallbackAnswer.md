@@ -3,20 +3,20 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.botCallbackAnswer.md">messages.botCallbackAnswer</a>#36585ea4 flags:<a href="../type/#.md">#</a> alert:<a href="../type/flags.1?true.md">flags.1?true</a> has_url:<a href="../type/flags.3?true.md">flags.3?true</a> message:<a href="../type/flags.0?string.md">flags.0?string</a> url:<a href="../type/flags.2?string.md">flags.2?string</a> cache_time:<a href="../type/int.md">int</a> = <a href="../type/messages.BotCallbackAnswer.md">messages.BotCallbackAnswer</a>;
+<a href="../constructor/messages.botCallbackAnswer.md">messages.botCallbackAnswer</a>#36585ea4 flags:undefined<a href="../type/#.md">#</a> alert:flags.1?<a href="../type/true.md">true</a> has_url:flags.3?<a href="../type/true.md">true</a> message:flags.0?<a href="../type/string.md">string</a> url:flags.2?<a href="../type/string.md">string</a> cache_time:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/messages.BotCallbackAnswer.md">messages.BotCallbackAnswer</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **alert** | [flags.1?true](../type/flags.1?true.md) | Param description |
-| **has_url** | [flags.3?true](../type/flags.3?true.md) | Param description |
-| **message** | [flags.0?string](../type/flags.0?string.md) | Param description |
-| **url** | [flags.2?string](../type/flags.2?string.md) | Param description |
-| **cache_time** | [int](../type/int.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **alert** | flags.1?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **has_url** | flags.3?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **message** | flags.0?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **url** | flags.2?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **cache_time** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[messages.BotCallbackAnswer](../type/messages.BotCallbackAnswer.md)
+undefined&lt;a href=&#34;../type/messages.BotCallbackAnswer.md&#34;&gt;messages.BotCallbackAnswer&lt;/a&gt;

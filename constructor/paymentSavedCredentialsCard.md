@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/paymentSavedCredentialsCard.md">paymentSavedCredentialsCard</a>#cdc27a1f id:<a href="../type/string.md">string</a> title:<a href="../type/string.md">string</a> = <a href="../type/PaymentSavedCredentials.md">PaymentSavedCredentials</a>;
+<a href="../constructor/paymentSavedCredentialsCard.md">paymentSavedCredentialsCard</a>#cdc27a1f id:undefined<a href="../type/string.md">string</a> title:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/PaymentSavedCredentials.md">PaymentSavedCredentials</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **id** | [string](../type/string.md) | Param description |
-| **title** | [string](../type/string.md) | Param description |
+| **id** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **title** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[PaymentSavedCredentials](../type/PaymentSavedCredentials.md)
+undefined&lt;a href=&#34;../type/PaymentSavedCredentials.md&#34;&gt;PaymentSavedCredentials&lt;/a&gt;

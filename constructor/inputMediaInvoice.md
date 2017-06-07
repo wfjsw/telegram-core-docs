@@ -3,22 +3,22 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputMediaInvoice.md">inputMediaInvoice</a>#92153685 flags:<a href="../type/#.md">#</a> title:<a href="../type/string.md">string</a> description:<a href="../type/string.md">string</a> photo:<a href="../type/flags.0?InputWebDocument.md">flags.0?InputWebDocument</a> invoice:<a href="../type/Invoice.md">Invoice</a> payload:<a href="../type/bytes.md">bytes</a> provider:<a href="../type/string.md">string</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/InputMedia.md">InputMedia</a>;
+<a href="../constructor/inputMediaInvoice.md">inputMediaInvoice</a>#92153685 flags:undefined<a href="../type/#.md">#</a> title:undefined<a href="../type/string.md">string</a> description:undefined<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/InputWebDocument.md">InputWebDocument</a> invoice:undefined<a href="../type/Invoice.md">Invoice</a> payload:undefined<a href="../type/bytes.md">bytes</a> provider:undefined<a href="../type/string.md">string</a> start_param:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/InputMedia.md">InputMedia</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **title** | [string](../type/string.md) | Param description |
-| **description** | [string](../type/string.md) | Param description |
-| **photo** | [flags.0?InputWebDocument](../type/flags.0?InputWebDocument.md) | Param description |
-| **invoice** | [Invoice](../type/Invoice.md) | Param description |
-| **payload** | [bytes](../type/bytes.md) | Param description |
-| **provider** | [string](../type/string.md) | Param description |
-| **start_param** | [string](../type/string.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **title** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **description** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **photo** | flags.0?&lt;a href=&#34;../type/InputWebDocument.md&#34;&gt;InputWebDocument&lt;/a&gt; | Param description |
+| **invoice** | undefined&lt;a href=&#34;../type/Invoice.md&#34;&gt;Invoice&lt;/a&gt; | Param description |
+| **payload** | undefined&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
+| **provider** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **start_param** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[InputMedia](../type/InputMedia.md)
+undefined&lt;a href=&#34;../type/InputMedia.md&#34;&gt;InputMedia&lt;/a&gt;

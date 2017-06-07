@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.sentEncryptedMessage.md">messages.sentEncryptedMessage</a>#560f8935 date:<a href="../type/int.md">int</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
+<a href="../constructor/messages.sentEncryptedMessage.md">messages.sentEncryptedMessage</a>#560f8935 date:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **date** | [int](../type/int.md) | Param description |
+| **date** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[messages.SentEncryptedMessage](../type/messages.SentEncryptedMessage.md)
+undefined&lt;a href=&#34;../type/messages.SentEncryptedMessage.md&#34;&gt;messages.SentEncryptedMessage&lt;/a&gt;

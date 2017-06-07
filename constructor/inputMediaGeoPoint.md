@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputMediaGeoPoint.md">inputMediaGeoPoint</a>#f9c44144 geo_point:<a href="../type/InputGeoPoint.md">InputGeoPoint</a> = <a href="../type/InputMedia.md">InputMedia</a>;
+<a href="../constructor/inputMediaGeoPoint.md">inputMediaGeoPoint</a>#f9c44144 geo_point:undefined<a href="../type/InputGeoPoint.md">InputGeoPoint</a> = undefined<a href="../type/InputMedia.md">InputMedia</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **geo_point** | [InputGeoPoint](../type/InputGeoPoint.md) | Param description |
+| **geo_point** | undefined&lt;a href=&#34;../type/InputGeoPoint.md&#34;&gt;InputGeoPoint&lt;/a&gt; | Param description |
 
 ## Type
 
-[InputMedia](../type/InputMedia.md)
+undefined&lt;a href=&#34;../type/InputMedia.md&#34;&gt;InputMedia&lt;/a&gt;

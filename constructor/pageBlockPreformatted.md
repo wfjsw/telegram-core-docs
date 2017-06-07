@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/pageBlockPreformatted.md">pageBlockPreformatted</a>#c070d93e text:<a href="../type/RichText.md">RichText</a> language:<a href="../type/string.md">string</a> = <a href="../type/PageBlock.md">PageBlock</a>;
+<a href="../constructor/pageBlockPreformatted.md">pageBlockPreformatted</a>#c070d93e text:undefined<a href="../type/RichText.md">RichText</a> language:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/PageBlock.md">PageBlock</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **text** | [RichText](../type/RichText.md) | Param description |
-| **language** | [string](../type/string.md) | Param description |
+| **text** | undefined&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt; | Param description |
+| **language** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[PageBlock](../type/PageBlock.md)
+undefined&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;

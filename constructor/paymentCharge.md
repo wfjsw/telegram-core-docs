@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/paymentCharge.md">paymentCharge</a>#ea02c27e id:<a href="../type/string.md">string</a> provider_charge_id:<a href="../type/string.md">string</a> = <a href="../type/PaymentCharge.md">PaymentCharge</a>;
+<a href="../constructor/paymentCharge.md">paymentCharge</a>#ea02c27e id:undefined<a href="../type/string.md">string</a> provider_charge_id:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/PaymentCharge.md">PaymentCharge</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **id** | [string](../type/string.md) | Param description |
-| **provider_charge_id** | [string](../type/string.md) | Param description |
+| **id** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **provider_charge_id** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[PaymentCharge](../type/PaymentCharge.md)
+undefined&lt;a href=&#34;../type/PaymentCharge.md&#34;&gt;PaymentCharge&lt;/a&gt;

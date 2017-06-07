@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/peerChat.md">peerChat</a>#bad0e5bb chat_id:<a href="../type/int.md">int</a> = <a href="../type/Peer.md">Peer</a>;
+<a href="../constructor/peerChat.md">peerChat</a>#bad0e5bb chat_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/Peer.md">Peer</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **chat_id** | [int](../type/int.md) | Param description |
+| **chat_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[Peer](../type/Peer.md)
+undefined&lt;a href=&#34;../type/Peer.md&#34;&gt;Peer&lt;/a&gt;

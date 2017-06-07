@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/storage.fileMp3.md">storage.fileMp3</a>#528a0677 = <a href="../type/storage.FileType.md">storage.FileType</a>;
+<a href="../constructor/storage.fileMp3.md">storage.fileMp3</a>#528a0677 = undefined<a href="../type/storage.FileType.md">storage.FileType</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[storage.FileType](../type/storage.FileType.md)
+undefined&lt;a href=&#34;../type/storage.FileType.md&#34;&gt;storage.FileType&lt;/a&gt;

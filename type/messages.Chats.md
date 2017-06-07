@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.chats">messages.chats</a>#64ff9fd5 chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
-<a href="../constructor/messages.chatsSlice">messages.chatsSlice</a>#9cd81144 count:<a href="../type/int.md">int</a> chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../constructor/messages.chats">messages.chats</a>#64ff9fd5 chats:undefinedVector&lt;<a href="../type/Chat.md">Chat</a>&gt; = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../constructor/messages.chatsSlice">messages.chatsSlice</a>#9cd81144 count:undefined<a href="../type/int.md">int</a> chats:undefinedVector&lt;<a href="../type/Chat.md">Chat</a>&gt; = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
 
 ---functions---
-<a href="../method/messages.getChats">messages.getChats</a>#3c6aa187 id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
-<a href="../method/messages.getCommonChats">messages.getCommonChats</a>#d0a48c4 user_id:<a href="../type/InputUser.md">InputUser</a> max_id:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.Chats.md">messages.Chats</a>;
-<a href="../method/messages.getAllChats">messages.getAllChats</a>#eba80ff0 except_ids:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
-<a href="../method/channels.getChannels">channels.getChannels</a>#a7f6bbb id:Vector&lt;<a href="../type/InputChannel.md">InputChannel</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
-<a href="../method/channels.getAdminedPublicChannels">channels.getAdminedPublicChannels</a>#8d8d82d7 = <a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../method/messages.getChats">messages.getChats</a>#3c6aa187 id:undefinedVector&lt;<a href="../type/int.md">int</a>&gt; = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../method/messages.getCommonChats">messages.getCommonChats</a>#d0a48c4 user_id:undefined<a href="../type/InputUser.md">InputUser</a> max_id:undefined<a href="../type/int.md">int</a> limit:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../method/messages.getAllChats">messages.getAllChats</a>#eba80ff0 except_ids:undefinedVector&lt;<a href="../type/int.md">int</a>&gt; = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../method/channels.getChannels">channels.getChannels</a>#a7f6bbb id:undefinedVector&lt;<a href="../type/InputChannel.md">InputChannel</a>&gt; = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
+<a href="../method/channels.getAdminedPublicChannels">channels.getAdminedPublicChannels</a>#8d8d82d7 = undefined<a href="../type/messages.Chats.md">messages.Chats</a>;
 
 </pre>
 

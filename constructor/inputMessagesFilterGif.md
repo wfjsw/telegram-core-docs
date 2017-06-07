@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputMessagesFilterGif.md">inputMessagesFilterGif</a>#ffc86587 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
+<a href="../constructor/inputMessagesFilterGif.md">inputMessagesFilterGif</a>#ffc86587 = undefined<a href="../type/MessagesFilter.md">MessagesFilter</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[MessagesFilter](../type/MessagesFilter.md)
+undefined&lt;a href=&#34;../type/MessagesFilter.md&#34;&gt;MessagesFilter&lt;/a&gt;

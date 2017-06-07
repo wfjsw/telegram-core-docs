@@ -3,27 +3,27 @@
 Sample Description
 
 <pre>
-<a href="../constructor/botInlineResult.md">botInlineResult</a>#9bebaeb9 flags:<a href="../type/#.md">#</a> id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> title:<a href="../type/flags.1?string.md">flags.1?string</a> description:<a href="../type/flags.2?string.md">flags.2?string</a> url:<a href="../type/flags.3?string.md">flags.3?string</a> thumb_url:<a href="../type/flags.4?string.md">flags.4?string</a> content_url:<a href="../type/flags.5?string.md">flags.5?string</a> content_type:<a href="../type/flags.5?string.md">flags.5?string</a> w:<a href="../type/flags.6?int.md">flags.6?int</a> h:<a href="../type/flags.6?int.md">flags.6?int</a> duration:<a href="../type/flags.7?int.md">flags.7?int</a> send_message:<a href="../type/BotInlineMessage.md">BotInlineMessage</a> = <a href="../type/BotInlineResult.md">BotInlineResult</a>;
+<a href="../constructor/botInlineResult.md">botInlineResult</a>#9bebaeb9 flags:undefined<a href="../type/#.md">#</a> id:undefined<a href="../type/string.md">string</a> type:undefined<a href="../type/string.md">string</a> title:flags.1?<a href="../type/string.md">string</a> description:flags.2?<a href="../type/string.md">string</a> url:flags.3?<a href="../type/string.md">string</a> thumb_url:flags.4?<a href="../type/string.md">string</a> content_url:flags.5?<a href="../type/string.md">string</a> content_type:flags.5?<a href="../type/string.md">string</a> w:flags.6?<a href="../type/int.md">int</a> h:flags.6?<a href="../type/int.md">int</a> duration:flags.7?<a href="../type/int.md">int</a> send_message:undefined<a href="../type/BotInlineMessage.md">BotInlineMessage</a> = undefined<a href="../type/BotInlineResult.md">BotInlineResult</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **id** | [string](../type/string.md) | Param description |
-| **type** | [string](../type/string.md) | Param description |
-| **title** | [flags.1?string](../type/flags.1?string.md) | Param description |
-| **description** | [flags.2?string](../type/flags.2?string.md) | Param description |
-| **url** | [flags.3?string](../type/flags.3?string.md) | Param description |
-| **thumb_url** | [flags.4?string](../type/flags.4?string.md) | Param description |
-| **content_url** | [flags.5?string](../type/flags.5?string.md) | Param description |
-| **content_type** | [flags.5?string](../type/flags.5?string.md) | Param description |
-| **w** | [flags.6?int](../type/flags.6?int.md) | Param description |
-| **h** | [flags.6?int](../type/flags.6?int.md) | Param description |
-| **duration** | [flags.7?int](../type/flags.7?int.md) | Param description |
-| **send_message** | [BotInlineMessage](../type/BotInlineMessage.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **id** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **type** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **title** | flags.1?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **description** | flags.2?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **url** | flags.3?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **thumb_url** | flags.4?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **content_url** | flags.5?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **content_type** | flags.5?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **w** | flags.6?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **h** | flags.6?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **duration** | flags.7?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **send_message** | undefined&lt;a href=&#34;../type/BotInlineMessage.md&#34;&gt;BotInlineMessage&lt;/a&gt; | Param description |
 
 ## Type
 
-[BotInlineResult](../type/BotInlineResult.md)
+undefined&lt;a href=&#34;../type/BotInlineResult.md&#34;&gt;BotInlineResult&lt;/a&gt;

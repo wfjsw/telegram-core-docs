@@ -3,19 +3,19 @@
 Sample Description
 
 <pre>
-<a href="../constructor/peerNotifySettings.md">peerNotifySettings</a>#9acda4c0 flags:<a href="../type/#.md">#</a> show_previews:<a href="../type/flags.0?true.md">flags.0?true</a> silent:<a href="../type/flags.1?true.md">flags.1?true</a> mute_until:<a href="../type/int.md">int</a> sound:<a href="../type/string.md">string</a> = <a href="../type/PeerNotifySettings.md">PeerNotifySettings</a>;
+<a href="../constructor/peerNotifySettings.md">peerNotifySettings</a>#9acda4c0 flags:undefined<a href="../type/#.md">#</a> show_previews:flags.0?<a href="../type/true.md">true</a> silent:flags.1?<a href="../type/true.md">true</a> mute_until:undefined<a href="../type/int.md">int</a> sound:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/PeerNotifySettings.md">PeerNotifySettings</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **show_previews** | [flags.0?true](../type/flags.0?true.md) | Param description |
-| **silent** | [flags.1?true](../type/flags.1?true.md) | Param description |
-| **mute_until** | [int](../type/int.md) | Param description |
-| **sound** | [string](../type/string.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **show_previews** | flags.0?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **silent** | flags.1?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **mute_until** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **sound** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[PeerNotifySettings](../type/PeerNotifySettings.md)
+undefined&lt;a href=&#34;../type/PeerNotifySettings.md&#34;&gt;PeerNotifySettings&lt;/a&gt;

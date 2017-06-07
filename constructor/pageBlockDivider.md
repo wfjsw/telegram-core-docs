@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/pageBlockDivider.md">pageBlockDivider</a>#db20b188 = <a href="../type/PageBlock.md">PageBlock</a>;
+<a href="../constructor/pageBlockDivider.md">pageBlockDivider</a>#db20b188 = undefined<a href="../type/PageBlock.md">PageBlock</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[PageBlock](../type/PageBlock.md)
+undefined&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;

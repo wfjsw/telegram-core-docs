@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/geoPoint.md">geoPoint</a>#2049d70c long:<a href="../type/double.md">double</a> lat:<a href="../type/double.md">double</a> = <a href="../type/GeoPoint.md">GeoPoint</a>;
+<a href="../constructor/geoPoint.md">geoPoint</a>#2049d70c long:undefined<a href="../type/double.md">double</a> lat:undefined<a href="../type/double.md">double</a> = undefined<a href="../type/GeoPoint.md">GeoPoint</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **long** | [double](../type/double.md) | Param description |
-| **lat** | [double](../type/double.md) | Param description |
+| **long** | undefined&lt;a href=&#34;../type/double.md&#34;&gt;double&lt;/a&gt; | Param description |
+| **lat** | undefined&lt;a href=&#34;../type/double.md&#34;&gt;double&lt;/a&gt; | Param description |
 
 ## Type
 
-[GeoPoint](../type/GeoPoint.md)
+undefined&lt;a href=&#34;../type/GeoPoint.md&#34;&gt;GeoPoint&lt;/a&gt;

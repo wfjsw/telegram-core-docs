@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageMediaUnsupported.md">messageMediaUnsupported</a>#9f84f49e = <a href="../type/MessageMedia.md">MessageMedia</a>;
+<a href="../constructor/messageMediaUnsupported.md">messageMediaUnsupported</a>#9f84f49e = undefined<a href="../type/MessageMedia.md">MessageMedia</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[MessageMedia](../type/MessageMedia.md)
+undefined&lt;a href=&#34;../type/MessageMedia.md&#34;&gt;MessageMedia&lt;/a&gt;

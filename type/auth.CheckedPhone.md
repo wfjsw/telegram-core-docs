@@ -3,10 +3,10 @@
 Sample Description
 
 <pre>
-<a href="../constructor/auth.checkedPhone">auth.checkedPhone</a>#811ea28e phone_registered:<a href="../type/Bool.md">Bool</a> = <a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
+<a href="../constructor/auth.checkedPhone">auth.checkedPhone</a>#811ea28e phone_registered:undefined<a href="../type/Bool.md">Bool</a> = undefined<a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
 
 ---functions---
-<a href="../method/auth.checkPhone">auth.checkPhone</a>#6fe51dfb phone_number:<a href="../type/string.md">string</a> = <a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
+<a href="../method/auth.checkPhone">auth.checkPhone</a>#6fe51dfb phone_number:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
 
 </pre>
 

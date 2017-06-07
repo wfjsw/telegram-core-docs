@@ -3,18 +3,18 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.dhConfig.md">messages.dhConfig</a>#2c221edd g:<a href="../type/int.md">int</a> p:<a href="../type/bytes.md">bytes</a> version:<a href="../type/int.md">int</a> random:<a href="../type/bytes.md">bytes</a> = <a href="../type/messages.DhConfig.md">messages.DhConfig</a>;
+<a href="../constructor/messages.dhConfig.md">messages.dhConfig</a>#2c221edd g:undefined<a href="../type/int.md">int</a> p:undefined<a href="../type/bytes.md">bytes</a> version:undefined<a href="../type/int.md">int</a> random:undefined<a href="../type/bytes.md">bytes</a> = undefined<a href="../type/messages.DhConfig.md">messages.DhConfig</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **g** | [int](../type/int.md) | Param description |
-| **p** | [bytes](../type/bytes.md) | Param description |
-| **version** | [int](../type/int.md) | Param description |
-| **random** | [bytes](../type/bytes.md) | Param description |
+| **g** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **p** | undefined&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
+| **version** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **random** | undefined&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
 
 ## Type
 
-[messages.DhConfig](../type/messages.DhConfig.md)
+undefined&lt;a href=&#34;../type/messages.DhConfig.md&#34;&gt;messages.DhConfig&lt;/a&gt;

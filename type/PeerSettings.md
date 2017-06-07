@@ -3,10 +3,10 @@
 Sample Description
 
 <pre>
-<a href="../constructor/peerSettings">peerSettings</a>#818426cd flags:<a href="../type/#.md">#</a> report_spam:<a href="../type/flags.0?true.md">flags.0?true</a> = <a href="../type/PeerSettings.md">PeerSettings</a>;
+<a href="../constructor/peerSettings">peerSettings</a>#818426cd flags:undefined<a href="../type/#.md">#</a> report_spam:flags.0?<a href="../type/true.md">true</a> = undefined<a href="../type/PeerSettings.md">PeerSettings</a>;
 
 ---functions---
-<a href="../method/messages.getPeerSettings">messages.getPeerSettings</a>#3672e09c peer:<a href="../type/InputPeer.md">InputPeer</a> = <a href="../type/PeerSettings.md">PeerSettings</a>;
+<a href="../method/messages.getPeerSettings">messages.getPeerSettings</a>#3672e09c peer:undefined<a href="../type/InputPeer.md">InputPeer</a> = undefined<a href="../type/PeerSettings.md">PeerSettings</a>;
 
 </pre>
 

@@ -5,7 +5,7 @@ Sample Description
 <pre>
 
 ---functions---
-<a href="../method/account.getWallPapers.md">account.getWallPapers</a>#c04cfac2 = <a href="../type/Vector<WallPaper>.md">Vector<WallPaper></a>;
+<a href="../method/account.getWallPapers.md">account.getWallPapers</a>#c04cfac2 = undefinedVector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;;
 </pre>
 
 ## Parameters
@@ -14,6 +14,8 @@ Sample Description
 |------|:----:|-------------|
 
 ## Result
+
+Returns undefinedVector&amp;lt;&lt;a href=&#34;../type/WallPaper.md&#34;&gt;WallPaper&lt;/a&gt;&amp;gt;
 
 Describe the result
 

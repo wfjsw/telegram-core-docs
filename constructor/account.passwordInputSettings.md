@@ -3,19 +3,19 @@
 Sample Description
 
 <pre>
-<a href="../constructor/account.passwordInputSettings.md">account.passwordInputSettings</a>#86916deb flags:<a href="../type/#.md">#</a> new_salt:<a href="../type/flags.0?bytes.md">flags.0?bytes</a> new_password_hash:<a href="../type/flags.0?bytes.md">flags.0?bytes</a> hint:<a href="../type/flags.0?string.md">flags.0?string</a> email:<a href="../type/flags.1?string.md">flags.1?string</a> = <a href="../type/account.PasswordInputSettings.md">account.PasswordInputSettings</a>;
+<a href="../constructor/account.passwordInputSettings.md">account.passwordInputSettings</a>#86916deb flags:undefined<a href="../type/#.md">#</a> new_salt:flags.0?<a href="../type/bytes.md">bytes</a> new_password_hash:flags.0?<a href="../type/bytes.md">bytes</a> hint:flags.0?<a href="../type/string.md">string</a> email:flags.1?<a href="../type/string.md">string</a> = undefined<a href="../type/account.PasswordInputSettings.md">account.PasswordInputSettings</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **new_salt** | [flags.0?bytes](../type/flags.0?bytes.md) | Param description |
-| **new_password_hash** | [flags.0?bytes](../type/flags.0?bytes.md) | Param description |
-| **hint** | [flags.0?string](../type/flags.0?string.md) | Param description |
-| **email** | [flags.1?string](../type/flags.1?string.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **new_salt** | flags.0?&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
+| **new_password_hash** | flags.0?&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
+| **hint** | flags.0?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **email** | flags.1?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[account.PasswordInputSettings](../type/account.PasswordInputSettings.md)
+undefined&lt;a href=&#34;../type/account.PasswordInputSettings.md&#34;&gt;account.PasswordInputSettings&lt;/a&gt;

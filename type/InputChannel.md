@@ -3,8 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputChannelEmpty">inputChannelEmpty</a>#ee8c1e86 = <a href="../type/InputChannel.md">InputChannel</a>;
-<a href="../constructor/inputChannel">inputChannel</a>#afeb712e channel_id:<a href="../type/int.md">int</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputChannel.md">InputChannel</a>;
+<a href="../constructor/inputChannelEmpty">inputChannelEmpty</a>#ee8c1e86 = undefined<a href="../type/InputChannel.md">InputChannel</a>;
+<a href="../constructor/inputChannel">inputChannel</a>#afeb712e channel_id:undefined<a href="../type/int.md">int</a> access_hash:undefined<a href="../type/long.md">long</a> = undefined<a href="../type/InputChannel.md">InputChannel</a>;
 
 </pre>
 

@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPhotoEmpty.md">inputPhotoEmpty</a>#1cd7bf0d = <a href="../type/InputPhoto.md">InputPhoto</a>;
+<a href="../constructor/inputPhotoEmpty.md">inputPhotoEmpty</a>#1cd7bf0d = undefined<a href="../type/InputPhoto.md">InputPhoto</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[InputPhoto](../type/InputPhoto.md)
+undefined&lt;a href=&#34;../type/InputPhoto.md&#34;&gt;InputPhoto&lt;/a&gt;

@@ -3,17 +3,17 @@
 Sample Description
 
 <pre>
-<a href="../constructor/botInlineMessageMediaGeo.md">botInlineMessageMediaGeo</a>#3a8fd8b8 flags:<a href="../type/#.md">#</a> geo:<a href="../type/GeoPoint.md">GeoPoint</a> reply_markup:<a href="../type/flags.2?ReplyMarkup.md">flags.2?ReplyMarkup</a> = <a href="../type/BotInlineMessage.md">BotInlineMessage</a>;
+<a href="../constructor/botInlineMessageMediaGeo.md">botInlineMessageMediaGeo</a>#3a8fd8b8 flags:undefined<a href="../type/#.md">#</a> geo:undefined<a href="../type/GeoPoint.md">GeoPoint</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = undefined<a href="../type/BotInlineMessage.md">BotInlineMessage</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **geo** | [GeoPoint](../type/GeoPoint.md) | Param description |
-| **reply_markup** | [flags.2?ReplyMarkup](../type/flags.2?ReplyMarkup.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **geo** | undefined&lt;a href=&#34;../type/GeoPoint.md&#34;&gt;GeoPoint&lt;/a&gt; | Param description |
+| **reply_markup** | flags.2?&lt;a href=&#34;../type/ReplyMarkup.md&#34;&gt;ReplyMarkup&lt;/a&gt; | Param description |
 
 ## Type
 
-[BotInlineMessage](../type/BotInlineMessage.md)
+undefined&lt;a href=&#34;../type/BotInlineMessage.md&#34;&gt;BotInlineMessage&lt;/a&gt;

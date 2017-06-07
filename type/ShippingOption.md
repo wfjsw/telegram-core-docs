@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/shippingOption">shippingOption</a>#b6213cdf id:<a href="../type/string.md">string</a> title:<a href="../type/string.md">string</a> prices:Vector&lt;<a href="../type/LabeledPrice.md">LabeledPrice</a>&gt; = <a href="../type/ShippingOption.md">ShippingOption</a>;
+<a href="../constructor/shippingOption">shippingOption</a>#b6213cdf id:undefined<a href="../type/string.md">string</a> title:undefined<a href="../type/string.md">string</a> prices:undefinedVector&lt;<a href="../type/LabeledPrice.md">LabeledPrice</a>&gt; = undefined<a href="../type/ShippingOption.md">ShippingOption</a>;
 
 </pre>
 

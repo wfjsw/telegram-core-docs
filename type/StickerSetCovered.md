@@ -3,8 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/stickerSetCovered">stickerSetCovered</a>#6410a5d2 set:<a href="../type/StickerSet.md">StickerSet</a> cover:<a href="../type/Document.md">Document</a> = <a href="../type/StickerSetCovered.md">StickerSetCovered</a>;
-<a href="../constructor/stickerSetMultiCovered">stickerSetMultiCovered</a>#3407e51b set:<a href="../type/StickerSet.md">StickerSet</a> covers:Vector&lt;<a href="../type/Document.md">Document</a>&gt; = <a href="../type/StickerSetCovered.md">StickerSetCovered</a>;
+<a href="../constructor/stickerSetCovered">stickerSetCovered</a>#6410a5d2 set:undefined<a href="../type/StickerSet.md">StickerSet</a> cover:undefined<a href="../type/Document.md">Document</a> = undefined<a href="../type/StickerSetCovered.md">StickerSetCovered</a>;
+<a href="../constructor/stickerSetMultiCovered">stickerSetMultiCovered</a>#3407e51b set:undefined<a href="../type/StickerSet.md">StickerSet</a> covers:undefinedVector&lt;<a href="../type/Document.md">Document</a>&gt; = undefined<a href="../type/StickerSetCovered.md">StickerSetCovered</a>;
 
 </pre>
 

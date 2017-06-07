@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/chatInviteEmpty.md">chatInviteEmpty</a>#69df3769 = <a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;
+<a href="../constructor/chatInviteEmpty.md">chatInviteEmpty</a>#69df3769 = undefined<a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[ExportedChatInvite](../type/ExportedChatInvite.md)
+undefined&lt;a href=&#34;../type/ExportedChatInvite.md&#34;&gt;ExportedChatInvite&lt;/a&gt;

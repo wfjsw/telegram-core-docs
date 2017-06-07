@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageActionChatEditPhoto.md">messageActionChatEditPhoto</a>#7fcb13a8 photo:<a href="../type/Photo.md">Photo</a> = <a href="../type/MessageAction.md">MessageAction</a>;
+<a href="../constructor/messageActionChatEditPhoto.md">messageActionChatEditPhoto</a>#7fcb13a8 photo:undefined<a href="../type/Photo.md">Photo</a> = undefined<a href="../type/MessageAction.md">MessageAction</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **photo** | [Photo](../type/Photo.md) | Param description |
+| **photo** | undefined&lt;a href=&#34;../type/Photo.md&#34;&gt;Photo&lt;/a&gt; | Param description |
 
 ## Type
 
-[MessageAction](../type/MessageAction.md)
+undefined&lt;a href=&#34;../type/MessageAction.md&#34;&gt;MessageAction&lt;/a&gt;

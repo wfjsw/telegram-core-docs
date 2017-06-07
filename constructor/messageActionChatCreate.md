@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageActionChatCreate.md">messageActionChatCreate</a>#a6638b9a title:<a href="../type/string.md">string</a> users:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/MessageAction.md">MessageAction</a>;
+<a href="../constructor/messageActionChatCreate.md">messageActionChatCreate</a>#a6638b9a title:undefined<a href="../type/string.md">string</a> users:undefinedVector&lt;<a href="../type/int.md">int</a>&gt; = undefined<a href="../type/MessageAction.md">MessageAction</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **title** | [string](../type/string.md) | Param description |
-| **users** | Vector<[int](../type/int.md) | Param description |
+| **title** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **users** | undefinedVector&amp;lt;&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[MessageAction](../type/MessageAction.md)
+undefined&lt;a href=&#34;../type/MessageAction.md&#34;&gt;MessageAction&lt;/a&gt;

@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/keyboardButtonRequestPhone.md">keyboardButtonRequestPhone</a>#b16a6c29 text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonRequestPhone.md">keyboardButtonRequestPhone</a>#b16a6c29 text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **text** | [string](../type/string.md) | Param description |
+| **text** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[KeyboardButton](../type/KeyboardButton.md)
+undefined&lt;a href=&#34;../type/KeyboardButton.md&#34;&gt;KeyboardButton&lt;/a&gt;

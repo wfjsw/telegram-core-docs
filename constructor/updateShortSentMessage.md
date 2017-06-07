@@ -3,22 +3,22 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateShortSentMessage.md">updateShortSentMessage</a>#11f1331c flags:<a href="../type/#.md">#</a> out:<a href="../type/flags.1?true.md">flags.1?true</a> id:<a href="../type/int.md">int</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> media:<a href="../type/flags.9?MessageMedia.md">flags.9?MessageMedia</a> entities:Vector&lt;<a href="../type/flags.7?Vector.md">flags.7?Vector</a>&gt; = <a href="../type/Updates.md">Updates</a>;
+<a href="../constructor/updateShortSentMessage.md">updateShortSentMessage</a>#11f1331c flags:undefined<a href="../type/#.md">#</a> out:flags.1?<a href="../type/true.md">true</a> id:undefined<a href="../type/int.md">int</a> pts:undefined<a href="../type/int.md">int</a> pts_count:undefined<a href="../type/int.md">int</a> date:undefined<a href="../type/int.md">int</a> media:flags.9?<a href="../type/MessageMedia.md">MessageMedia</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = undefined<a href="../type/Updates.md">Updates</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **out** | [flags.1?true](../type/flags.1?true.md) | Param description |
-| **id** | [int](../type/int.md) | Param description |
-| **pts** | [int](../type/int.md) | Param description |
-| **pts_count** | [int](../type/int.md) | Param description |
-| **date** | [int](../type/int.md) | Param description |
-| **media** | [flags.9?MessageMedia](../type/flags.9?MessageMedia.md) | Param description |
-| **entities** | Vector<[flags.7?Vector](../type/flags.7?Vector.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **out** | flags.1?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **pts** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **pts_count** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **date** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **media** | flags.9?&lt;a href=&#34;../type/MessageMedia.md&#34;&gt;MessageMedia&lt;/a&gt; | Param description |
+| **entities** | flags.7?Vector&amp;lt;&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[Updates](../type/Updates.md)
+undefined&lt;a href=&#34;../type/Updates.md&#34;&gt;Updates&lt;/a&gt;

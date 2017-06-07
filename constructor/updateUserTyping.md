@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateUserTyping.md">updateUserTyping</a>#5c486927 user_id:<a href="../type/int.md">int</a> action:<a href="../type/SendMessageAction.md">SendMessageAction</a> = <a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateUserTyping.md">updateUserTyping</a>#5c486927 user_id:undefined<a href="../type/int.md">int</a> action:undefined<a href="../type/SendMessageAction.md">SendMessageAction</a> = undefined<a href="../type/Update.md">Update</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **user_id** | [int](../type/int.md) | Param description |
-| **action** | [SendMessageAction](../type/SendMessageAction.md) | Param description |
+| **user_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **action** | undefined&lt;a href=&#34;../type/SendMessageAction.md&#34;&gt;SendMessageAction&lt;/a&gt; | Param description |
 
 ## Type
 
-[Update](../type/Update.md)
+undefined&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;

@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/auth.checkedPhone.md">auth.checkedPhone</a>#811ea28e phone_registered:<a href="../type/Bool.md">Bool</a> = <a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
+<a href="../constructor/auth.checkedPhone.md">auth.checkedPhone</a>#811ea28e phone_registered:undefined<a href="../type/Bool.md">Bool</a> = undefined<a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **phone_registered** | [Bool](../type/Bool.md) | Param description |
+| **phone_registered** | undefined&lt;a href=&#34;../type/Bool.md&#34;&gt;Bool&lt;/a&gt; | Param description |
 
 ## Type
 
-[auth.CheckedPhone](../type/auth.CheckedPhone.md)
+undefined&lt;a href=&#34;../type/auth.CheckedPhone.md&#34;&gt;auth.CheckedPhone&lt;/a&gt;

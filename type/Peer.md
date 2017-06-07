@@ -3,9 +3,9 @@
 Sample Description
 
 <pre>
-<a href="../constructor/peerUser">peerUser</a>#9db1bc6d user_id:<a href="../type/int.md">int</a> = <a href="../type/Peer.md">Peer</a>;
-<a href="../constructor/peerChat">peerChat</a>#bad0e5bb chat_id:<a href="../type/int.md">int</a> = <a href="../type/Peer.md">Peer</a>;
-<a href="../constructor/peerChannel">peerChannel</a>#bddde532 channel_id:<a href="../type/int.md">int</a> = <a href="../type/Peer.md">Peer</a>;
+<a href="../constructor/peerUser">peerUser</a>#9db1bc6d user_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/Peer.md">Peer</a>;
+<a href="../constructor/peerChat">peerChat</a>#bad0e5bb chat_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/Peer.md">Peer</a>;
+<a href="../constructor/peerChannel">peerChannel</a>#bddde532 channel_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/Peer.md">Peer</a>;
 
 </pre>
 

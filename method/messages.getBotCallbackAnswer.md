@@ -3,23 +3,25 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.botCallbackAnswer">messages.botCallbackAnswer</a>#36585ea4 flags:<a href="../type/#.md">#</a> alert:<a href="../type/flags.1?true.md">flags.1?true</a> has_url:<a href="../type/flags.3?true.md">flags.3?true</a> message:<a href="../type/flags.0?string.md">flags.0?string</a> url:<a href="../type/flags.2?string.md">flags.2?string</a> cache_time:<a href="../type/int.md">int</a> = <a href="../type/messages.BotCallbackAnswer.md">messages.BotCallbackAnswer</a>;
+<a href="../constructor/messages.botCallbackAnswer">messages.botCallbackAnswer</a>#36585ea4 flags:undefined<a href="../type/#.md">#</a> alert:flags.1?<a href="../type/true.md">true</a> has_url:flags.3?<a href="../type/true.md">true</a> message:flags.0?<a href="../type/string.md">string</a> url:flags.2?<a href="../type/string.md">string</a> cache_time:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/messages.BotCallbackAnswer.md">messages.BotCallbackAnswer</a>;
 
 ---functions---
-<a href="../method/messages.getBotCallbackAnswer.md">messages.getBotCallbackAnswer</a>#810a9fec flags:<a href="../type/#.md">#</a> game:<a href="../type/flags.1?true.md">flags.1?true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> msg_id:<a href="../type/int.md">int</a> data:<a href="../type/flags.0?bytes.md">flags.0?bytes</a> = <a href="../type/messages.BotCallbackAnswer.md">messages.BotCallbackAnswer</a>;
+<a href="../method/messages.getBotCallbackAnswer.md">messages.getBotCallbackAnswer</a>#810a9fec flags:undefined<a href="../type/#.md">#</a> game:flags.1?<a href="../type/true.md">true</a> peer:undefined<a href="../type/InputPeer.md">InputPeer</a> msg_id:undefined<a href="../type/int.md">int</a> data:flags.0?<a href="../type/bytes.md">bytes</a> = undefined<a href="../type/messages.BotCallbackAnswer.md">messages.BotCallbackAnswer</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **game** | [flags.1?true](../type/flags.1?true.md) | Param description |
-| **peer** | [InputPeer](../type/InputPeer.md) | Param description |
-| **msg_id** | [int](../type/int.md) | Param description |
-| **data** | [flags.0?bytes](../type/flags.0?bytes.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **game** | flags.1?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **peer** | undefined&lt;a href=&#34;../type/InputPeer.md&#34;&gt;InputPeer&lt;/a&gt; | Param description |
+| **msg_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **data** | flags.0?&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
 
 ## Result
+
+Returns undefined&lt;a href=&#34;../type/messages.BotCallbackAnswer.md&#34;&gt;messages.BotCallbackAnswer&lt;/a&gt;
 
 Describe the result
 

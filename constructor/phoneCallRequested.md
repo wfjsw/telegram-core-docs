@@ -3,21 +3,21 @@
 Sample Description
 
 <pre>
-<a href="../constructor/phoneCallRequested.md">phoneCallRequested</a>#83761ce4 id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> date:<a href="../type/int.md">int</a> admin_id:<a href="../type/int.md">int</a> participant_id:<a href="../type/int.md">int</a> g_a_hash:<a href="../type/bytes.md">bytes</a> protocol:<a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a> = <a href="../type/PhoneCall.md">PhoneCall</a>;
+<a href="../constructor/phoneCallRequested.md">phoneCallRequested</a>#83761ce4 id:undefined<a href="../type/long.md">long</a> access_hash:undefined<a href="../type/long.md">long</a> date:undefined<a href="../type/int.md">int</a> admin_id:undefined<a href="../type/int.md">int</a> participant_id:undefined<a href="../type/int.md">int</a> g_a_hash:undefined<a href="../type/bytes.md">bytes</a> protocol:undefined<a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a> = undefined<a href="../type/PhoneCall.md">PhoneCall</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **id** | [long](../type/long.md) | Param description |
-| **access_hash** | [long](../type/long.md) | Param description |
-| **date** | [int](../type/int.md) | Param description |
-| **admin_id** | [int](../type/int.md) | Param description |
-| **participant_id** | [int](../type/int.md) | Param description |
-| **g_a_hash** | [bytes](../type/bytes.md) | Param description |
-| **protocol** | [PhoneCallProtocol](../type/PhoneCallProtocol.md) | Param description |
+| **id** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
+| **access_hash** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
+| **date** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **admin_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **participant_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **g_a_hash** | undefined&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
+| **protocol** | undefined&lt;a href=&#34;../type/PhoneCallProtocol.md&#34;&gt;PhoneCallProtocol&lt;/a&gt; | Param description |
 
 ## Type
 
-[PhoneCall](../type/PhoneCall.md)
+undefined&lt;a href=&#34;../type/PhoneCall.md&#34;&gt;PhoneCall&lt;/a&gt;

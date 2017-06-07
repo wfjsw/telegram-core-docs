@@ -3,22 +3,22 @@
 Sample Description
 
 <pre>
-<a href="../constructor/botInlineMediaResult.md">botInlineMediaResult</a>#17db940b flags:<a href="../type/#.md">#</a> id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> photo:<a href="../type/flags.0?Photo.md">flags.0?Photo</a> document:<a href="../type/flags.1?Document.md">flags.1?Document</a> title:<a href="../type/flags.2?string.md">flags.2?string</a> description:<a href="../type/flags.3?string.md">flags.3?string</a> send_message:<a href="../type/BotInlineMessage.md">BotInlineMessage</a> = <a href="../type/BotInlineResult.md">BotInlineResult</a>;
+<a href="../constructor/botInlineMediaResult.md">botInlineMediaResult</a>#17db940b flags:undefined<a href="../type/#.md">#</a> id:undefined<a href="../type/string.md">string</a> type:undefined<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/Photo.md">Photo</a> document:flags.1?<a href="../type/Document.md">Document</a> title:flags.2?<a href="../type/string.md">string</a> description:flags.3?<a href="../type/string.md">string</a> send_message:undefined<a href="../type/BotInlineMessage.md">BotInlineMessage</a> = undefined<a href="../type/BotInlineResult.md">BotInlineResult</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **id** | [string](../type/string.md) | Param description |
-| **type** | [string](../type/string.md) | Param description |
-| **photo** | [flags.0?Photo](../type/flags.0?Photo.md) | Param description |
-| **document** | [flags.1?Document](../type/flags.1?Document.md) | Param description |
-| **title** | [flags.2?string](../type/flags.2?string.md) | Param description |
-| **description** | [flags.3?string](../type/flags.3?string.md) | Param description |
-| **send_message** | [BotInlineMessage](../type/BotInlineMessage.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **id** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **type** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **photo** | flags.0?&lt;a href=&#34;../type/Photo.md&#34;&gt;Photo&lt;/a&gt; | Param description |
+| **document** | flags.1?&lt;a href=&#34;../type/Document.md&#34;&gt;Document&lt;/a&gt; | Param description |
+| **title** | flags.2?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **description** | flags.3?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **send_message** | undefined&lt;a href=&#34;../type/BotInlineMessage.md&#34;&gt;BotInlineMessage&lt;/a&gt; | Param description |
 
 ## Type
 
-[BotInlineResult](../type/BotInlineResult.md)
+undefined&lt;a href=&#34;../type/BotInlineResult.md&#34;&gt;BotInlineResult&lt;/a&gt;

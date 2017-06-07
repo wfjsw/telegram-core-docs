@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPeerNotifySettings">inputPeerNotifySettings</a>#38935eb2 flags:<a href="../type/#.md">#</a> show_previews:<a href="../type/flags.0?true.md">flags.0?true</a> silent:<a href="../type/flags.1?true.md">flags.1?true</a> mute_until:<a href="../type/int.md">int</a> sound:<a href="../type/string.md">string</a> = <a href="../type/InputPeerNotifySettings.md">InputPeerNotifySettings</a>;
+<a href="../constructor/inputPeerNotifySettings">inputPeerNotifySettings</a>#38935eb2 flags:undefined<a href="../type/#.md">#</a> show_previews:flags.0?<a href="../type/true.md">true</a> silent:flags.1?<a href="../type/true.md">true</a> mute_until:undefined<a href="../type/int.md">int</a> sound:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/InputPeerNotifySettings.md">InputPeerNotifySettings</a>;
 
 </pre>
 

@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/privacyValueDisallowUsers.md">privacyValueDisallowUsers</a>#c7f49b7 users:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/PrivacyRule.md">PrivacyRule</a>;
+<a href="../constructor/privacyValueDisallowUsers.md">privacyValueDisallowUsers</a>#c7f49b7 users:undefinedVector&lt;<a href="../type/int.md">int</a>&gt; = undefined<a href="../type/PrivacyRule.md">PrivacyRule</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **users** | Vector<[int](../type/int.md) | Param description |
+| **users** | undefinedVector&amp;lt;&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[PrivacyRule](../type/PrivacyRule.md)
+undefined&lt;a href=&#34;../type/PrivacyRule.md&#34;&gt;PrivacyRule&lt;/a&gt;

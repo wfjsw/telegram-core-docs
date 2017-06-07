@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputStickerSetEmpty.md">inputStickerSetEmpty</a>#ffb62b95 = <a href="../type/InputStickerSet.md">InputStickerSet</a>;
+<a href="../constructor/inputStickerSetEmpty.md">inputStickerSetEmpty</a>#ffb62b95 = undefined<a href="../type/InputStickerSet.md">InputStickerSet</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[InputStickerSet](../type/InputStickerSet.md)
+undefined&lt;a href=&#34;../type/InputStickerSet.md&#34;&gt;InputStickerSet&lt;/a&gt;

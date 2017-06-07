@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageRange.md">messageRange</a>#ae30253 min_id:<a href="../type/int.md">int</a> max_id:<a href="../type/int.md">int</a> = <a href="../type/MessageRange.md">MessageRange</a>;
+<a href="../constructor/messageRange.md">messageRange</a>#ae30253 min_id:undefined<a href="../type/int.md">int</a> max_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageRange.md">MessageRange</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **min_id** | [int](../type/int.md) | Param description |
-| **max_id** | [int](../type/int.md) | Param description |
+| **min_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **max_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[MessageRange](../type/MessageRange.md)
+undefined&lt;a href=&#34;../type/MessageRange.md&#34;&gt;MessageRange&lt;/a&gt;

@@ -3,9 +3,9 @@
 Sample Description
 
 <pre>
-<a href="../constructor/chatParticipant">chatParticipant</a>#c8d7493e user_id:<a href="../type/int.md">int</a> inviter_id:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> = <a href="../type/ChatParticipant.md">ChatParticipant</a>;
-<a href="../constructor/chatParticipantCreator">chatParticipantCreator</a>#da13538a user_id:<a href="../type/int.md">int</a> = <a href="../type/ChatParticipant.md">ChatParticipant</a>;
-<a href="../constructor/chatParticipantAdmin">chatParticipantAdmin</a>#e2d6e436 user_id:<a href="../type/int.md">int</a> inviter_id:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> = <a href="../type/ChatParticipant.md">ChatParticipant</a>;
+<a href="../constructor/chatParticipant">chatParticipant</a>#c8d7493e user_id:undefined<a href="../type/int.md">int</a> inviter_id:undefined<a href="../type/int.md">int</a> date:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/ChatParticipant.md">ChatParticipant</a>;
+<a href="../constructor/chatParticipantCreator">chatParticipantCreator</a>#da13538a user_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/ChatParticipant.md">ChatParticipant</a>;
+<a href="../constructor/chatParticipantAdmin">chatParticipantAdmin</a>#e2d6e436 user_id:undefined<a href="../type/int.md">int</a> inviter_id:undefined<a href="../type/int.md">int</a> date:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/ChatParticipant.md">ChatParticipant</a>;
 
 </pre>
 

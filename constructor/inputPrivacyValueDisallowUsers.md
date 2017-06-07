@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPrivacyValueDisallowUsers.md">inputPrivacyValueDisallowUsers</a>#90110467 users:Vector&lt;<a href="../type/InputUser.md">InputUser</a>&gt; = <a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
+<a href="../constructor/inputPrivacyValueDisallowUsers.md">inputPrivacyValueDisallowUsers</a>#90110467 users:undefinedVector&lt;<a href="../type/InputUser.md">InputUser</a>&gt; = undefined<a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **users** | Vector<[InputUser](../type/InputUser.md) | Param description |
+| **users** | undefinedVector&amp;lt;&lt;a href=&#34;../type/InputUser.md&#34;&gt;InputUser&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[InputPrivacyRule](../type/InputPrivacyRule.md)
+undefined&lt;a href=&#34;../type/InputPrivacyRule.md&#34;&gt;InputPrivacyRule&lt;/a&gt;

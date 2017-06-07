@@ -3,18 +3,18 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageMediaContact.md">messageMediaContact</a>#5e7d2f39 phone_number:<a href="../type/string.md">string</a> first_name:<a href="../type/string.md">string</a> last_name:<a href="../type/string.md">string</a> user_id:<a href="../type/int.md">int</a> = <a href="../type/MessageMedia.md">MessageMedia</a>;
+<a href="../constructor/messageMediaContact.md">messageMediaContact</a>#5e7d2f39 phone_number:undefined<a href="../type/string.md">string</a> first_name:undefined<a href="../type/string.md">string</a> last_name:undefined<a href="../type/string.md">string</a> user_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageMedia.md">MessageMedia</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **phone_number** | [string](../type/string.md) | Param description |
-| **first_name** | [string](../type/string.md) | Param description |
-| **last_name** | [string](../type/string.md) | Param description |
-| **user_id** | [int](../type/int.md) | Param description |
+| **phone_number** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **first_name** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **last_name** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **user_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[MessageMedia](../type/MessageMedia.md)
+undefined&lt;a href=&#34;../type/MessageMedia.md&#34;&gt;MessageMedia&lt;/a&gt;

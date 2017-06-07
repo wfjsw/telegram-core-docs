@@ -3,14 +3,14 @@
 Sample Description
 
 <pre>
-<a href="../constructor/keyboardButton">keyboardButton</a>#a2fa4880 text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonUrl">keyboardButtonUrl</a>#258aff05 text:<a href="../type/string.md">string</a> url:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonCallback">keyboardButtonCallback</a>#683a5e46 text:<a href="../type/string.md">string</a> data:<a href="../type/bytes.md">bytes</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonRequestPhone">keyboardButtonRequestPhone</a>#b16a6c29 text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonRequestGeoLocation">keyboardButtonRequestGeoLocation</a>#fc796b3f text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonSwitchInline">keyboardButtonSwitchInline</a>#568a748 flags:<a href="../type/#.md">#</a> same_peer:<a href="../type/flags.0?true.md">flags.0?true</a> text:<a href="../type/string.md">string</a> query:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonGame">keyboardButtonGame</a>#50f41ccf text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
-<a href="../constructor/keyboardButtonBuy">keyboardButtonBuy</a>#afd93fbb text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButton">keyboardButton</a>#a2fa4880 text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonUrl">keyboardButtonUrl</a>#258aff05 text:undefined<a href="../type/string.md">string</a> url:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonCallback">keyboardButtonCallback</a>#683a5e46 text:undefined<a href="../type/string.md">string</a> data:undefined<a href="../type/bytes.md">bytes</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonRequestPhone">keyboardButtonRequestPhone</a>#b16a6c29 text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonRequestGeoLocation">keyboardButtonRequestGeoLocation</a>#fc796b3f text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonSwitchInline">keyboardButtonSwitchInline</a>#568a748 flags:undefined<a href="../type/#.md">#</a> same_peer:flags.0?<a href="../type/true.md">true</a> text:undefined<a href="../type/string.md">string</a> query:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonGame">keyboardButtonGame</a>#50f41ccf text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
+<a href="../constructor/keyboardButtonBuy">keyboardButtonBuy</a>#afd93fbb text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/KeyboardButton.md">KeyboardButton</a>;
 
 </pre>
 

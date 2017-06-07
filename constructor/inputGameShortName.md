@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputGameShortName.md">inputGameShortName</a>#c331e80a bot_id:<a href="../type/InputUser.md">InputUser</a> short_name:<a href="../type/string.md">string</a> = <a href="../type/InputGame.md">InputGame</a>;
+<a href="../constructor/inputGameShortName.md">inputGameShortName</a>#c331e80a bot_id:undefined<a href="../type/InputUser.md">InputUser</a> short_name:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/InputGame.md">InputGame</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **bot_id** | [InputUser](../type/InputUser.md) | Param description |
-| **short_name** | [string](../type/string.md) | Param description |
+| **bot_id** | undefined&lt;a href=&#34;../type/InputUser.md&#34;&gt;InputUser&lt;/a&gt; | Param description |
+| **short_name** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
 
 ## Type
 
-[InputGame](../type/InputGame.md)
+undefined&lt;a href=&#34;../type/InputGame.md&#34;&gt;InputGame&lt;/a&gt;

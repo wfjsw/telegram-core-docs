@@ -3,20 +3,20 @@
 Sample Description
 
 <pre>
-<a href="../constructor/phoneCallDiscarded.md">phoneCallDiscarded</a>#50ca4de1 flags:<a href="../type/#.md">#</a> need_rating:<a href="../type/flags.2?true.md">flags.2?true</a> need_debug:<a href="../type/flags.3?true.md">flags.3?true</a> id:<a href="../type/long.md">long</a> reason:<a href="../type/flags.0?PhoneCallDiscardReason.md">flags.0?PhoneCallDiscardReason</a> duration:<a href="../type/flags.1?int.md">flags.1?int</a> = <a href="../type/PhoneCall.md">PhoneCall</a>;
+<a href="../constructor/phoneCallDiscarded.md">phoneCallDiscarded</a>#50ca4de1 flags:undefined<a href="../type/#.md">#</a> need_rating:flags.2?<a href="../type/true.md">true</a> need_debug:flags.3?<a href="../type/true.md">true</a> id:undefined<a href="../type/long.md">long</a> reason:flags.0?<a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a> duration:flags.1?<a href="../type/int.md">int</a> = undefined<a href="../type/PhoneCall.md">PhoneCall</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **need_rating** | [flags.2?true](../type/flags.2?true.md) | Param description |
-| **need_debug** | [flags.3?true](../type/flags.3?true.md) | Param description |
-| **id** | [long](../type/long.md) | Param description |
-| **reason** | [flags.0?PhoneCallDiscardReason](../type/flags.0?PhoneCallDiscardReason.md) | Param description |
-| **duration** | [flags.1?int](../type/flags.1?int.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **need_rating** | flags.2?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **need_debug** | flags.3?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
+| **id** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
+| **reason** | flags.0?&lt;a href=&#34;../type/PhoneCallDiscardReason.md&#34;&gt;PhoneCallDiscardReason&lt;/a&gt; | Param description |
+| **duration** | flags.1?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[PhoneCall](../type/PhoneCall.md)
+undefined&lt;a href=&#34;../type/PhoneCall.md&#34;&gt;PhoneCall&lt;/a&gt;

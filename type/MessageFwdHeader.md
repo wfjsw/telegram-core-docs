@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageFwdHeader">messageFwdHeader</a>#c786ddcb flags:<a href="../type/#.md">#</a> from_id:<a href="../type/flags.0?int.md">flags.0?int</a> date:<a href="../type/int.md">int</a> channel_id:<a href="../type/flags.1?int.md">flags.1?int</a> channel_post:<a href="../type/flags.2?int.md">flags.2?int</a> = <a href="../type/MessageFwdHeader.md">MessageFwdHeader</a>;
+<a href="../constructor/messageFwdHeader">messageFwdHeader</a>#c786ddcb flags:undefined<a href="../type/#.md">#</a> from_id:flags.0?<a href="../type/int.md">int</a> date:undefined<a href="../type/int.md">int</a> channel_id:flags.1?<a href="../type/int.md">int</a> channel_post:flags.2?<a href="../type/int.md">int</a> = undefined<a href="../type/MessageFwdHeader.md">MessageFwdHeader</a>;
 
 </pre>
 

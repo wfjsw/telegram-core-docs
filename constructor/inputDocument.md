@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputDocument.md">inputDocument</a>#18798952 id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputDocument.md">InputDocument</a>;
+<a href="../constructor/inputDocument.md">inputDocument</a>#18798952 id:undefined<a href="../type/long.md">long</a> access_hash:undefined<a href="../type/long.md">long</a> = undefined<a href="../type/InputDocument.md">InputDocument</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **id** | [long](../type/long.md) | Param description |
-| **access_hash** | [long](../type/long.md) | Param description |
+| **id** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
+| **access_hash** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
 
 ## Type
 
-[InputDocument](../type/InputDocument.md)
+undefined&lt;a href=&#34;../type/InputDocument.md&#34;&gt;InputDocument&lt;/a&gt;

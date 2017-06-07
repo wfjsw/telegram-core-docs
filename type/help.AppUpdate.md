@@ -3,11 +3,11 @@
 Sample Description
 
 <pre>
-<a href="../constructor/help.appUpdate">help.appUpdate</a>#8987f311 id:<a href="../type/int.md">int</a> critical:<a href="../type/Bool.md">Bool</a> url:<a href="../type/string.md">string</a> text:<a href="../type/string.md">string</a> = <a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
-<a href="../constructor/help.noAppUpdate">help.noAppUpdate</a>#c45a6536 = <a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
+<a href="../constructor/help.appUpdate">help.appUpdate</a>#8987f311 id:undefined<a href="../type/int.md">int</a> critical:undefined<a href="../type/Bool.md">Bool</a> url:undefined<a href="../type/string.md">string</a> text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
+<a href="../constructor/help.noAppUpdate">help.noAppUpdate</a>#c45a6536 = undefined<a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
 
 ---functions---
-<a href="../method/help.getAppUpdate">help.getAppUpdate</a>#ae2de196 = <a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
+<a href="../method/help.getAppUpdate">help.getAppUpdate</a>#ae2de196 = undefined<a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
 
 </pre>
 

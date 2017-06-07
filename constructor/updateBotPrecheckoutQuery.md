@@ -3,22 +3,22 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateBotPrecheckoutQuery.md">updateBotPrecheckoutQuery</a>#5d2f3aa9 flags:<a href="../type/#.md">#</a> query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> payload:<a href="../type/bytes.md">bytes</a> info:<a href="../type/flags.0?PaymentRequestedInfo.md">flags.0?PaymentRequestedInfo</a> shipping_option_id:<a href="../type/flags.1?string.md">flags.1?string</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateBotPrecheckoutQuery.md">updateBotPrecheckoutQuery</a>#5d2f3aa9 flags:undefined<a href="../type/#.md">#</a> query_id:undefined<a href="../type/long.md">long</a> user_id:undefined<a href="../type/int.md">int</a> payload:undefined<a href="../type/bytes.md">bytes</a> info:flags.0?<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a> shipping_option_id:flags.1?<a href="../type/string.md">string</a> currency:undefined<a href="../type/string.md">string</a> total_amount:undefined<a href="../type/long.md">long</a> = undefined<a href="../type/Update.md">Update</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | [#](../type/#.md) | Param description |
-| **query_id** | [long](../type/long.md) | Param description |
-| **user_id** | [int](../type/int.md) | Param description |
-| **payload** | [bytes](../type/bytes.md) | Param description |
-| **info** | [flags.0?PaymentRequestedInfo](../type/flags.0?PaymentRequestedInfo.md) | Param description |
-| **shipping_option_id** | [flags.1?string](../type/flags.1?string.md) | Param description |
-| **currency** | [string](../type/string.md) | Param description |
-| **total_amount** | [long](../type/long.md) | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
+| **query_id** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
+| **user_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **payload** | undefined&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
+| **info** | flags.0?&lt;a href=&#34;../type/PaymentRequestedInfo.md&#34;&gt;PaymentRequestedInfo&lt;/a&gt; | Param description |
+| **shipping_option_id** | flags.1?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **currency** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **total_amount** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
 
 ## Type
 
-[Update](../type/Update.md)
+undefined&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;

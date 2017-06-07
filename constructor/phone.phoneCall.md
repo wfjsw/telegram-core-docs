@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/phone.phoneCall.md">phone.phoneCall</a>#ec82e140 phone_call:<a href="../type/PhoneCall.md">PhoneCall</a> users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/phone.PhoneCall.md">phone.PhoneCall</a>;
+<a href="../constructor/phone.phoneCall.md">phone.phoneCall</a>#ec82e140 phone_call:undefined<a href="../type/PhoneCall.md">PhoneCall</a> users:undefinedVector&lt;<a href="../type/User.md">User</a>&gt; = undefined<a href="../type/phone.PhoneCall.md">phone.PhoneCall</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **phone_call** | [PhoneCall](../type/PhoneCall.md) | Param description |
-| **users** | Vector<[User](../type/User.md) | Param description |
+| **phone_call** | undefined&lt;a href=&#34;../type/PhoneCall.md&#34;&gt;PhoneCall&lt;/a&gt; | Param description |
+| **users** | undefinedVector&amp;lt;&lt;a href=&#34;../type/User.md&#34;&gt;User&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[phone.PhoneCall](../type/phone.PhoneCall.md)
+undefined&lt;a href=&#34;../type/phone.PhoneCall.md&#34;&gt;phone.PhoneCall&lt;/a&gt;

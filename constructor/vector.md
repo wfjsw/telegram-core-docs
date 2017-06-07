@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/vector.md">vector</a>#1cb5c415 = <a href="../type/t.md">t</a>;
+<a href="../constructor/vector.md">vector</a>#1cb5c415 = undefined<a href="../type/t.md">t</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[t](../type/t.md)
+undefined&lt;a href=&#34;../type/t.md&#34;&gt;t&lt;/a&gt;

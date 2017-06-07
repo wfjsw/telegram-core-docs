@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateUserBlocked.md">updateUserBlocked</a>#80ece81a user_id:<a href="../type/int.md">int</a> blocked:<a href="../type/Bool.md">Bool</a> = <a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateUserBlocked.md">updateUserBlocked</a>#80ece81a user_id:undefined<a href="../type/int.md">int</a> blocked:undefined<a href="../type/Bool.md">Bool</a> = undefined<a href="../type/Update.md">Update</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **user_id** | [int](../type/int.md) | Param description |
-| **blocked** | [Bool](../type/Bool.md) | Param description |
+| **user_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **blocked** | undefined&lt;a href=&#34;../type/Bool.md&#34;&gt;Bool&lt;/a&gt; | Param description |
 
 ## Type
 
-[Update](../type/Update.md)
+undefined&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;

@@ -3,19 +3,19 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageEntityUnknown">messageEntityUnknown</a>#bb92ba95 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityMention">messageEntityMention</a>#fa04579d offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityHashtag">messageEntityHashtag</a>#6f635b0d offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityBotCommand">messageEntityBotCommand</a>#6cef8ac7 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityUrl">messageEntityUrl</a>#6ed02538 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityEmail">messageEntityEmail</a>#64e475c2 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityBold">messageEntityBold</a>#bd610bc9 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityItalic">messageEntityItalic</a>#826f8b60 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityCode">messageEntityCode</a>#28a20571 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityPre">messageEntityPre</a>#73924be0 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> language:<a href="../type/string.md">string</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityTextUrl">messageEntityTextUrl</a>#76a6d327 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> url:<a href="../type/string.md">string</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/messageEntityMentionName">messageEntityMentionName</a>#352dca58 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> user_id:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-<a href="../constructor/inputMessageEntityMentionName">inputMessageEntityMentionName</a>#208e68c9 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityUnknown">messageEntityUnknown</a>#bb92ba95 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityMention">messageEntityMention</a>#fa04579d offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityHashtag">messageEntityHashtag</a>#6f635b0d offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityBotCommand">messageEntityBotCommand</a>#6cef8ac7 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityUrl">messageEntityUrl</a>#6ed02538 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityEmail">messageEntityEmail</a>#64e475c2 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityBold">messageEntityBold</a>#bd610bc9 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityItalic">messageEntityItalic</a>#826f8b60 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityCode">messageEntityCode</a>#28a20571 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityPre">messageEntityPre</a>#73924be0 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> language:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityTextUrl">messageEntityTextUrl</a>#76a6d327 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> url:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityMentionName">messageEntityMentionName</a>#352dca58 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> user_id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/inputMessageEntityMentionName">inputMessageEntityMentionName</a>#208e68c9 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> user_id:undefined<a href="../type/InputUser.md">InputUser</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
 
 </pre>
 

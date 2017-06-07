@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/notifyUsers.md">notifyUsers</a>#b4c83b4c = <a href="../type/NotifyPeer.md">NotifyPeer</a>;
+<a href="../constructor/notifyUsers.md">notifyUsers</a>#b4c83b4c = undefined<a href="../type/NotifyPeer.md">NotifyPeer</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[NotifyPeer](../type/NotifyPeer.md)
+undefined&lt;a href=&#34;../type/NotifyPeer.md&#34;&gt;NotifyPeer&lt;/a&gt;

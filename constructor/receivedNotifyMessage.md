@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/receivedNotifyMessage.md">receivedNotifyMessage</a>#a384b779 id:<a href="../type/int.md">int</a> flags:<a href="../type/int.md">int</a> = <a href="../type/ReceivedNotifyMessage.md">ReceivedNotifyMessage</a>;
+<a href="../constructor/receivedNotifyMessage.md">receivedNotifyMessage</a>#a384b779 id:undefined<a href="../type/int.md">int</a> flags:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/ReceivedNotifyMessage.md">ReceivedNotifyMessage</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **id** | [int](../type/int.md) | Param description |
-| **flags** | [int](../type/int.md) | Param description |
+| **id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **flags** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[ReceivedNotifyMessage](../type/ReceivedNotifyMessage.md)
+undefined&lt;a href=&#34;../type/ReceivedNotifyMessage.md&#34;&gt;ReceivedNotifyMessage&lt;/a&gt;

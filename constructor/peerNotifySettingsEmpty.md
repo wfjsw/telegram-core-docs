@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/peerNotifySettingsEmpty.md">peerNotifySettingsEmpty</a>#70a68512 = <a href="../type/PeerNotifySettings.md">PeerNotifySettings</a>;
+<a href="../constructor/peerNotifySettingsEmpty.md">peerNotifySettingsEmpty</a>#70a68512 = undefined<a href="../type/PeerNotifySettings.md">PeerNotifySettings</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[PeerNotifySettings](../type/PeerNotifySettings.md)
+undefined&lt;a href=&#34;../type/PeerNotifySettings.md&#34;&gt;PeerNotifySettings&lt;/a&gt;

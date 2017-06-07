@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPeerNotifyEventsAll.md">inputPeerNotifyEventsAll</a>#e86a2c74 = <a href="../type/InputPeerNotifyEvents.md">InputPeerNotifyEvents</a>;
+<a href="../constructor/inputPeerNotifyEventsAll.md">inputPeerNotifyEventsAll</a>#e86a2c74 = undefined<a href="../type/InputPeerNotifyEvents.md">InputPeerNotifyEvents</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[InputPeerNotifyEvents](../type/InputPeerNotifyEvents.md)
+undefined&lt;a href=&#34;../type/InputPeerNotifyEvents.md&#34;&gt;InputPeerNotifyEvents&lt;/a&gt;

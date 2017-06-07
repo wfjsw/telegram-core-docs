@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateRecentStickers.md">updateRecentStickers</a>#9a422c20 = <a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateRecentStickers.md">updateRecentStickers</a>#9a422c20 = undefined<a href="../type/Update.md">Update</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[Update](../type/Update.md)
+undefined&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;

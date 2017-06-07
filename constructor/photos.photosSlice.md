@@ -3,17 +3,17 @@
 Sample Description
 
 <pre>
-<a href="../constructor/photos.photosSlice.md">photos.photosSlice</a>#15051f54 count:<a href="../type/int.md">int</a> photos:Vector&lt;<a href="../type/Photo.md">Photo</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/photos.Photos.md">photos.Photos</a>;
+<a href="../constructor/photos.photosSlice.md">photos.photosSlice</a>#15051f54 count:undefined<a href="../type/int.md">int</a> photos:undefinedVector&lt;<a href="../type/Photo.md">Photo</a>&gt; users:undefinedVector&lt;<a href="../type/User.md">User</a>&gt; = undefined<a href="../type/photos.Photos.md">photos.Photos</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **count** | [int](../type/int.md) | Param description |
-| **photos** | Vector<[Photo](../type/Photo.md) | Param description |
-| **users** | Vector<[User](../type/User.md) | Param description |
+| **count** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **photos** | undefinedVector&amp;lt;&lt;a href=&#34;../type/Photo.md&#34;&gt;Photo&lt;/a&gt;&amp;gt; | Param description |
+| **users** | undefinedVector&amp;lt;&lt;a href=&#34;../type/User.md&#34;&gt;User&lt;/a&gt;&amp;gt; | Param description |
 
 ## Type
 
-[photos.Photos](../type/photos.Photos.md)
+undefined&lt;a href=&#34;../type/photos.Photos.md&#34;&gt;photos.Photos&lt;/a&gt;

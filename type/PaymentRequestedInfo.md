@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/paymentRequestedInfo">paymentRequestedInfo</a>#909c3f94 flags:<a href="../type/#.md">#</a> name:<a href="../type/flags.0?string.md">flags.0?string</a> phone:<a href="../type/flags.1?string.md">flags.1?string</a> email:<a href="../type/flags.2?string.md">flags.2?string</a> shipping_address:<a href="../type/flags.3?PostAddress.md">flags.3?PostAddress</a> = <a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a>;
+<a href="../constructor/paymentRequestedInfo">paymentRequestedInfo</a>#909c3f94 flags:undefined<a href="../type/#.md">#</a> name:flags.0?<a href="../type/string.md">string</a> phone:flags.1?<a href="../type/string.md">string</a> email:flags.2?<a href="../type/string.md">string</a> shipping_address:flags.3?<a href="../type/PostAddress.md">PostAddress</a> = undefined<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a>;
 
 </pre>
 

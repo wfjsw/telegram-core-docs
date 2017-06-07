@@ -3,17 +3,17 @@
 Sample Description
 
 <pre>
-<a href="../constructor/highScore.md">highScore</a>#58fffcd0 pos:<a href="../type/int.md">int</a> user_id:<a href="../type/int.md">int</a> score:<a href="../type/int.md">int</a> = <a href="../type/HighScore.md">HighScore</a>;
+<a href="../constructor/highScore.md">highScore</a>#58fffcd0 pos:undefined<a href="../type/int.md">int</a> user_id:undefined<a href="../type/int.md">int</a> score:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/HighScore.md">HighScore</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **pos** | [int](../type/int.md) | Param description |
-| **user_id** | [int](../type/int.md) | Param description |
-| **score** | [int](../type/int.md) | Param description |
+| **pos** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **user_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **score** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
 
 ## Type
 
-[HighScore](../type/HighScore.md)
+undefined&lt;a href=&#34;../type/HighScore.md&#34;&gt;HighScore&lt;/a&gt;

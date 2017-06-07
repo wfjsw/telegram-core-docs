@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/channelMessagesFilterEmpty.md">channelMessagesFilterEmpty</a>#94d42ee7 = <a href="../type/ChannelMessagesFilter.md">ChannelMessagesFilter</a>;
+<a href="../constructor/channelMessagesFilterEmpty.md">channelMessagesFilterEmpty</a>#94d42ee7 = undefined<a href="../type/ChannelMessagesFilter.md">ChannelMessagesFilter</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-[ChannelMessagesFilter](../type/ChannelMessagesFilter.md)
+undefined&lt;a href=&#34;../type/ChannelMessagesFilter.md&#34;&gt;ChannelMessagesFilter&lt;/a&gt;
