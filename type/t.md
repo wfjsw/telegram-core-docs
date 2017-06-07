@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/vector">vector</a>#1cb5c415 = undefined<a href="../type/t.md">t</a>;
+<a href="../constructor/vector">vector</a>#1cb5c415 = <a href="../type/t.md">t</a>;
 
 </pre>
 

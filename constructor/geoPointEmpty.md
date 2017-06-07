@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/geoPointEmpty.md">geoPointEmpty</a>#1117dd5f = undefined<a href="../type/GeoPoint.md">GeoPoint</a>;
+<a href="../constructor/geoPointEmpty.md">geoPointEmpty</a>#1117dd5f = <a href="../type/GeoPoint.md">GeoPoint</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/GeoPoint.md&#34;&gt;GeoPoint&lt;/a&gt;
+&lt;a href=&#34;../type/GeoPoint.md&#34;&gt;GeoPoint&lt;/a&gt;

@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputChannelEmpty.md">inputChannelEmpty</a>#ee8c1e86 = undefined<a href="../type/InputChannel.md">InputChannel</a>;
+<a href="../constructor/inputChannelEmpty.md">inputChannelEmpty</a>#ee8c1e86 = <a href="../type/InputChannel.md">InputChannel</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/InputChannel.md&#34;&gt;InputChannel&lt;/a&gt;
+&lt;a href=&#34;../type/InputChannel.md&#34;&gt;InputChannel&lt;/a&gt;

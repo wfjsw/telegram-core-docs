@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/topPeerCategoryCorrespondents.md">topPeerCategoryCorrespondents</a>#637b7ed = undefined<a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
+<a href="../constructor/topPeerCategoryCorrespondents.md">topPeerCategoryCorrespondents</a>#637b7ed = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/TopPeerCategory.md&#34;&gt;TopPeerCategory&lt;/a&gt;
+&lt;a href=&#34;../type/TopPeerCategory.md&#34;&gt;TopPeerCategory&lt;/a&gt;

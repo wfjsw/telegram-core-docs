@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/pageBlockPullquote.md">pageBlockPullquote</a>#4f4456d3 text:undefined<a href="../type/RichText.md">RichText</a> caption:undefined<a href="../type/RichText.md">RichText</a> = undefined<a href="../type/PageBlock.md">PageBlock</a>;
+<a href="../constructor/pageBlockPullquote.md">pageBlockPullquote</a>#4f4456d3 text:<a href="../type/RichText.md">RichText</a> caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **text** | undefined&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt; | Param description |
-| **caption** | undefined&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt; | Param description |
+| **text** | <a href="../type/RichText.md">RichText</a> | Param description |
+| **caption** | <a href="../type/RichText.md">RichText</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;
+&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;

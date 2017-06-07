@@ -3,24 +3,24 @@
 Sample Description
 
 <pre>
-<a href="../constructor/boolFalse">boolFalse</a>#bc799737 = undefined<a href="../type/Bool.md">Bool</a>;
-<a href="../constructor/boolTrue">boolTrue</a>#997275b5 = undefined<a href="../type/Bool.md">Bool</a>;
+<a href="../constructor/boolFalse">boolFalse</a>#bc799737 = <a href="../type/Bool.md">Bool</a>;
+<a href="../constructor/boolTrue">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/messages.toggleDialogPin.md">messages.toggleDialogPin</a>#3289be6a flags:undefined<a href="../type/#.md">#</a> pinned:flags.0?<a href="../type/true.md">true</a> peer:undefined<a href="../type/InputPeer.md">InputPeer</a> = undefined<a href="../type/Bool.md">Bool</a>;
+<a href="../method/messages.toggleDialogPin.md">messages.toggleDialogPin</a>#3289be6a flags:<a href="../type/#.md">#</a> pinned:flags.0?<a href="../type/true.md">true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> = <a href="../type/Bool.md">Bool</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
-| **pinned** | flags.0?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
-| **peer** | undefined&lt;a href=&#34;../type/InputPeer.md&#34;&gt;InputPeer&lt;/a&gt; | Param description |
+| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **pinned** | flags.0?<a href="../type/true.md">true</a> | Param description |
+| **peer** | <a href="../type/InputPeer.md">InputPeer</a> | Param description |
 
 ## Result
 
-Returns undefined&lt;a href=&#34;../type/Bool.md&#34;&gt;Bool&lt;/a&gt;
+Returns <a href="../type/Bool.md">Bool</a>
 
 Describe the result
 

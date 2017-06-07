@@ -3,17 +3,17 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateReadMessagesContents.md">updateReadMessagesContents</a>#68c13933 messages:undefinedVector&lt;<a href="../type/int.md">int</a>&gt; pts:undefined<a href="../type/int.md">int</a> pts_count:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateReadMessagesContents.md">updateReadMessagesContents</a>#68c13933 messages:Vector&lt;<a href="../type/int.md">int</a>&gt; pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> = <a href="../type/Update.md">Update</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **messages** | undefinedVector&amp;lt;&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt;&amp;gt; | Param description |
-| **pts** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
-| **pts_count** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **messages** | Vector&lt;<a href="../type/int.md">int</a>&gt; | Param description |
+| **pts** | <a href="../type/int.md">int</a> | Param description |
+| **pts_count** | <a href="../type/int.md">int</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;
+&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;

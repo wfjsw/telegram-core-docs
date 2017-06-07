@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/pageBlockCollage.md">pageBlockCollage</a>#8b31c4f items:undefinedVector&lt;<a href="../type/PageBlock.md">PageBlock</a>&gt; caption:undefined<a href="../type/RichText.md">RichText</a> = undefined<a href="../type/PageBlock.md">PageBlock</a>;
+<a href="../constructor/pageBlockCollage.md">pageBlockCollage</a>#8b31c4f items:Vector&lt;<a href="../type/PageBlock.md">PageBlock</a>&gt; caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **items** | undefinedVector&amp;lt;&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;&amp;gt; | Param description |
-| **caption** | undefined&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt; | Param description |
+| **items** | Vector&lt;<a href="../type/PageBlock.md">PageBlock</a>&gt; | Param description |
+| **caption** | <a href="../type/RichText.md">RichText</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;
+&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;

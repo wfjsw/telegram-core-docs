@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPrivacyValueAllowAll.md">inputPrivacyValueAllowAll</a>#184b35ce = undefined<a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
+<a href="../constructor/inputPrivacyValueAllowAll.md">inputPrivacyValueAllowAll</a>#184b35ce = <a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/InputPrivacyRule.md&#34;&gt;InputPrivacyRule&lt;/a&gt;
+&lt;a href=&#34;../type/InputPrivacyRule.md&#34;&gt;InputPrivacyRule&lt;/a&gt;

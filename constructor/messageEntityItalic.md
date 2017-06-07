@@ -3,16 +3,16 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageEntityItalic.md">messageEntityItalic</a>#826f8b60 offset:undefined<a href="../type/int.md">int</a> length:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/MessageEntity.md">MessageEntity</a>;
+<a href="../constructor/messageEntityItalic.md">messageEntityItalic</a>#826f8b60 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **offset** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
-| **length** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **offset** | <a href="../type/int.md">int</a> | Param description |
+| **length** | <a href="../type/int.md">int</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;
+&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;

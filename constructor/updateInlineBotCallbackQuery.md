@@ -3,21 +3,21 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateInlineBotCallbackQuery.md">updateInlineBotCallbackQuery</a>#f9d27a5a flags:undefined<a href="../type/#.md">#</a> query_id:undefined<a href="../type/long.md">long</a> user_id:undefined<a href="../type/int.md">int</a> msg_id:undefined<a href="../type/InputBotInlineMessageID.md">InputBotInlineMessageID</a> chat_instance:undefined<a href="../type/long.md">long</a> data:flags.0?<a href="../type/bytes.md">bytes</a> game_short_name:flags.1?<a href="../type/string.md">string</a> = undefined<a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateInlineBotCallbackQuery.md">updateInlineBotCallbackQuery</a>#f9d27a5a flags:<a href="../type/#.md">#</a> query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> msg_id:<a href="../type/InputBotInlineMessageID.md">InputBotInlineMessageID</a> chat_instance:<a href="../type/long.md">long</a> data:flags.0?<a href="../type/bytes.md">bytes</a> game_short_name:flags.1?<a href="../type/string.md">string</a> = <a href="../type/Update.md">Update</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
-| **query_id** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
-| **user_id** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
-| **msg_id** | undefined&lt;a href=&#34;../type/InputBotInlineMessageID.md&#34;&gt;InputBotInlineMessageID&lt;/a&gt; | Param description |
-| **chat_instance** | undefined&lt;a href=&#34;../type/long.md&#34;&gt;long&lt;/a&gt; | Param description |
-| **data** | flags.0?&lt;a href=&#34;../type/bytes.md&#34;&gt;bytes&lt;/a&gt; | Param description |
-| **game_short_name** | flags.1?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **query_id** | <a href="../type/long.md">long</a> | Param description |
+| **user_id** | <a href="../type/int.md">int</a> | Param description |
+| **msg_id** | <a href="../type/InputBotInlineMessageID.md">InputBotInlineMessageID</a> | Param description |
+| **chat_instance** | <a href="../type/long.md">long</a> | Param description |
+| **data** | flags.0?<a href="../type/bytes.md">bytes</a> | Param description |
+| **game_short_name** | flags.1?<a href="../type/string.md">string</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;
+&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;

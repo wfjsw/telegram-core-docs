@@ -3,20 +3,20 @@
 Sample Description
 
 <pre>
-<a href="../constructor/draftMessage.md">draftMessage</a>#fd8e711f flags:undefined<a href="../type/#.md">#</a> no_webpage:flags.1?<a href="../type/true.md">true</a> reply_to_msg_id:flags.0?<a href="../type/int.md">int</a> message:undefined<a href="../type/string.md">string</a> entities:flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; date:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/DraftMessage.md">DraftMessage</a>;
+<a href="../constructor/draftMessage.md">draftMessage</a>#fd8e711f flags:<a href="../type/#.md">#</a> no_webpage:flags.1?<a href="../type/true.md">true</a> reply_to_msg_id:flags.0?<a href="../type/int.md">int</a> message:<a href="../type/string.md">string</a> entities:flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; date:<a href="../type/int.md">int</a> = <a href="../type/DraftMessage.md">DraftMessage</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
-| **no_webpage** | flags.1?&lt;a href=&#34;../type/true.md&#34;&gt;true&lt;/a&gt; | Param description |
-| **reply_to_msg_id** | flags.0?&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
-| **message** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
-| **entities** | flags.3?Vector&amp;lt;&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;&amp;gt; | Param description |
-| **date** | undefined&lt;a href=&#34;../type/int.md&#34;&gt;int&lt;/a&gt; | Param description |
+| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **no_webpage** | flags.1?<a href="../type/true.md">true</a> | Param description |
+| **reply_to_msg_id** | flags.0?<a href="../type/int.md">int</a> | Param description |
+| **message** | <a href="../type/string.md">string</a> | Param description |
+| **entities** | flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; | Param description |
+| **date** | <a href="../type/int.md">int</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/DraftMessage.md&#34;&gt;DraftMessage&lt;/a&gt;
+&lt;a href=&#34;../type/DraftMessage.md&#34;&gt;DraftMessage&lt;/a&gt;

@@ -3,15 +3,15 @@
 Sample Description
 
 <pre>
-<a href="../constructor/textPlain.md">textPlain</a>#744694e0 text:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/RichText.md">RichText</a>;
+<a href="../constructor/textPlain.md">textPlain</a>#744694e0 text:<a href="../type/string.md">string</a> = <a href="../type/RichText.md">RichText</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **text** | undefined&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **text** | <a href="../type/string.md">string</a> | Param description |
 
 ## Type
 
-undefined&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt;
+&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt;

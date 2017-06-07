@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/cdnPublicKey">cdnPublicKey</a>#c982eaba dc_id:undefined<a href="../type/int.md">int</a> public_key:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/CdnPublicKey.md">CdnPublicKey</a>;
+<a href="../constructor/cdnPublicKey">cdnPublicKey</a>#c982eaba dc_id:<a href="../type/int.md">int</a> public_key:<a href="../type/string.md">string</a> = <a href="../type/CdnPublicKey.md">CdnPublicKey</a>;
 
 </pre>
 

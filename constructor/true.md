@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/true.md">true</a>#3fedd339 = undefined<a href="../type/True.md">True</a>;
+<a href="../constructor/true.md">true</a>#3fedd339 = <a href="../type/True.md">True</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/True.md&#34;&gt;True&lt;/a&gt;
+&lt;a href=&#34;../type/True.md&#34;&gt;True&lt;/a&gt;

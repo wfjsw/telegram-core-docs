@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputMessagesFilterDocument.md">inputMessagesFilterDocument</a>#9eddf188 = undefined<a href="../type/MessagesFilter.md">MessagesFilter</a>;
+<a href="../constructor/inputMessagesFilterDocument.md">inputMessagesFilterDocument</a>#9eddf188 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/MessagesFilter.md&#34;&gt;MessagesFilter&lt;/a&gt;
+&lt;a href=&#34;../type/MessagesFilter.md&#34;&gt;MessagesFilter&lt;/a&gt;

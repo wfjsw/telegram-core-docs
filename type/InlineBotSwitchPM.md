@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inlineBotSwitchPM">inlineBotSwitchPM</a>#3c20629f text:undefined<a href="../type/string.md">string</a> start_param:undefined<a href="../type/string.md">string</a> = undefined<a href="../type/InlineBotSwitchPM.md">InlineBotSwitchPM</a>;
+<a href="../constructor/inlineBotSwitchPM">inlineBotSwitchPM</a>#3c20629f text:<a href="../type/string.md">string</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/InlineBotSwitchPM.md">InlineBotSwitchPM</a>;
 
 </pre>
 

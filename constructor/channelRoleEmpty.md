@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/channelRoleEmpty.md">channelRoleEmpty</a>#b285a0c6 = undefined<a href="../type/ChannelParticipantRole.md">ChannelParticipantRole</a>;
+<a href="../constructor/channelRoleEmpty.md">channelRoleEmpty</a>#b285a0c6 = <a href="../type/ChannelParticipantRole.md">ChannelParticipantRole</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/ChannelParticipantRole.md&#34;&gt;ChannelParticipantRole&lt;/a&gt;
+&lt;a href=&#34;../type/ChannelParticipantRole.md&#34;&gt;ChannelParticipantRole&lt;/a&gt;

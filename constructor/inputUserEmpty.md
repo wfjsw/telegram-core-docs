@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputUserEmpty.md">inputUserEmpty</a>#b98886cf = undefined<a href="../type/InputUser.md">InputUser</a>;
+<a href="../constructor/inputUserEmpty.md">inputUserEmpty</a>#b98886cf = <a href="../type/InputUser.md">InputUser</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/InputUser.md&#34;&gt;InputUser&lt;/a&gt;
+&lt;a href=&#34;../type/InputUser.md&#34;&gt;InputUser&lt;/a&gt;

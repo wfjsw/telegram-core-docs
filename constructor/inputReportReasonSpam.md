@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputReportReasonSpam.md">inputReportReasonSpam</a>#58dbcab8 = undefined<a href="../type/ReportReason.md">ReportReason</a>;
+<a href="../constructor/inputReportReasonSpam.md">inputReportReasonSpam</a>#58dbcab8 = <a href="../type/ReportReason.md">ReportReason</a>;
 </pre>
 
 ## Parameters
@@ -13,4 +13,4 @@ Sample Description
 
 ## Type
 
-undefined&lt;a href=&#34;../type/ReportReason.md&#34;&gt;ReportReason&lt;/a&gt;
+&lt;a href=&#34;../type/ReportReason.md&#34;&gt;ReportReason&lt;/a&gt;

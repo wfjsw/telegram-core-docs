@@ -3,25 +3,25 @@
 Sample Description
 
 <pre>
-<a href="../constructor/userEmpty">userEmpty</a>#200250ba id:undefined<a href="../type/int.md">int</a> = undefined<a href="../type/User.md">User</a>;
-<a href="../constructor/user">user</a>#2e13f4c3 flags:undefined<a href="../type/#.md">#</a> self:flags.10?<a href="../type/true.md">true</a> contact:flags.11?<a href="../type/true.md">true</a> mutual_contact:flags.12?<a href="../type/true.md">true</a> deleted:flags.13?<a href="../type/true.md">true</a> bot:flags.14?<a href="../type/true.md">true</a> bot_chat_history:flags.15?<a href="../type/true.md">true</a> bot_nochats:flags.16?<a href="../type/true.md">true</a> verified:flags.17?<a href="../type/true.md">true</a> restricted:flags.18?<a href="../type/true.md">true</a> min:flags.20?<a href="../type/true.md">true</a> bot_inline_geo:flags.21?<a href="../type/true.md">true</a> id:undefined<a href="../type/int.md">int</a> access_hash:flags.0?<a href="../type/long.md">long</a> first_name:flags.1?<a href="../type/string.md">string</a> last_name:flags.2?<a href="../type/string.md">string</a> username:flags.3?<a href="../type/string.md">string</a> phone:flags.4?<a href="../type/string.md">string</a> photo:flags.5?<a href="../type/UserProfilePhoto.md">UserProfilePhoto</a> status:flags.6?<a href="../type/UserStatus.md">UserStatus</a> bot_info_version:flags.14?<a href="../type/int.md">int</a> restriction_reason:flags.18?<a href="../type/string.md">string</a> bot_inline_placeholder:flags.19?<a href="../type/string.md">string</a> lang_code:flags.22?<a href="../type/string.md">string</a> = undefined<a href="../type/User.md">User</a>;
+<a href="../constructor/userEmpty">userEmpty</a>#200250ba id:<a href="../type/int.md">int</a> = <a href="../type/User.md">User</a>;
+<a href="../constructor/user">user</a>#2e13f4c3 flags:<a href="../type/#.md">#</a> self:flags.10?<a href="../type/true.md">true</a> contact:flags.11?<a href="../type/true.md">true</a> mutual_contact:flags.12?<a href="../type/true.md">true</a> deleted:flags.13?<a href="../type/true.md">true</a> bot:flags.14?<a href="../type/true.md">true</a> bot_chat_history:flags.15?<a href="../type/true.md">true</a> bot_nochats:flags.16?<a href="../type/true.md">true</a> verified:flags.17?<a href="../type/true.md">true</a> restricted:flags.18?<a href="../type/true.md">true</a> min:flags.20?<a href="../type/true.md">true</a> bot_inline_geo:flags.21?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> access_hash:flags.0?<a href="../type/long.md">long</a> first_name:flags.1?<a href="../type/string.md">string</a> last_name:flags.2?<a href="../type/string.md">string</a> username:flags.3?<a href="../type/string.md">string</a> phone:flags.4?<a href="../type/string.md">string</a> photo:flags.5?<a href="../type/UserProfilePhoto.md">UserProfilePhoto</a> status:flags.6?<a href="../type/UserStatus.md">UserStatus</a> bot_info_version:flags.14?<a href="../type/int.md">int</a> restriction_reason:flags.18?<a href="../type/string.md">string</a> bot_inline_placeholder:flags.19?<a href="../type/string.md">string</a> lang_code:flags.22?<a href="../type/string.md">string</a> = <a href="../type/User.md">User</a>;
 
 ---functions---
-<a href="../method/account.updateProfile.md">account.updateProfile</a>#78515775 flags:undefined<a href="../type/#.md">#</a> first_name:flags.0?<a href="../type/string.md">string</a> last_name:flags.1?<a href="../type/string.md">string</a> about:flags.2?<a href="../type/string.md">string</a> = undefined<a href="../type/User.md">User</a>;
+<a href="../method/account.updateProfile.md">account.updateProfile</a>#78515775 flags:<a href="../type/#.md">#</a> first_name:flags.0?<a href="../type/string.md">string</a> last_name:flags.1?<a href="../type/string.md">string</a> about:flags.2?<a href="../type/string.md">string</a> = <a href="../type/User.md">User</a>;
 </pre>
 
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | undefined&lt;a href=&#34;../type/#.md&#34;&gt;#&lt;/a&gt; | Param description |
-| **first_name** | flags.0?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
-| **last_name** | flags.1?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
-| **about** | flags.2?&lt;a href=&#34;../type/string.md&#34;&gt;string&lt;/a&gt; | Param description |
+| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **first_name** | flags.0?<a href="../type/string.md">string</a> | Param description |
+| **last_name** | flags.1?<a href="../type/string.md">string</a> | Param description |
+| **about** | flags.2?<a href="../type/string.md">string</a> | Param description |
 
 ## Result
 
-Returns undefined&lt;a href=&#34;../type/User.md&#34;&gt;User&lt;/a&gt;
+Returns <a href="../type/User.md">User</a>
 
 Describe the result
 
