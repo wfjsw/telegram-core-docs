@@ -6,17 +6,9 @@ Sample Description
 <a href="../constructor/cdnConfig">cdnConfig</a>#5725e40a public_keys:Vector&lt;<a href="../type/CdnPublicKey.md">CdnPublicKey</a>&gt; = <a href="../type/CdnConfig.md">CdnConfig</a>;
 
 ---functions---
-<a href="../method/help.getCdnConfig.md">help.getCdnConfig</a>#52029342 = <a href="../type/CdnConfig.md">CdnConfig</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../method/help.getCdnConfig.md">help.getCdnConfig</a>#52029342 = <a href="../type/CdnConfig.md">CdnConfig</a>;</pre>
 
 ## Result
 
-Returns <a href="../type/CdnConfig.md">CdnConfig</a>
-
-Describe the result
+<a href="../type/CdnConfig.md">CdnConfig</a>
 

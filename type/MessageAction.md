@@ -1,6 +1,6 @@
 # MessageAction
 
-Sample Description
+Object describing actions connected to a service message.
 
 <pre>
 <a href="../constructor/messageActionEmpty">messageActionEmpty</a>#b6aef7b0 = <a href="../type/MessageAction.md">MessageAction</a>;
@@ -20,20 +20,19 @@ Sample Description
 <a href="../constructor/messageActionPaymentSentMe">messageActionPaymentSentMe</a>#8f31b327 flags:<a href="../type/#.md">#</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> payload:<a href="../type/bytes.md">bytes</a> info:flags.0?<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a> shipping_option_id:flags.1?<a href="../type/string.md">string</a> charge:<a href="../type/PaymentCharge.md">PaymentCharge</a> = <a href="../type/MessageAction.md">MessageAction</a>;
 <a href="../constructor/messageActionPaymentSent">messageActionPaymentSent</a>#40699cd0 currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/MessageAction.md">MessageAction</a>;
 <a href="../constructor/messageActionPhoneCall">messageActionPhoneCall</a>#80e11a7f flags:<a href="../type/#.md">#</a> call_id:<a href="../type/long.md">long</a> reason:flags.0?<a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a> duration:flags.1?<a href="../type/int.md">int</a> = <a href="../type/MessageAction.md">MessageAction</a>;
-
 </pre>
 
 ## Constructors
 
 | Name | Description |
 |------|-------------|
-| [messageActionEmpty](../constructor/messageActionEmpty.md) | Sample Description |
-| [messageActionChatCreate](../constructor/messageActionChatCreate.md) | Sample Description |
+| [messageActionEmpty](../constructor/messageActionEmpty.md) | Empty constructor. |
+| [messageActionChatCreate](../constructor/messageActionChatCreate.md) | Group created |
 | [messageActionChatEditTitle](../constructor/messageActionChatEditTitle.md) | Sample Description |
-| [messageActionChatEditPhoto](../constructor/messageActionChatEditPhoto.md) | Sample Description |
-| [messageActionChatDeletePhoto](../constructor/messageActionChatDeletePhoto.md) | Sample Description |
-| [messageActionChatAddUser](../constructor/messageActionChatAddUser.md) | Sample Description |
-| [messageActionChatDeleteUser](../constructor/messageActionChatDeleteUser.md) | Sample Description |
+| [messageActionChatEditPhoto](../constructor/messageActionChatEditPhoto.md) | Group profile changed |
+| [messageActionChatDeletePhoto](../constructor/messageActionChatDeletePhoto.md) | Group profile photo removed. |
+| [messageActionChatAddUser](../constructor/messageActionChatAddUser.md) | New member in the group |
+| [messageActionChatDeleteUser](../constructor/messageActionChatDeleteUser.md) | User left the group. |
 | [messageActionChatJoinedByLink](../constructor/messageActionChatJoinedByLink.md) | Sample Description |
 | [messageActionChannelCreate](../constructor/messageActionChannelCreate.md) | Sample Description |
 | [messageActionChatMigrateTo](../constructor/messageActionChatMigrateTo.md) | Sample Description |

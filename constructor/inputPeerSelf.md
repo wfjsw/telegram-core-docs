@@ -3,14 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPeerSelf.md">inputPeerSelf</a>#7da07ec9 = <a href="../type/InputPeer.md">InputPeer</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../constructor/inputPeerSelf.md">inputPeerSelf</a>#7da07ec9 = <a href="../type/InputPeer.md">InputPeer</a>;</pre>
 
 ## Type
 
-&lt;a href=&#34;../type/InputPeer.md&#34;&gt;InputPeer&lt;/a&gt;
+<a href="../type/InputPeer.md">InputPeer</a>

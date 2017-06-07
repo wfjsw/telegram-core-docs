@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/phoneConnection.md">phoneConnection</a>#9d4c17c0 id:<a href="../type/long.md">long</a> ip:<a href="../type/string.md">string</a> ipv6:<a href="../type/string.md">string</a> port:<a href="../type/int.md">int</a> peer_tag:<a href="../type/bytes.md">bytes</a> = <a href="../type/PhoneConnection.md">PhoneConnection</a>;
-</pre>
-
+<a href="../constructor/phoneConnection.md">phoneConnection</a>#9d4c17c0 id:<a href="../type/long.md">long</a> ip:<a href="../type/string.md">string</a> ipv6:<a href="../type/string.md">string</a> port:<a href="../type/int.md">int</a> peer_tag:<a href="../type/bytes.md">bytes</a> = <a href="../type/PhoneConnection.md">PhoneConnection</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -18,4 +16,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PhoneConnection.md&#34;&gt;PhoneConnection&lt;/a&gt;
+<a href="../type/PhoneConnection.md">PhoneConnection</a>

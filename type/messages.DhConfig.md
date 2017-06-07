@@ -8,7 +8,6 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getDhConfig">messages.getDhConfig</a>#26cf8950 version:<a href="../type/int.md">int</a> random_length:<a href="../type/int.md">int</a> = <a href="../type/messages.DhConfig.md">messages.DhConfig</a>;
-
 </pre>
 
 ## Constructors

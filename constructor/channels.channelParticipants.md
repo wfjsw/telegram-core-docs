@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/channels.channelParticipants.md">channels.channelParticipants</a>#f56ee2a8 count:<a href="../type/int.md">int</a> participants:Vector&lt;<a href="../type/ChannelParticipant.md">ChannelParticipant</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/channels.ChannelParticipants.md">channels.ChannelParticipants</a>;
-</pre>
-
+<a href="../constructor/channels.channelParticipants.md">channels.channelParticipants</a>#f56ee2a8 count:<a href="../type/int.md">int</a> participants:Vector&lt;<a href="../type/ChannelParticipant.md">ChannelParticipant</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/channels.ChannelParticipants.md">channels.ChannelParticipants</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,4 +14,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/channels.ChannelParticipants.md&#34;&gt;channels.ChannelParticipants&lt;/a&gt;
+<a href="../type/channels.ChannelParticipants.md">channels.ChannelParticipants</a>

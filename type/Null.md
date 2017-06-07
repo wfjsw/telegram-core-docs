@@ -4,7 +4,6 @@ Sample Description
 
 <pre>
 <a href="../constructor/null">null</a>#56730bcc = <a href="../type/Null.md">Null</a>;
-
 </pre>
 
 ## Constructors

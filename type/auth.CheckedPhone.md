@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/auth.checkPhone">auth.checkPhone</a>#6fe51dfb phone_number:<a href="../type/string.md">string</a> = <a href="../type/auth.CheckedPhone.md">auth.CheckedPhone</a>;
-
 </pre>
 
 ## Constructors

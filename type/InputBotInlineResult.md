@@ -7,7 +7,6 @@ Sample Description
 <a href="../constructor/inputBotInlineResultPhoto">inputBotInlineResultPhoto</a>#a8d864a7 id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> photo:<a href="../type/InputPhoto.md">InputPhoto</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;
 <a href="../constructor/inputBotInlineResultDocument">inputBotInlineResultDocument</a>#fff8fdc4 flags:<a href="../type/#.md">#</a> id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> title:flags.1?<a href="../type/string.md">string</a> description:flags.2?<a href="../type/string.md">string</a> document:<a href="../type/InputDocument.md">InputDocument</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;
 <a href="../constructor/inputBotInlineResultGame">inputBotInlineResultGame</a>#4fa417f2 id:<a href="../type/string.md">string</a> short_name:<a href="../type/string.md">string</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;
-
 </pre>
 
 ## Constructors

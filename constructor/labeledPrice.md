@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/labeledPrice.md">labeledPrice</a>#cb296bf8 label:<a href="../type/string.md">string</a> amount:<a href="../type/long.md">long</a> = <a href="../type/LabeledPrice.md">LabeledPrice</a>;
-</pre>
-
+<a href="../constructor/labeledPrice.md">labeledPrice</a>#cb296bf8 label:<a href="../type/string.md">string</a> amount:<a href="../type/long.md">long</a> = <a href="../type/LabeledPrice.md">LabeledPrice</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/LabeledPrice.md&#34;&gt;LabeledPrice&lt;/a&gt;
+<a href="../type/LabeledPrice.md">LabeledPrice</a>

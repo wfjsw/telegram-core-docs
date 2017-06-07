@@ -1,6 +1,6 @@
 # User
 
-Sample Description
+Object defines a user.
 
 <pre>
 <a href="../constructor/userEmpty">userEmpty</a>#200250ba id:<a href="../type/int.md">int</a> = <a href="../type/User.md">User</a>;
@@ -12,15 +12,14 @@ Sample Description
 <a href="../method/account.changePhone">account.changePhone</a>#70c32edb phone_number:<a href="../type/string.md">string</a> phone_code_hash:<a href="../type/string.md">string</a> phone_code:<a href="../type/string.md">string</a> = <a href="../type/User.md">User</a>;
 <a href="../method/users.getUsers">users.getUsers</a>#d91a548 id:Vector&lt;<a href="../type/InputUser.md">InputUser</a>&gt; = Vector&lt;<a href="../type/User.md">User</a>&gt;;
 <a href="../method/contacts.importCard">contacts.importCard</a>#4fe196fe export_card:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/User.md">User</a>;
-
 </pre>
 
 ## Constructors
 
 | Name | Description |
 |------|-------------|
-| [userEmpty](../constructor/userEmpty.md) | Sample Description |
-| [user](../constructor/user.md) | Sample Description |
+| [userEmpty](../constructor/userEmpty.md) | Empty constructor, non-existent user. |
+| [user](../constructor/user.md) | The data of a user. |
 
 ## Methods
 

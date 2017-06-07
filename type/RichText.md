@@ -13,7 +13,6 @@ Sample Description
 <a href="../constructor/textUrl">textUrl</a>#3c2884c1 text:<a href="../type/RichText.md">RichText</a> url:<a href="../type/string.md">string</a> webpage_id:<a href="../type/long.md">long</a> = <a href="../type/RichText.md">RichText</a>;
 <a href="../constructor/textEmail">textEmail</a>#de5a0dd6 text:<a href="../type/RichText.md">RichText</a> email:<a href="../type/string.md">string</a> = <a href="../type/RichText.md">RichText</a>;
 <a href="../constructor/textConcat">textConcat</a>#7e6260d7 texts:Vector&lt;<a href="../type/RichText.md">RichText</a>&gt; = <a href="../type/RichText.md">RichText</a>;
-
 </pre>
 
 ## Constructors

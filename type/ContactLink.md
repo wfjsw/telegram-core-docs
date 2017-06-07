@@ -7,7 +7,6 @@ Sample Description
 <a href="../constructor/contactLinkNone">contactLinkNone</a>#feedd3ad = <a href="../type/ContactLink.md">ContactLink</a>;
 <a href="../constructor/contactLinkHasPhone">contactLinkHasPhone</a>#268f3f59 = <a href="../type/ContactLink.md">ContactLink</a>;
 <a href="../constructor/contactLinkContact">contactLinkContact</a>#d502c2d0 = <a href="../type/ContactLink.md">ContactLink</a>;
-
 </pre>
 
 ## Constructors

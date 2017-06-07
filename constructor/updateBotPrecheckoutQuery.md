@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateBotPrecheckoutQuery.md">updateBotPrecheckoutQuery</a>#5d2f3aa9 flags:<a href="../type/#.md">#</a> query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> payload:<a href="../type/bytes.md">bytes</a> info:flags.0?<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a> shipping_option_id:flags.1?<a href="../type/string.md">string</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/Update.md">Update</a>;
-</pre>
-
+<a href="../constructor/updateBotPrecheckoutQuery.md">updateBotPrecheckoutQuery</a>#5d2f3aa9 flags:<a href="../type/#.md">#</a> query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> payload:<a href="../type/bytes.md">bytes</a> info:flags.0?<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a> shipping_option_id:flags.1?<a href="../type/string.md">string</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/Update.md">Update</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -21,4 +19,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;
+<a href="../type/Update.md">Update</a>

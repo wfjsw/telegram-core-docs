@@ -7,17 +7,9 @@ Sample Description
 <a href="../constructor/account.password">account.password</a>#7c18141c current_salt:<a href="../type/bytes.md">bytes</a> new_salt:<a href="../type/bytes.md">bytes</a> hint:<a href="../type/string.md">string</a> has_recovery:<a href="../type/Bool.md">Bool</a> email_unconfirmed_pattern:<a href="../type/string.md">string</a> = <a href="../type/account.Password.md">account.Password</a>;
 
 ---functions---
-<a href="../method/account.getPassword.md">account.getPassword</a>#548a30f5 = <a href="../type/account.Password.md">account.Password</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../method/account.getPassword.md">account.getPassword</a>#548a30f5 = <a href="../type/account.Password.md">account.Password</a>;</pre>
 
 ## Result
 
-Returns <a href="../type/account.Password.md">account.Password</a>
-
-Describe the result
+<a href="../type/account.Password.md">account.Password</a>
 

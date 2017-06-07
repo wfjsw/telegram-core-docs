@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputNotifyPeer.md">inputNotifyPeer</a>#b8bc5b0c peer:<a href="../type/InputPeer.md">InputPeer</a> = <a href="../type/InputNotifyPeer.md">InputNotifyPeer</a>;
-</pre>
-
+<a href="../constructor/inputNotifyPeer.md">inputNotifyPeer</a>#b8bc5b0c peer:<a href="../type/InputPeer.md">InputPeer</a> = <a href="../type/InputNotifyPeer.md">InputNotifyPeer</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputNotifyPeer.md&#34;&gt;InputNotifyPeer&lt;/a&gt;
+<a href="../type/InputNotifyPeer.md">InputNotifyPeer</a>

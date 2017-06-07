@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.chatFull.md">messages.chatFull</a>#e5d7d19c full_chat:<a href="../type/ChatFull.md">ChatFull</a> chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/messages.ChatFull.md">messages.ChatFull</a>;
-</pre>
-
+<a href="../constructor/messages.chatFull.md">messages.chatFull</a>#e5d7d19c full_chat:<a href="../type/ChatFull.md">ChatFull</a> chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/messages.ChatFull.md">messages.ChatFull</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,4 +14,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/messages.ChatFull.md&#34;&gt;messages.ChatFull&lt;/a&gt;
+<a href="../type/messages.ChatFull.md">messages.ChatFull</a>

@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/encryptedChatDiscarded.md">encryptedChatDiscarded</a>#13d6dd27 id:<a href="../type/int.md">int</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;
-</pre>
-
+<a href="../constructor/encryptedChatDiscarded.md">encryptedChatDiscarded</a>#13d6dd27 id:<a href="../type/int.md">int</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/EncryptedChat.md&#34;&gt;EncryptedChat&lt;/a&gt;
+<a href="../type/EncryptedChat.md">EncryptedChat</a>

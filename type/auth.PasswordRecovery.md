@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/auth.requestPasswordRecovery">auth.requestPasswordRecovery</a>#d897bc66 = <a href="../type/auth.PasswordRecovery.md">auth.PasswordRecovery</a>;
-
 </pre>
 
 ## Constructors

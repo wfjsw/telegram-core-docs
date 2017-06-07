@@ -8,7 +8,6 @@ Sample Description
 ---functions---
 <a href="../method/messages.getGameHighScores">messages.getGameHighScores</a>#e822649d peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/messages.HighScores.md">messages.HighScores</a>;
 <a href="../method/messages.getInlineGameHighScores">messages.getInlineGameHighScores</a>#f635e1b id:<a href="../type/InputBotInlineMessageID.md">InputBotInlineMessageID</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/messages.HighScores.md">messages.HighScores</a>;
-
 </pre>
 
 ## Constructors

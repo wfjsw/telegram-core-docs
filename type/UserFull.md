@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/users.getFullUser">users.getFullUser</a>#ca30a5b1 id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/UserFull.md">UserFull</a>;
-
 </pre>
 
 ## Constructors

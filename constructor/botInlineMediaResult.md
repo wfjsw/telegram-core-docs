@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/botInlineMediaResult.md">botInlineMediaResult</a>#17db940b flags:<a href="../type/#.md">#</a> id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/Photo.md">Photo</a> document:flags.1?<a href="../type/Document.md">Document</a> title:flags.2?<a href="../type/string.md">string</a> description:flags.3?<a href="../type/string.md">string</a> send_message:<a href="../type/BotInlineMessage.md">BotInlineMessage</a> = <a href="../type/BotInlineResult.md">BotInlineResult</a>;
-</pre>
-
+<a href="../constructor/botInlineMediaResult.md">botInlineMediaResult</a>#17db940b flags:<a href="../type/#.md">#</a> id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/Photo.md">Photo</a> document:flags.1?<a href="../type/Document.md">Document</a> title:flags.2?<a href="../type/string.md">string</a> description:flags.3?<a href="../type/string.md">string</a> send_message:<a href="../type/BotInlineMessage.md">BotInlineMessage</a> = <a href="../type/BotInlineResult.md">BotInlineResult</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -21,4 +19,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/BotInlineResult.md&#34;&gt;BotInlineResult&lt;/a&gt;
+<a href="../type/BotInlineResult.md">BotInlineResult</a>

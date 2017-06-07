@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/channels.getParticipants">channels.getParticipants</a>#24d98f92 channel:<a href="../type/InputChannel.md">InputChannel</a> filter:<a href="../type/ChannelParticipantsFilter.md">ChannelParticipantsFilter</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/channels.ChannelParticipants.md">channels.ChannelParticipants</a>;
-
 </pre>
 
 ## Constructors

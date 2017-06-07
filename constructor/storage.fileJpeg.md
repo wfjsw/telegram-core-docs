@@ -1,16 +1,10 @@
 # storage.fileJpeg
 
-Sample Description
+`image/jpeg`
 
 <pre>
-<a href="../constructor/storage.fileJpeg.md">storage.fileJpeg</a>#7efe0e = <a href="../type/storage.FileType.md">storage.FileType</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../constructor/storage.fileJpeg.md">storage.fileJpeg</a>#7efe0e = <a href="../type/storage.FileType.md">storage.FileType</a>;</pre>
 
 ## Type
 
-&lt;a href=&#34;../type/storage.FileType.md&#34;&gt;storage.FileType&lt;/a&gt;
+<a href="../type/storage.FileType.md">storage.FileType</a>

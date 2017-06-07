@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/textItalic.md">textItalic</a>#d912a59c text:<a href="../type/RichText.md">RichText</a> = <a href="../type/RichText.md">RichText</a>;
-</pre>
-
+<a href="../constructor/textItalic.md">textItalic</a>#d912a59c text:<a href="../type/RichText.md">RichText</a> = <a href="../type/RichText.md">RichText</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/RichText.md&#34;&gt;RichText&lt;/a&gt;
+<a href="../type/RichText.md">RichText</a>

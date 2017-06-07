@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputChatPhoto.md">inputChatPhoto</a>#8953ad37 id:<a href="../type/InputPhoto.md">InputPhoto</a> = <a href="../type/InputChatPhoto.md">InputChatPhoto</a>;
-</pre>
-
+<a href="../constructor/inputChatPhoto.md">inputChatPhoto</a>#8953ad37 id:<a href="../type/InputPhoto.md">InputPhoto</a> = <a href="../type/InputChatPhoto.md">InputChatPhoto</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputChatPhoto.md&#34;&gt;InputChatPhoto&lt;/a&gt;
+<a href="../type/InputChatPhoto.md">InputChatPhoto</a>

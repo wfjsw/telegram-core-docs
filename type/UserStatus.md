@@ -9,7 +9,6 @@ Sample Description
 <a href="../constructor/userStatusRecently">userStatusRecently</a>#e26f42f1 = <a href="../type/UserStatus.md">UserStatus</a>;
 <a href="../constructor/userStatusLastWeek">userStatusLastWeek</a>#7bf09fc = <a href="../type/UserStatus.md">UserStatus</a>;
 <a href="../constructor/userStatusLastMonth">userStatusLastMonth</a>#77ebc742 = <a href="../type/UserStatus.md">UserStatus</a>;
-
 </pre>
 
 ## Constructors

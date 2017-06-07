@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/chatForbidden.md">chatForbidden</a>#7328bdb id:<a href="../type/int.md">int</a> title:<a href="../type/string.md">string</a> = <a href="../type/Chat.md">Chat</a>;
-</pre>
-
+<a href="../constructor/chatForbidden.md">chatForbidden</a>#7328bdb id:<a href="../type/int.md">int</a> title:<a href="../type/string.md">string</a> = <a href="../type/Chat.md">Chat</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/Chat.md&#34;&gt;Chat&lt;/a&gt;
+<a href="../type/Chat.md">Chat</a>

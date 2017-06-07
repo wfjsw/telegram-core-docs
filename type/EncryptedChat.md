@@ -12,7 +12,6 @@ Sample Description
 ---functions---
 <a href="../method/messages.requestEncryption">messages.requestEncryption</a>#f64daf43 user_id:<a href="../type/InputUser.md">InputUser</a> random_id:<a href="../type/int.md">int</a> g_a:<a href="../type/bytes.md">bytes</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;
 <a href="../method/messages.acceptEncryption">messages.acceptEncryption</a>#3dbc0415 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> g_b:<a href="../type/bytes.md">bytes</a> key_fingerprint:<a href="../type/long.md">long</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;
-
 </pre>
 
 ## Constructors

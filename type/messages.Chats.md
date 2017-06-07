@@ -12,7 +12,6 @@ Sample Description
 <a href="../method/messages.getAllChats">messages.getAllChats</a>#eba80ff0 except_ids:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
 <a href="../method/channels.getChannels">channels.getChannels</a>#a7f6bbb id:Vector&lt;<a href="../type/InputChannel.md">InputChannel</a>&gt; = <a href="../type/messages.Chats.md">messages.Chats</a>;
 <a href="../method/channels.getAdminedPublicChannels">channels.getAdminedPublicChannels</a>#8d8d82d7 = <a href="../type/messages.Chats.md">messages.Chats</a>;
-
 </pre>
 
 ## Constructors

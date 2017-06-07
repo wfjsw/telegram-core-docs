@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageMediaInvoice.md">messageMediaInvoice</a>#84551347 flags:<a href="../type/#.md">#</a> shipping_address_requested:flags.1?<a href="../type/true.md">true</a> test:flags.3?<a href="../type/true.md">true</a> title:<a href="../type/string.md">string</a> description:<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/WebDocument.md">WebDocument</a> receipt_msg_id:flags.2?<a href="../type/int.md">int</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/MessageMedia.md">MessageMedia</a>;
-</pre>
-
+<a href="../constructor/messageMediaInvoice.md">messageMediaInvoice</a>#84551347 flags:<a href="../type/#.md">#</a> shipping_address_requested:flags.1?<a href="../type/true.md">true</a> test:flags.3?<a href="../type/true.md">true</a> title:<a href="../type/string.md">string</a> description:<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/WebDocument.md">WebDocument</a> receipt_msg_id:flags.2?<a href="../type/int.md">int</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/MessageMedia.md">MessageMedia</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -23,4 +21,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/MessageMedia.md&#34;&gt;MessageMedia&lt;/a&gt;
+<a href="../type/MessageMedia.md">MessageMedia</a>

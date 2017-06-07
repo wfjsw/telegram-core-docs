@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/exportedMessageLink.md">exportedMessageLink</a>#1f486803 link:<a href="../type/string.md">string</a> = <a href="../type/ExportedMessageLink.md">ExportedMessageLink</a>;
-</pre>
-
+<a href="../constructor/exportedMessageLink.md">exportedMessageLink</a>#1f486803 link:<a href="../type/string.md">string</a> = <a href="../type/ExportedMessageLink.md">ExportedMessageLink</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/ExportedMessageLink.md&#34;&gt;ExportedMessageLink&lt;/a&gt;
+<a href="../type/ExportedMessageLink.md">ExportedMessageLink</a>

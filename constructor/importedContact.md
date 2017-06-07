@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/importedContact.md">importedContact</a>#d0028438 user_id:<a href="../type/int.md">int</a> client_id:<a href="../type/long.md">long</a> = <a href="../type/ImportedContact.md">ImportedContact</a>;
-</pre>
-
+<a href="../constructor/importedContact.md">importedContact</a>#d0028438 user_id:<a href="../type/int.md">int</a> client_id:<a href="../type/long.md">long</a> = <a href="../type/ImportedContact.md">ImportedContact</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/ImportedContact.md&#34;&gt;ImportedContact&lt;/a&gt;
+<a href="../type/ImportedContact.md">ImportedContact</a>

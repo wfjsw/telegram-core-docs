@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/peerSettings.md">peerSettings</a>#818426cd flags:<a href="../type/#.md">#</a> report_spam:flags.0?<a href="../type/true.md">true</a> = <a href="../type/PeerSettings.md">PeerSettings</a>;
-</pre>
-
+<a href="../constructor/peerSettings.md">peerSettings</a>#818426cd flags:<a href="../type/#.md">#</a> report_spam:flags.0?<a href="../type/true.md">true</a> = <a href="../type/PeerSettings.md">PeerSettings</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PeerSettings.md&#34;&gt;PeerSettings&lt;/a&gt;
+<a href="../type/PeerSettings.md">PeerSettings</a>

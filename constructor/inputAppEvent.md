@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputAppEvent.md">inputAppEvent</a>#770656a8 time:<a href="../type/double.md">double</a> type:<a href="../type/string.md">string</a> peer:<a href="../type/long.md">long</a> data:<a href="../type/string.md">string</a> = <a href="../type/InputAppEvent.md">InputAppEvent</a>;
-</pre>
-
+<a href="../constructor/inputAppEvent.md">inputAppEvent</a>#770656a8 time:<a href="../type/double.md">double</a> type:<a href="../type/string.md">string</a> peer:<a href="../type/long.md">long</a> data:<a href="../type/string.md">string</a> = <a href="../type/InputAppEvent.md">InputAppEvent</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -17,4 +15,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputAppEvent.md&#34;&gt;InputAppEvent&lt;/a&gt;
+<a href="../type/InputAppEvent.md">InputAppEvent</a>

@@ -1,6 +1,6 @@
 # messages.sendMessage
 
-Sample Description
+Sends a text message.
 
 <pre>
 <a href="../constructor/updatesTooLong">updatesTooLong</a>#e317af7e = <a href="../type/Updates.md">Updates</a>;
@@ -12,28 +12,31 @@ Sample Description
 <a href="../constructor/updateShortSentMessage">updateShortSentMessage</a>#11f1331c flags:<a href="../type/#.md">#</a> out:flags.1?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> media:flags.9?<a href="../type/MessageMedia.md">MessageMedia</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
 
 ---functions---
-<a href="../method/messages.sendMessage.md">messages.sendMessage</a>#fa88427a flags:<a href="../type/#.md">#</a> no_webpage:flags.1?<a href="../type/true.md">true</a> silent:flags.5?<a href="../type/true.md">true</a> background:flags.6?<a href="../type/true.md">true</a> clear_draft:flags.7?<a href="../type/true.md">true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> reply_to_msg_id:flags.0?<a href="../type/int.md">int</a> message:<a href="../type/string.md">string</a> random_id:<a href="../type/long.md">long</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> entities:flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
-</pre>
-
+<a href="../method/messages.sendMessage.md">messages.sendMessage</a>#fa88427a flags:<a href="../type/#.md">#</a> no_webpage:flags.1?<a href="../type/true.md">true</a> silent:flags.5?<a href="../type/true.md">true</a> background:flags.6?<a href="../type/true.md">true</a> clear_draft:flags.7?<a href="../type/true.md">true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> reply_to_msg_id:flags.0?<a href="../type/int.md">int</a> message:<a href="../type/string.md">string</a> random_id:<a href="../type/long.md">long</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> entities:flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
 | **flags** | <a href="../type/#.md">#</a> | Param description |
-| **no_webpage** | flags.1?<a href="../type/true.md">true</a> | Param description |
-| **silent** | flags.5?<a href="../type/true.md">true</a> | Param description |
+| **no_webpage** | flags.1?<a href="../type/true.md">true</a> | Disables link previews for links in this message |
+| **silent** | flags.5?<a href="../type/true.md">true</a> | Prevent the message from producing a sound notification |
 | **background** | flags.6?<a href="../type/true.md">true</a> | Param description |
-| **clear_draft** | flags.7?<a href="../type/true.md">true</a> | Param description |
-| **peer** | <a href="../type/InputPeer.md">InputPeer</a> | Param description |
+| **clear_draft** | flags.7?<a href="../type/true.md">true</a> | Whether clear the draft after message sent |
+| **peer** | <a href="../type/InputPeer.md">InputPeer</a> | User or chat where a message will be sent |
 | **reply_to_msg_id** | flags.0?<a href="../type/int.md">int</a> | Param description |
-| **message** | <a href="../type/string.md">string</a> | Param description |
-| **random_id** | <a href="../type/long.md">long</a> | Param description |
-| **reply_markup** | flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> | Param description |
-| **entities** | flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; | Param description |
+| **message** | <a href="../type/string.md">string</a> | Message text |
+| **random_id** | <a href="../type/long.md">long</a> | Unique client message ID required to prevent message resending |
+| **reply_markup** | flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> | Additional interface options. A constructor for an inline keyboard, custom reply keyboard, instructions to remove reply keyboard or to force a reply from the user. (for bots only) |
+| **entities** | flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; | Special entities that appear in message, such as usernames, URLs, bot commands, etc. |
 
 ## Result
 
-Returns <a href="../type/Updates.md">Updates</a>
+<a href="../type/Updates.md">Updates</a>
 
-Describe the result
+## Possible errors
 
+| Code | Type | Description |
+|------|------|-------------|
+| **400 BAD_REQUEST** | PEER_ID_INVALID | Invalid peer |
+| **400 BAD_REQUEST** | MESSAGE_EMPTY | Empty or invalid UTF8 message was sent |
+| **400 BAD_REQUEST** | MESSAGE_TOO_LONG | Message was too long.<br> Current maximum length is 4096 UTF8 characters |

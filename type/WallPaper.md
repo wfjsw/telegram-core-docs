@@ -1,6 +1,6 @@
 # WallPaper
 
-Sample Description
+Object contains info on a wallpaper.
 
 <pre>
 <a href="../constructor/wallPaper">wallPaper</a>#ccb03657 id:<a href="../type/int.md">int</a> title:<a href="../type/string.md">string</a> sizes:Vector&lt;<a href="../type/PhotoSize.md">PhotoSize</a>&gt; color:<a href="../type/int.md">int</a> = <a href="../type/WallPaper.md">WallPaper</a>;
@@ -8,15 +8,14 @@ Sample Description
 
 ---functions---
 <a href="../method/account.getWallPapers">account.getWallPapers</a>#c04cfac2 = Vector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;;
-
 </pre>
 
 ## Constructors
 
 | Name | Description |
 |------|-------------|
-| [wallPaper](../constructor/wallPaper.md) | Sample Description |
-| [wallPaperSolid](../constructor/wallPaperSolid.md) | Sample Description |
+| [wallPaper](../constructor/wallPaper.md) | Wallpaper settings. |
+| [wallPaperSolid](../constructor/wallPaperSolid.md) | One-color background wallpaper (no image). |
 
 ## Methods
 

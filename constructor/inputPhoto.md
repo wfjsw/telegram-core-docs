@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputPhoto.md">inputPhoto</a>#fb95c6c4 id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputPhoto.md">InputPhoto</a>;
-</pre>
-
+<a href="../constructor/inputPhoto.md">inputPhoto</a>#fb95c6c4 id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputPhoto.md">InputPhoto</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputPhoto.md&#34;&gt;InputPhoto&lt;/a&gt;
+<a href="../type/InputPhoto.md">InputPhoto</a>

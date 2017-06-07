@@ -36,7 +36,6 @@
 | [account.updateProfile](method/account.updateProfile.md) | Sample Description |
 | [account.updateStatus](method/account.updateStatus.md) | Sample Description |
 | [account.getWallPapers](method/account.getWallPapers.md) | Sample Description |
-| [account.reportPeer](method/account.reportPeer.md) | Sample Description |
 | [account.getPrivacy](method/account.getPrivacy.md) | Sample Description |
 | [account.setPrivacy](method/account.setPrivacy.md) | Sample Description |
 | [account.deleteAccount](method/account.deleteAccount.md) | Sample Description |
@@ -104,12 +103,12 @@
 | [messages.getHistory](method/messages.getHistory.md) | Sample Description |
 | [messages.search](method/messages.search.md) | Sample Description |
 | [messages.searchGlobal](method/messages.searchGlobal.md) | Sample Description |
-| [messages.readHistory](method/messages.readHistory.md) | Sample Description |
-| [messages.deleteHistory](method/messages.deleteHistory.md) | Sample Description |
+| [messages.readHistory](method/messages.readHistory.md) | Marks message history as read. |
+| [messages.deleteHistory](method/messages.deleteHistory.md) | Deletes communication history. |
 | [messages.deleteMessages](method/messages.deleteMessages.md) | Sample Description |
 | [messages.receivedMessages](method/messages.receivedMessages.md) | Sample Description |
 | [messages.setTyping](method/messages.setTyping.md) | Sample Description |
-| [messages.sendMessage](method/messages.sendMessage.md) | Sample Description |
+| [messages.sendMessage](method/messages.sendMessage.md) | Sends a text message. |
 | [messages.sendMedia](method/messages.sendMedia.md) | Sample Description |
 | [messages.forwardMessage](method/messages.forwardMessage.md) | Sample Description |
 | [messages.forwardMessages](method/messages.forwardMessages.md) | Sample Description |
@@ -207,6 +206,7 @@
 
 | Method | Description |
 |--------|-------------|
+| [account.reportPeer](method/account.reportPeer.md) | Sample Description |
 | [messages.reportSpam](method/messages.reportSpam.md) | Sample Description |
 | [messages.hideReportSpam](method/messages.hideReportSpam.md) | Sample Description |
 | [messages.reportEncryptedSpam](method/messages.reportEncryptedSpam.md) | Sample Description |

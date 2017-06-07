@@ -3,14 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageActionHistoryClear.md">messageActionHistoryClear</a>#9fbab604 = <a href="../type/MessageAction.md">MessageAction</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../constructor/messageActionHistoryClear.md">messageActionHistoryClear</a>#9fbab604 = <a href="../type/MessageAction.md">MessageAction</a>;</pre>
 
 ## Type
 
-&lt;a href=&#34;../type/MessageAction.md&#34;&gt;MessageAction&lt;/a&gt;
+<a href="../type/MessageAction.md">MessageAction</a>

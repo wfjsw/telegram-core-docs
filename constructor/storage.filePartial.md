@@ -1,16 +1,10 @@
 # storage.filePartial
 
-Sample Description
+Part of a bigger file
 
 <pre>
-<a href="../constructor/storage.filePartial.md">storage.filePartial</a>#40bc6f52 = <a href="../type/storage.FileType.md">storage.FileType</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../constructor/storage.filePartial.md">storage.filePartial</a>#40bc6f52 = <a href="../type/storage.FileType.md">storage.FileType</a>;</pre>
 
 ## Type
 
-&lt;a href=&#34;../type/storage.FileType.md&#34;&gt;storage.FileType&lt;/a&gt;
+<a href="../type/storage.FileType.md">storage.FileType</a>

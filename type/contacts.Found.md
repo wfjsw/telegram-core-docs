@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.search">contacts.search</a>#11f812d8 q:<a href="../type/string.md">string</a> limit:<a href="../type/int.md">int</a> = <a href="../type/contacts.Found.md">contacts.Found</a>;
-
 </pre>
 
 ## Constructors

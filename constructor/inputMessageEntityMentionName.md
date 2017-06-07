@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputMessageEntityMentionName.md">inputMessageEntityMentionName</a>#208e68c9 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-</pre>
-
+<a href="../constructor/inputMessageEntityMentionName.md">inputMessageEntityMentionName</a>#208e68c9 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,4 +14,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;
+<a href="../type/MessageEntity.md">MessageEntity</a>

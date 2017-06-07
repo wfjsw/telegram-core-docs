@@ -17,7 +17,6 @@ Sample Description
 <a href="../constructor/inputMessagesFilterPhoneCalls">inputMessagesFilterPhoneCalls</a>#80c99768 flags:<a href="../type/#.md">#</a> missed:flags.0?<a href="../type/true.md">true</a> = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 <a href="../constructor/inputMessagesFilterRoundVoice">inputMessagesFilterRoundVoice</a>#7a7c17a4 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 <a href="../constructor/inputMessagesFilterRoundVideo">inputMessagesFilterRoundVideo</a>#b549da53 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
-
 </pre>
 
 ## Constructors

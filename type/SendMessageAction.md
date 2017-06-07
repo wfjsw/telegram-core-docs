@@ -16,7 +16,6 @@ Sample Description
 <a href="../constructor/sendMessageGamePlayAction">sendMessageGamePlayAction</a>#dd6a8f48 = <a href="../type/SendMessageAction.md">SendMessageAction</a>;
 <a href="../constructor/sendMessageRecordRoundAction">sendMessageRecordRoundAction</a>#88f27fbc = <a href="../type/SendMessageAction.md">SendMessageAction</a>;
 <a href="../constructor/sendMessageUploadRoundAction">sendMessageUploadRoundAction</a>#243e1c66 progress:<a href="../type/int.md">int</a> = <a href="../type/SendMessageAction.md">SendMessageAction</a>;
-
 </pre>
 
 ## Constructors

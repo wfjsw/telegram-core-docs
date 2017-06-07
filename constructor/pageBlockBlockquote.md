@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/pageBlockBlockquote.md">pageBlockBlockquote</a>#263d7c26 text:<a href="../type/RichText.md">RichText</a> caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;
-</pre>
-
+<a href="../constructor/pageBlockBlockquote.md">pageBlockBlockquote</a>#263d7c26 text:<a href="../type/RichText.md">RichText</a> caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;
+<a href="../type/PageBlock.md">PageBlock</a>

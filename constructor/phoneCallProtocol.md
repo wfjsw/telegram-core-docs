@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/phoneCallProtocol.md">phoneCallProtocol</a>#a2bb35cb flags:<a href="../type/#.md">#</a> udp_p2p:flags.0?<a href="../type/true.md">true</a> udp_reflector:flags.1?<a href="../type/true.md">true</a> min_layer:<a href="../type/int.md">int</a> max_layer:<a href="../type/int.md">int</a> = <a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a>;
-</pre>
-
+<a href="../constructor/phoneCallProtocol.md">phoneCallProtocol</a>#a2bb35cb flags:<a href="../type/#.md">#</a> udp_p2p:flags.0?<a href="../type/true.md">true</a> udp_reflector:flags.1?<a href="../type/true.md">true</a> min_layer:<a href="../type/int.md">int</a> max_layer:<a href="../type/int.md">int</a> = <a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -18,4 +16,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PhoneCallProtocol.md&#34;&gt;PhoneCallProtocol&lt;/a&gt;
+<a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a>

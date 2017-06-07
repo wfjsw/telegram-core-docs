@@ -7,7 +7,6 @@ Sample Description
 <a href="../constructor/phoneCallDiscardReasonDisconnect">phoneCallDiscardReasonDisconnect</a>#e095c1a0 = <a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a>;
 <a href="../constructor/phoneCallDiscardReasonHangup">phoneCallDiscardReasonHangup</a>#57adc690 = <a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a>;
 <a href="../constructor/phoneCallDiscardReasonBusy">phoneCallDiscardReasonBusy</a>#faf7e8c9 = <a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a>;
-
 </pre>
 
 ## Constructors

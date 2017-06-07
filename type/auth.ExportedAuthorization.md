@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/auth.exportAuthorization">auth.exportAuthorization</a>#e5bfffcd dc_id:<a href="../type/int.md">int</a> = <a href="../type/auth.ExportedAuthorization.md">auth.ExportedAuthorization</a>;
-
 </pre>
 
 ## Constructors

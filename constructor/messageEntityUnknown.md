@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageEntityUnknown.md">messageEntityUnknown</a>#bb92ba95 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
-</pre>
-
+<a href="../constructor/messageEntityUnknown.md">messageEntityUnknown</a>#bb92ba95 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/MessageEntity.md&#34;&gt;MessageEntity&lt;/a&gt;
+<a href="../type/MessageEntity.md">MessageEntity</a>

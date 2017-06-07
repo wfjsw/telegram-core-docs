@@ -8,9 +8,7 @@ Sample Description
 <a href="../constructor/messages.channelMessages">messages.channelMessages</a>#99262e37 flags:<a href="../type/#.md">#</a> pts:<a href="../type/int.md">int</a> count:<a href="../type/int.md">int</a> messages:Vector&lt;<a href="../type/Message.md">Message</a>&gt; chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/messages.Messages.md">messages.Messages</a>;
 
 ---functions---
-<a href="../method/messages.search.md">messages.search</a>#d4569248 flags:<a href="../type/#.md">#</a> peer:<a href="../type/InputPeer.md">InputPeer</a> q:<a href="../type/string.md">string</a> filter:<a href="../type/MessagesFilter.md">MessagesFilter</a> min_date:<a href="../type/int.md">int</a> max_date:<a href="../type/int.md">int</a> offset:<a href="../type/int.md">int</a> max_id:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.Messages.md">messages.Messages</a>;
-</pre>
-
+<a href="../method/messages.search.md">messages.search</a>#d4569248 flags:<a href="../type/#.md">#</a> peer:<a href="../type/InputPeer.md">InputPeer</a> q:<a href="../type/string.md">string</a> filter:<a href="../type/MessagesFilter.md">MessagesFilter</a> min_date:<a href="../type/int.md">int</a> max_date:<a href="../type/int.md">int</a> offset:<a href="../type/int.md">int</a> max_id:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.Messages.md">messages.Messages</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -27,7 +25,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/messages.Messages.md">messages.Messages</a>
-
-Describe the result
+<a href="../type/messages.Messages.md">messages.Messages</a>
 

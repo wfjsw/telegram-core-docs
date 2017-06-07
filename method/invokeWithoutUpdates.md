@@ -5,9 +5,7 @@ Sample Description
 <pre>
 
 ---functions---
-<a href="../method/invokeWithoutUpdates.md">invokeWithoutUpdates</a>#bf9459b7 query:<a href="../type/!X.md">!X</a> = <a href="../type/X.md">X</a>;
-</pre>
-
+<a href="../method/invokeWithoutUpdates.md">invokeWithoutUpdates</a>#bf9459b7 query:<a href="../type/!X.md">!X</a> = <a href="../type/X.md">X</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,7 +14,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/X.md">X</a>
-
-Describe the result
+<a href="../type/X.md">X</a>
 

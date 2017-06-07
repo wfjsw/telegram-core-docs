@@ -8,7 +8,6 @@ Sample Description
 ---functions---
 <a href="../method/account.getPrivacy">account.getPrivacy</a>#dadbc950 key:<a href="../type/InputPrivacyKey.md">InputPrivacyKey</a> = <a href="../type/account.PrivacyRules.md">account.PrivacyRules</a>;
 <a href="../method/account.setPrivacy">account.setPrivacy</a>#c9f81ce8 key:<a href="../type/InputPrivacyKey.md">InputPrivacyKey</a> rules:Vector&lt;<a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>&gt; = <a href="../type/account.PrivacyRules.md">account.PrivacyRules</a>;
-
 </pre>
 
 ## Constructors

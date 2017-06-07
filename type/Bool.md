@@ -1,6 +1,6 @@
 # Bool
 
-Sample Description
+Boolean type.
 
 <pre>
 <a href="../constructor/boolFalse">boolFalse</a>#bc799737 = <a href="../type/Bool.md">Bool</a>;
@@ -67,7 +67,6 @@ Sample Description
 <a href="../method/payments.clearSavedInfo">payments.clearSavedInfo</a>#d83d70c1 flags:<a href="../type/#.md">#</a> credentials:flags.0?<a href="../type/true.md">true</a> info:flags.1?<a href="../type/true.md">true</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/phone.receivedCall">phone.receivedCall</a>#17d54f61 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/phone.saveCallDebug">phone.saveCallDebug</a>#277add7e peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> debug:<a href="../type/DataJSON.md">DataJSON</a> = <a href="../type/Bool.md">Bool</a>;
-
 </pre>
 
 ## Constructors

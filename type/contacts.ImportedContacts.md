@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.importContacts">contacts.importContacts</a>#da30b32d contacts:Vector&lt;<a href="../type/InputContact.md">InputContact</a>&gt; replace:<a href="../type/Bool.md">Bool</a> = <a href="../type/contacts.ImportedContacts.md">contacts.ImportedContacts</a>;
-
 </pre>
 
 ## Constructors

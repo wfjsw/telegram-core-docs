@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getArchivedStickers">messages.getArchivedStickers</a>#57f17692 flags:<a href="../type/#.md">#</a> masks:flags.0?<a href="../type/true.md">true</a> offset_id:<a href="../type/long.md">long</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.ArchivedStickers.md">messages.ArchivedStickers</a>;
-
 </pre>
 
 ## Constructors

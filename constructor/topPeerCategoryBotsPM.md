@@ -3,14 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/topPeerCategoryBotsPM.md">topPeerCategoryBotsPM</a>#ab661b5b = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../constructor/topPeerCategoryBotsPM.md">topPeerCategoryBotsPM</a>#ab661b5b = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;</pre>
 
 ## Type
 
-&lt;a href=&#34;../type/TopPeerCategory.md&#34;&gt;TopPeerCategory&lt;/a&gt;
+<a href="../type/TopPeerCategory.md">TopPeerCategory</a>

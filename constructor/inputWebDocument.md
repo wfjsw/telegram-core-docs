@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputWebDocument.md">inputWebDocument</a>#9bed434d url:<a href="../type/string.md">string</a> size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> attributes:Vector&lt;<a href="../type/DocumentAttribute.md">DocumentAttribute</a>&gt; = <a href="../type/InputWebDocument.md">InputWebDocument</a>;
-</pre>
-
+<a href="../constructor/inputWebDocument.md">inputWebDocument</a>#9bed434d url:<a href="../type/string.md">string</a> size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> attributes:Vector&lt;<a href="../type/DocumentAttribute.md">DocumentAttribute</a>&gt; = <a href="../type/InputWebDocument.md">InputWebDocument</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -17,4 +15,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputWebDocument.md&#34;&gt;InputWebDocument&lt;/a&gt;
+<a href="../type/InputWebDocument.md">InputWebDocument</a>

@@ -7,9 +7,7 @@ Sample Description
 <a href="../constructor/boolTrue">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/channels.updateUsername.md">channels.updateUsername</a>#3514b3de channel:<a href="../type/InputChannel.md">InputChannel</a> username:<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;
-</pre>
-
+<a href="../method/channels.updateUsername.md">channels.updateUsername</a>#3514b3de channel:<a href="../type/InputChannel.md">InputChannel</a> username:<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -19,7 +17,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/Bool.md">Bool</a>
-
-Describe the result
+<a href="../type/Bool.md">Bool</a>
 

@@ -7,7 +7,6 @@ Sample Description
 <a href="../constructor/inputNotifyUsers">inputNotifyUsers</a>#193b4417 = <a href="../type/InputNotifyPeer.md">InputNotifyPeer</a>;
 <a href="../constructor/inputNotifyChats">inputNotifyChats</a>#4a95e84e = <a href="../type/InputNotifyPeer.md">InputNotifyPeer</a>;
 <a href="../constructor/inputNotifyAll">inputNotifyAll</a>#a429b886 = <a href="../type/InputNotifyPeer.md">InputNotifyPeer</a>;
-
 </pre>
 
 ## Constructors

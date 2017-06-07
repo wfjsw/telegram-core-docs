@@ -7,7 +7,6 @@ Sample Description
 <a href="../constructor/channelParticipantsAdmins">channelParticipantsAdmins</a>#b4608969 = <a href="../type/ChannelParticipantsFilter.md">ChannelParticipantsFilter</a>;
 <a href="../constructor/channelParticipantsKicked">channelParticipantsKicked</a>#3c37bb7a = <a href="../type/ChannelParticipantsFilter.md">ChannelParticipantsFilter</a>;
 <a href="../constructor/channelParticipantsBots">channelParticipantsBots</a>#b0d1865b = <a href="../type/ChannelParticipantsFilter.md">ChannelParticipantsFilter</a>;
-
 </pre>
 
 ## Constructors

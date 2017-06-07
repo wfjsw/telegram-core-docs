@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/upload.webFile.md">upload.webFile</a>#21e753bc size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> file_type:<a href="../type/storage.FileType.md">storage.FileType</a> mtime:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/upload.WebFile.md">upload.WebFile</a>;
-</pre>
-
+<a href="../constructor/upload.webFile.md">upload.webFile</a>#21e753bc size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> file_type:<a href="../type/storage.FileType.md">storage.FileType</a> mtime:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/upload.WebFile.md">upload.WebFile</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -18,4 +16,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/upload.WebFile.md&#34;&gt;upload.WebFile&lt;/a&gt;
+<a href="../type/upload.WebFile.md">upload.WebFile</a>

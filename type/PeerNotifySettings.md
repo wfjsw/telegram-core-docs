@@ -8,7 +8,6 @@ Sample Description
 
 ---functions---
 <a href="../method/account.getNotifySettings">account.getNotifySettings</a>#12b3ad31 peer:<a href="../type/InputNotifyPeer.md">InputNotifyPeer</a> = <a href="../type/PeerNotifySettings.md">PeerNotifySettings</a>;
-
 </pre>
 
 ## Constructors

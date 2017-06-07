@@ -3,14 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputChannelEmpty.md">inputChannelEmpty</a>#ee8c1e86 = <a href="../type/InputChannel.md">InputChannel</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../constructor/inputChannelEmpty.md">inputChannelEmpty</a>#ee8c1e86 = <a href="../type/InputChannel.md">InputChannel</a>;</pre>
 
 ## Type
 
-&lt;a href=&#34;../type/InputChannel.md&#34;&gt;InputChannel&lt;/a&gt;
+<a href="../type/InputChannel.md">InputChannel</a>

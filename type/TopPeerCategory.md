@@ -8,7 +8,6 @@ Sample Description
 <a href="../constructor/topPeerCategoryCorrespondents">topPeerCategoryCorrespondents</a>#637b7ed = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
 <a href="../constructor/topPeerCategoryGroups">topPeerCategoryGroups</a>#bd17a14a = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
 <a href="../constructor/topPeerCategoryChannels">topPeerCategoryChannels</a>#161d9628 = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
-
 </pre>
 
 ## Constructors

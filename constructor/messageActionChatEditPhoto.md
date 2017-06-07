@@ -1,17 +1,15 @@
 # messageActionChatEditPhoto
 
-Sample Description
+Group profile changed
 
 <pre>
-<a href="../constructor/messageActionChatEditPhoto.md">messageActionChatEditPhoto</a>#7fcb13a8 photo:<a href="../type/Photo.md">Photo</a> = <a href="../type/MessageAction.md">MessageAction</a>;
-</pre>
-
+<a href="../constructor/messageActionChatEditPhoto.md">messageActionChatEditPhoto</a>#7fcb13a8 photo:<a href="../type/Photo.md">Photo</a> = <a href="../type/MessageAction.md">MessageAction</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **photo** | <a href="../type/Photo.md">Photo</a> | Param description |
+| **photo** | <a href="../type/Photo.md">Photo</a> | New group profile photo |
 
 ## Type
 
-&lt;a href=&#34;../type/MessageAction.md&#34;&gt;MessageAction&lt;/a&gt;
+<a href="../type/MessageAction.md">MessageAction</a>

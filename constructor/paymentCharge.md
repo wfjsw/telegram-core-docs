@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/paymentCharge.md">paymentCharge</a>#ea02c27e id:<a href="../type/string.md">string</a> provider_charge_id:<a href="../type/string.md">string</a> = <a href="../type/PaymentCharge.md">PaymentCharge</a>;
-</pre>
-
+<a href="../constructor/paymentCharge.md">paymentCharge</a>#ea02c27e id:<a href="../type/string.md">string</a> provider_charge_id:<a href="../type/string.md">string</a> = <a href="../type/PaymentCharge.md">PaymentCharge</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PaymentCharge.md&#34;&gt;PaymentCharge&lt;/a&gt;
+<a href="../type/PaymentCharge.md">PaymentCharge</a>

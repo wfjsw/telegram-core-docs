@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateStickerSetsOrder.md">updateStickerSetsOrder</a>#bb2d201 flags:<a href="../type/#.md">#</a> masks:flags.0?<a href="../type/true.md">true</a> order:Vector&lt;<a href="../type/long.md">long</a>&gt; = <a href="../type/Update.md">Update</a>;
-</pre>
-
+<a href="../constructor/updateStickerSetsOrder.md">updateStickerSetsOrder</a>#bb2d201 flags:<a href="../type/#.md">#</a> masks:flags.0?<a href="../type/true.md">true</a> order:Vector&lt;<a href="../type/long.md">long</a>&gt; = <a href="../type/Update.md">Update</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,4 +14,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;
+<a href="../type/Update.md">Update</a>

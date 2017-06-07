@@ -13,7 +13,6 @@ Sample Description
 <a href="../method/messages.search">messages.search</a>#d4569248 flags:<a href="../type/#.md">#</a> peer:<a href="../type/InputPeer.md">InputPeer</a> q:<a href="../type/string.md">string</a> filter:<a href="../type/MessagesFilter.md">MessagesFilter</a> min_date:<a href="../type/int.md">int</a> max_date:<a href="../type/int.md">int</a> offset:<a href="../type/int.md">int</a> max_id:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.Messages.md">messages.Messages</a>;
 <a href="../method/messages.searchGlobal">messages.searchGlobal</a>#9e3cacb0 q:<a href="../type/string.md">string</a> offset_date:<a href="../type/int.md">int</a> offset_peer:<a href="../type/InputPeer.md">InputPeer</a> offset_id:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.Messages.md">messages.Messages</a>;
 <a href="../method/channels.getMessages">channels.getMessages</a>#93d7b347 channel:<a href="../type/InputChannel.md">InputChannel</a> id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.Messages.md">messages.Messages</a>;
-
 </pre>
 
 ## Constructors

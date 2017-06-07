@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputBotInlineResultPhoto.md">inputBotInlineResultPhoto</a>#a8d864a7 id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> photo:<a href="../type/InputPhoto.md">InputPhoto</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;
-</pre>
-
+<a href="../constructor/inputBotInlineResultPhoto.md">inputBotInlineResultPhoto</a>#a8d864a7 id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> photo:<a href="../type/InputPhoto.md">InputPhoto</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -17,4 +15,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputBotInlineResult.md&#34;&gt;InputBotInlineResult&lt;/a&gt;
+<a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>

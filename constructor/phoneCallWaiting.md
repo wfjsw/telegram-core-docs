@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/phoneCallWaiting.md">phoneCallWaiting</a>#1b8f4ad1 flags:<a href="../type/#.md">#</a> id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> date:<a href="../type/int.md">int</a> admin_id:<a href="../type/int.md">int</a> participant_id:<a href="../type/int.md">int</a> protocol:<a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a> receive_date:flags.0?<a href="../type/int.md">int</a> = <a href="../type/PhoneCall.md">PhoneCall</a>;
-</pre>
-
+<a href="../constructor/phoneCallWaiting.md">phoneCallWaiting</a>#1b8f4ad1 flags:<a href="../type/#.md">#</a> id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> date:<a href="../type/int.md">int</a> admin_id:<a href="../type/int.md">int</a> participant_id:<a href="../type/int.md">int</a> protocol:<a href="../type/PhoneCallProtocol.md">PhoneCallProtocol</a> receive_date:flags.0?<a href="../type/int.md">int</a> = <a href="../type/PhoneCall.md">PhoneCall</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -21,4 +19,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PhoneCall.md&#34;&gt;PhoneCall&lt;/a&gt;
+<a href="../type/PhoneCall.md">PhoneCall</a>

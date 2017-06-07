@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/help.inviteText.md">help.inviteText</a>#18cb9f78 message:<a href="../type/string.md">string</a> = <a href="../type/help.InviteText.md">help.InviteText</a>;
-</pre>
-
+<a href="../constructor/help.inviteText.md">help.inviteText</a>#18cb9f78 message:<a href="../type/string.md">string</a> = <a href="../type/help.InviteText.md">help.InviteText</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/help.InviteText.md&#34;&gt;help.InviteText&lt;/a&gt;
+<a href="../type/help.InviteText.md">help.InviteText</a>

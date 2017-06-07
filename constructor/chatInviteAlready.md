@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/chatInviteAlready.md">chatInviteAlready</a>#5a686d7c chat:<a href="../type/Chat.md">Chat</a> = <a href="../type/ChatInvite.md">ChatInvite</a>;
-</pre>
-
+<a href="../constructor/chatInviteAlready.md">chatInviteAlready</a>#5a686d7c chat:<a href="../type/Chat.md">Chat</a> = <a href="../type/ChatInvite.md">ChatInvite</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/ChatInvite.md&#34;&gt;ChatInvite&lt;/a&gt;
+<a href="../type/ChatInvite.md">ChatInvite</a>

@@ -7,17 +7,9 @@ Sample Description
 <a href="../constructor/boolTrue">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/auth.logOut.md">auth.logOut</a>#5717da40 = <a href="../type/Bool.md">Bool</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../method/auth.logOut.md">auth.logOut</a>#5717da40 = <a href="../type/Bool.md">Bool</a>;</pre>
 
 ## Result
 
-Returns <a href="../type/Bool.md">Bool</a>
-
-Describe the result
+<a href="../type/Bool.md">Bool</a>
 

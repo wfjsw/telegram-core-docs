@@ -8,7 +8,6 @@ Sample Description
 ---functions---
 <a href="../method/messages.getPeerDialogs">messages.getPeerDialogs</a>#2d9776b9 peers:Vector&lt;<a href="../type/InputPeer.md">InputPeer</a>&gt; = <a href="../type/messages.PeerDialogs.md">messages.PeerDialogs</a>;
 <a href="../method/messages.getPinnedDialogs">messages.getPinnedDialogs</a>#e254d64e = <a href="../type/messages.PeerDialogs.md">messages.PeerDialogs</a>;
-
 </pre>
 
 ## Constructors

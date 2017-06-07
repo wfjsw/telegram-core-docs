@@ -8,7 +8,6 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getDocumentByHash">messages.getDocumentByHash</a>#338e2464 sha256:<a href="../type/bytes.md">bytes</a> size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> = <a href="../type/Document.md">Document</a>;
-
 </pre>
 
 ## Constructors

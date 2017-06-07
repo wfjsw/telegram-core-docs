@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/botCommand.md">botCommand</a>#c27ac8c7 command:<a href="../type/string.md">string</a> description:<a href="../type/string.md">string</a> = <a href="../type/BotCommand.md">BotCommand</a>;
-</pre>
-
+<a href="../constructor/botCommand.md">botCommand</a>#c27ac8c7 command:<a href="../type/string.md">string</a> description:<a href="../type/string.md">string</a> = <a href="../type/BotCommand.md">BotCommand</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/BotCommand.md&#34;&gt;BotCommand&lt;/a&gt;
+<a href="../type/BotCommand.md">BotCommand</a>

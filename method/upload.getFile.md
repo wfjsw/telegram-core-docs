@@ -7,9 +7,7 @@ Sample Description
 <a href="../constructor/upload.fileCdnRedirect">upload.fileCdnRedirect</a>#1508485a dc_id:<a href="../type/int.md">int</a> file_token:<a href="../type/bytes.md">bytes</a> encryption_key:<a href="../type/bytes.md">bytes</a> encryption_iv:<a href="../type/bytes.md">bytes</a> = <a href="../type/upload.File.md">upload.File</a>;
 
 ---functions---
-<a href="../method/upload.getFile.md">upload.getFile</a>#e3a6cfb5 location:<a href="../type/InputFileLocation.md">InputFileLocation</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/upload.File.md">upload.File</a>;
-</pre>
-
+<a href="../method/upload.getFile.md">upload.getFile</a>#e3a6cfb5 location:<a href="../type/InputFileLocation.md">InputFileLocation</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/upload.File.md">upload.File</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -20,7 +18,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/upload.File.md">upload.File</a>
-
-Describe the result
+<a href="../type/upload.File.md">upload.File</a>
 

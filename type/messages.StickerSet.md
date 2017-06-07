@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getStickerSet">messages.getStickerSet</a>#2619a90e stickerset:<a href="../type/InputStickerSet.md">InputStickerSet</a> = <a href="../type/messages.StickerSet.md">messages.StickerSet</a>;
-
 </pre>
 
 ## Constructors

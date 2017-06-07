@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inlineBotSwitchPM.md">inlineBotSwitchPM</a>#3c20629f text:<a href="../type/string.md">string</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/InlineBotSwitchPM.md">InlineBotSwitchPM</a>;
-</pre>
-
+<a href="../constructor/inlineBotSwitchPM.md">inlineBotSwitchPM</a>#3c20629f text:<a href="../type/string.md">string</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/InlineBotSwitchPM.md">InlineBotSwitchPM</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InlineBotSwitchPM.md&#34;&gt;InlineBotSwitchPM&lt;/a&gt;
+<a href="../type/InlineBotSwitchPM.md">InlineBotSwitchPM</a>

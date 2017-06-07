@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/upload.file.md">upload.file</a>#96a18d5 type:<a href="../type/storage.FileType.md">storage.FileType</a> mtime:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/upload.File.md">upload.File</a>;
-</pre>
-
+<a href="../constructor/upload.file.md">upload.file</a>#96a18d5 type:<a href="../type/storage.FileType.md">storage.FileType</a> mtime:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/upload.File.md">upload.File</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,4 +14,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/upload.File.md&#34;&gt;upload.File&lt;/a&gt;
+<a href="../type/upload.File.md">upload.File</a>

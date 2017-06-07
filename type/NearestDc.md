@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getNearestDc">help.getNearestDc</a>#1fb33026 = <a href="../type/NearestDc.md">NearestDc</a>;
-
 </pre>
 
 ## Constructors

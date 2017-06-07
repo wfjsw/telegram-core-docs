@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/payments.getPaymentForm">payments.getPaymentForm</a>#99f09745 msg_id:<a href="../type/int.md">int</a> = <a href="../type/payments.PaymentForm.md">payments.PaymentForm</a>;
-
 </pre>
 
 ## Constructors

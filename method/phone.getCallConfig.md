@@ -6,17 +6,9 @@ Sample Description
 <a href="../constructor/dataJSON">dataJSON</a>#7d748d04 data:<a href="../type/string.md">string</a> = <a href="../type/DataJSON.md">DataJSON</a>;
 
 ---functions---
-<a href="../method/phone.getCallConfig.md">phone.getCallConfig</a>#55451fa9 = <a href="../type/DataJSON.md">DataJSON</a>;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../method/phone.getCallConfig.md">phone.getCallConfig</a>#55451fa9 = <a href="../type/DataJSON.md">DataJSON</a>;</pre>
 
 ## Result
 
-Returns <a href="../type/DataJSON.md">DataJSON</a>
-
-Describe the result
+<a href="../type/DataJSON.md">DataJSON</a>
 

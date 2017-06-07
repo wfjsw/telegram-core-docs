@@ -7,9 +7,7 @@ Sample Description
 <a href="../constructor/boolTrue">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/channels.reportSpam.md">channels.reportSpam</a>#fe087810 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/Bool.md">Bool</a>;
-</pre>
-
+<a href="../method/channels.reportSpam.md">channels.reportSpam</a>#fe087810 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/Bool.md">Bool</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -20,7 +18,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/Bool.md">Bool</a>
-
-Describe the result
+<a href="../type/Bool.md">Bool</a>
 

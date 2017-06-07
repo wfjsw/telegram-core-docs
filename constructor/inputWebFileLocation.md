@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputWebFileLocation.md">inputWebFileLocation</a>#c239d686 url:<a href="../type/string.md">string</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputWebFileLocation.md">InputWebFileLocation</a>;
-</pre>
-
+<a href="../constructor/inputWebFileLocation.md">inputWebFileLocation</a>#c239d686 url:<a href="../type/string.md">string</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputWebFileLocation.md">InputWebFileLocation</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/InputWebFileLocation.md&#34;&gt;InputWebFileLocation&lt;/a&gt;
+<a href="../type/InputWebFileLocation.md">InputWebFileLocation</a>

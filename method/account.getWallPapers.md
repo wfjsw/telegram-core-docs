@@ -5,17 +5,9 @@ Sample Description
 <pre>
 
 ---functions---
-<a href="../method/account.getWallPapers.md">account.getWallPapers</a>#c04cfac2 = Vector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;;
-</pre>
-
-## Parameters
-
-| Name | Type | Description |
-|------|:----:|-------------|
+<a href="../method/account.getWallPapers.md">account.getWallPapers</a>#c04cfac2 = Vector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;;</pre>
 
 ## Result
 
-Returns Vector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;
-
-Describe the result
+Vector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;
 

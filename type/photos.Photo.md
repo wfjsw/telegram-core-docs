@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/photos.uploadProfilePhoto">photos.uploadProfilePhoto</a>#4f32c098 file:<a href="../type/InputFile.md">InputFile</a> = <a href="../type/photos.Photo.md">photos.Photo</a>;
-
 </pre>
 
 ## Constructors

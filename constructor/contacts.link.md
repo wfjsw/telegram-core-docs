@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/contacts.link.md">contacts.link</a>#3ace484c my_link:<a href="../type/ContactLink.md">ContactLink</a> foreign_link:<a href="../type/ContactLink.md">ContactLink</a> user:<a href="../type/User.md">User</a> = <a href="../type/contacts.Link.md">contacts.Link</a>;
-</pre>
-
+<a href="../constructor/contacts.link.md">contacts.link</a>#3ace484c my_link:<a href="../type/ContactLink.md">ContactLink</a> foreign_link:<a href="../type/ContactLink.md">ContactLink</a> user:<a href="../type/User.md">User</a> = <a href="../type/contacts.Link.md">contacts.Link</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -16,4 +14,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/contacts.Link.md&#34;&gt;contacts.Link&lt;/a&gt;
+<a href="../type/contacts.Link.md">contacts.Link</a>

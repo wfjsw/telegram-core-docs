@@ -8,7 +8,6 @@ Sample Description
 <a href="../constructor/botInlineMessageMediaGeo">botInlineMessageMediaGeo</a>#3a8fd8b8 flags:<a href="../type/#.md">#</a> geo:<a href="../type/GeoPoint.md">GeoPoint</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/BotInlineMessage.md">BotInlineMessage</a>;
 <a href="../constructor/botInlineMessageMediaVenue">botInlineMessageMediaVenue</a>#4366232e flags:<a href="../type/#.md">#</a> geo:<a href="../type/GeoPoint.md">GeoPoint</a> title:<a href="../type/string.md">string</a> address:<a href="../type/string.md">string</a> provider:<a href="../type/string.md">string</a> venue_id:<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/BotInlineMessage.md">BotInlineMessage</a>;
 <a href="../constructor/botInlineMessageMediaContact">botInlineMessageMediaContact</a>#35edb4d4 flags:<a href="../type/#.md">#</a> phone_number:<a href="../type/string.md">string</a> first_name:<a href="../type/string.md">string</a> last_name:<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/BotInlineMessage.md">BotInlineMessage</a>;
-
 </pre>
 
 ## Constructors

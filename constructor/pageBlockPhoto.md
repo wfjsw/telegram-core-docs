@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/pageBlockPhoto.md">pageBlockPhoto</a>#e9c69982 photo_id:<a href="../type/long.md">long</a> caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;
-</pre>
-
+<a href="../constructor/pageBlockPhoto.md">pageBlockPhoto</a>#e9c69982 photo_id:<a href="../type/long.md">long</a> caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/PageBlock.md&#34;&gt;PageBlock&lt;/a&gt;
+<a href="../type/PageBlock.md">PageBlock</a>

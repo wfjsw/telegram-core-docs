@@ -8,7 +8,6 @@ Sample Description
 
 ---functions---
 <a href="../method/account.getPassword">account.getPassword</a>#548a30f5 = <a href="../type/account.Password.md">account.Password</a>;
-
 </pre>
 
 ## Constructors

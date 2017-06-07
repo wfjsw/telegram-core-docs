@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateNotifySettings.md">updateNotifySettings</a>#bec268ef peer:<a href="../type/NotifyPeer.md">NotifyPeer</a> notify_settings:<a href="../type/PeerNotifySettings.md">PeerNotifySettings</a> = <a href="../type/Update.md">Update</a>;
-</pre>
-
+<a href="../constructor/updateNotifySettings.md">updateNotifySettings</a>#bec268ef peer:<a href="../type/NotifyPeer.md">NotifyPeer</a> notify_settings:<a href="../type/PeerNotifySettings.md">PeerNotifySettings</a> = <a href="../type/Update.md">Update</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/Update.md&#34;&gt;Update&lt;/a&gt;
+<a href="../type/Update.md">Update</a>

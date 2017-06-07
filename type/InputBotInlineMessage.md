@@ -9,7 +9,6 @@ Sample Description
 <a href="../constructor/inputBotInlineMessageMediaVenue">inputBotInlineMessageMediaVenue</a>#aaafadc8 flags:<a href="../type/#.md">#</a> geo_point:<a href="../type/InputGeoPoint.md">InputGeoPoint</a> title:<a href="../type/string.md">string</a> address:<a href="../type/string.md">string</a> provider:<a href="../type/string.md">string</a> venue_id:<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a>;
 <a href="../constructor/inputBotInlineMessageMediaContact">inputBotInlineMessageMediaContact</a>#2daf01a7 flags:<a href="../type/#.md">#</a> phone_number:<a href="../type/string.md">string</a> first_name:<a href="../type/string.md">string</a> last_name:<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a>;
 <a href="../constructor/inputBotInlineMessageGame">inputBotInlineMessageGame</a>#4b425864 flags:<a href="../type/#.md">#</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a>;
-
 </pre>
 
 ## Constructors

@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messageActionPaymentSent.md">messageActionPaymentSent</a>#40699cd0 currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/MessageAction.md">MessageAction</a>;
-</pre>
-
+<a href="../constructor/messageActionPaymentSent.md">messageActionPaymentSent</a>#40699cd0 currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/MessageAction.md">MessageAction</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -15,4 +13,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/MessageAction.md&#34;&gt;MessageAction&lt;/a&gt;
+<a href="../type/MessageAction.md">MessageAction</a>

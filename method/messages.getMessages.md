@@ -8,9 +8,7 @@ Sample Description
 <a href="../constructor/messages.channelMessages">messages.channelMessages</a>#99262e37 flags:<a href="../type/#.md">#</a> pts:<a href="../type/int.md">int</a> count:<a href="../type/int.md">int</a> messages:Vector&lt;<a href="../type/Message.md">Message</a>&gt; chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/messages.Messages.md">messages.Messages</a>;
 
 ---functions---
-<a href="../method/messages.getMessages.md">messages.getMessages</a>#4222fa74 id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.Messages.md">messages.Messages</a>;
-</pre>
-
+<a href="../method/messages.getMessages.md">messages.getMessages</a>#4222fa74 id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.Messages.md">messages.Messages</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -19,7 +17,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/messages.Messages.md">messages.Messages</a>
-
-Describe the result
+<a href="../type/messages.Messages.md">messages.Messages</a>
 

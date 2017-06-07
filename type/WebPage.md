@@ -10,7 +10,6 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getWebPage">messages.getWebPage</a>#32ca8f91 url:<a href="../type/string.md">string</a> hash:<a href="../type/int.md">int</a> = <a href="../type/WebPage.md">WebPage</a>;
-
 </pre>
 
 ## Constructors

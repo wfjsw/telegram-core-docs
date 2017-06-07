@@ -7,7 +7,6 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getSupport">help.getSupport</a>#9cdf08cd = <a href="../type/help.Support.md">help.Support</a>;
-
 </pre>
 
 ## Constructors

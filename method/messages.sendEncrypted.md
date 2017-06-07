@@ -7,9 +7,7 @@ Sample Description
 <a href="../constructor/messages.sentEncryptedFile">messages.sentEncryptedFile</a>#9493ff32 date:<a href="../type/int.md">int</a> file:<a href="../type/EncryptedFile.md">EncryptedFile</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
 
 ---functions---
-<a href="../method/messages.sendEncrypted.md">messages.sendEncrypted</a>#a9776773 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> random_id:<a href="../type/long.md">long</a> data:<a href="../type/bytes.md">bytes</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
-</pre>
-
+<a href="../method/messages.sendEncrypted.md">messages.sendEncrypted</a>#a9776773 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> random_id:<a href="../type/long.md">long</a> data:<a href="../type/bytes.md">bytes</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -20,7 +18,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>
-
-Describe the result
+<a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>
 

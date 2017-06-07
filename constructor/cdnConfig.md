@@ -3,9 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/cdnConfig.md">cdnConfig</a>#5725e40a public_keys:Vector&lt;<a href="../type/CdnPublicKey.md">CdnPublicKey</a>&gt; = <a href="../type/CdnConfig.md">CdnConfig</a>;
-</pre>
-
+<a href="../constructor/cdnConfig.md">cdnConfig</a>#5725e40a public_keys:Vector&lt;<a href="../type/CdnPublicKey.md">CdnPublicKey</a>&gt; = <a href="../type/CdnConfig.md">CdnConfig</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -14,4 +12,4 @@ Sample Description
 
 ## Type
 
-&lt;a href=&#34;../type/CdnConfig.md&#34;&gt;CdnConfig&lt;/a&gt;
+<a href="../type/CdnConfig.md">CdnConfig</a>

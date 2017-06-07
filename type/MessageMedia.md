@@ -16,7 +16,6 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getWebPagePreview">messages.getWebPagePreview</a>#25223e24 message:<a href="../type/string.md">string</a> = <a href="../type/MessageMedia.md">MessageMedia</a>;
-
 </pre>
 
 ## Constructors

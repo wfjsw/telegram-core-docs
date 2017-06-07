@@ -10,7 +10,6 @@ Sample Description
 <a href="../method/auth.resendCode">auth.resendCode</a>#3ef1a9bf phone_number:<a href="../type/string.md">string</a> phone_code_hash:<a href="../type/string.md">string</a> = <a href="../type/auth.SentCode.md">auth.SentCode</a>;
 <a href="../method/account.sendChangePhoneCode">account.sendChangePhoneCode</a>#8e57deb flags:<a href="../type/#.md">#</a> allow_flashcall:flags.0?<a href="../type/true.md">true</a> phone_number:<a href="../type/string.md">string</a> current_number:flags.0?<a href="../type/Bool.md">Bool</a> = <a href="../type/auth.SentCode.md">auth.SentCode</a>;
 <a href="../method/account.sendConfirmPhoneCode">account.sendConfirmPhoneCode</a>#1516d7bd flags:<a href="../type/#.md">#</a> allow_flashcall:flags.0?<a href="../type/true.md">true</a> hash:<a href="../type/string.md">string</a> current_number:flags.0?<a href="../type/Bool.md">Bool</a> = <a href="../type/auth.SentCode.md">auth.SentCode</a>;
-
 </pre>
 
 ## Constructors

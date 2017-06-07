@@ -7,9 +7,7 @@ Sample Description
 <a href="../constructor/document">document</a>#87232bc7 id:<a href="../type/long.md">long</a> access_hash:<a href="../type/long.md">long</a> date:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> size:<a href="../type/int.md">int</a> thumb:<a href="../type/PhotoSize.md">PhotoSize</a> dc_id:<a href="../type/int.md">int</a> version:<a href="../type/int.md">int</a> attributes:Vector&lt;<a href="../type/DocumentAttribute.md">DocumentAttribute</a>&gt; = <a href="../type/Document.md">Document</a>;
 
 ---functions---
-<a href="../method/messages.getDocumentByHash.md">messages.getDocumentByHash</a>#338e2464 sha256:<a href="../type/bytes.md">bytes</a> size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> = <a href="../type/Document.md">Document</a>;
-</pre>
-
+<a href="../method/messages.getDocumentByHash.md">messages.getDocumentByHash</a>#338e2464 sha256:<a href="../type/bytes.md">bytes</a> size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> = <a href="../type/Document.md">Document</a>;</pre>
 ## Parameters
 
 | Name | Type | Description |
@@ -20,7 +18,5 @@ Sample Description
 
 ## Result
 
-Returns <a href="../type/Document.md">Document</a>
-
-Describe the result
+<a href="../type/Document.md">Document</a>
 
