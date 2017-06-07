@@ -10,6 +10,7 @@ Sample Description
 <a href="../method/account.updateProfile">account.updateProfile</a>#78515775 flags:<a href="../type/#.md">#</a> first_name:flags.0?<a href="../type/string.md">string</a> last_name:flags.1?<a href="../type/string.md">string</a> about:flags.2?<a href="../type/string.md">string</a> = <a href="../type/User.md">User</a>;
 <a href="../method/account.updateUsername">account.updateUsername</a>#3e0bdd7c username:<a href="../type/string.md">string</a> = <a href="../type/User.md">User</a>;
 <a href="../method/account.changePhone">account.changePhone</a>#70c32edb phone_number:<a href="../type/string.md">string</a> phone_code_hash:<a href="../type/string.md">string</a> phone_code:<a href="../type/string.md">string</a> = <a href="../type/User.md">User</a>;
+<a href="../method/users.getUsers">users.getUsers</a>#d91a548 id:Vector&lt;<a href="../type/InputUser.md">InputUser</a>&gt; = Vector&lt;<a href="../type/User.md">User</a>&gt;;
 <a href="../method/contacts.importCard">contacts.importCard</a>#4fe196fe export_card:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/User.md">User</a>;
 
 </pre>
@@ -28,4 +29,5 @@ Sample Description
 | [account.updateProfile](../method/account.updateProfile.md) | Sample Description |
 | [account.updateUsername](../method/account.updateUsername.md) | Sample Description |
 | [account.changePhone](../method/account.changePhone.md) | Sample Description |
+| [users.getUsers](../method/users.getUsers.md) | Sample Description |
 | [contacts.importCard](../method/contacts.importCard.md) | Sample Description |
