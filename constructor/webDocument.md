@@ -1,0 +1,22 @@
+# webDocument
+
+Sample Description
+
+<pre>
+<a href="../constructor/webDocument.md">webDocument</a>#c61acbd8 url:<a href="../type/string.md">string</a> access_hash:<a href="../type/long.md">long</a> size:<a href="../type/int.md">int</a> mime_type:<a href="../type/string.md">string</a> attributes:Vector&lt;<a href="../type/DocumentAttribute.md">DocumentAttribute</a>&gt; dc_id:<a href="../type/int.md">int</a> = <a href="../type/WebDocument.md">WebDocument</a>;
+</pre>
+
+## Parameters
+
+| Name | Type | Description |
+|------|:----:|-------------|
+| **url** | [string](../type/string.md) | Param description |
+| **access_hash** | [long](../type/long.md) | Param description |
+| **size** | [int](../type/int.md) | Param description |
+| **mime_type** | [string](../type/string.md) | Param description |
+| **attributes** | Vector<[DocumentAttribute](../type/DocumentAttribute.md) | Param description |
+| **dc_id** | [int](../type/int.md) | Param description |
+
+## Type
+
+[WebDocument](../type/WebDocument.md)
