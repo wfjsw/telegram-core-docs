@@ -3,8 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/boolFalse">boolFalse</a>#bc799737 = <a href="../type/Bool.md">Bool</a>;
-<a href="../constructor/boolTrue">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
+<a href="../constructor/boolFalse.md">boolFalse</a>#bc799737 = <a href="../type/Bool.md">Bool</a>;
+<a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
 <a href="../method/upload.saveFilePart.md">upload.saveFilePart</a>#b304a621 file_id:<a href="../type/long.md">long</a> file_part:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/Bool.md">Bool</a>;</pre>

@@ -3,10 +3,10 @@
 Sample Description
 
 <pre>
-<a href="../constructor/messages.messageEditData">messages.messageEditData</a>#26b5dde6 flags:<a href="../type/#.md">#</a> caption:flags.0?<a href="../type/true.md">true</a> = <a href="../type/messages.MessageEditData.md">messages.MessageEditData</a>;
+<a href="../constructor/messages.messageEditData.md">messages.messageEditData</a>#26b5dde6 flags:<a href="../type/#.md">#</a> caption:flags.0?<a href="../type/true.md">true</a> = <a href="../type/messages.MessageEditData.md">messages.MessageEditData</a>;
 
 ---functions---
-<a href="../method/messages.getMessageEditData">messages.getMessageEditData</a>#fda68d36 peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> = <a href="../type/messages.MessageEditData.md">messages.MessageEditData</a>;
+<a href="../method/messages.getMessageEditData.md">messages.getMessageEditData</a>#fda68d36 peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> = <a href="../type/messages.MessageEditData.md">messages.MessageEditData</a>;
 </pre>
 
 ## Constructors

@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/true">true</a>#3fedd339 = <a href="../type/True.md">True</a>;
+<a href="../constructor/true.md">true</a>#3fedd339 = <a href="../type/True.md">True</a>;
 </pre>
 
 ## Constructors
