@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.getTopPeers.md">contacts.getTopPeers</a>#d4982db5 flags:<a href="../type/#.md">#</a> correspondents:flags.0?<a href="../type/true.md">true</a> bots_pm:flags.1?<a href="../type/true.md">true</a> bots_inline:flags.2?<a href="../type/true.md">true</a> groups:flags.10?<a href="../type/true.md">true</a> channels:flags.15?<a href="../type/true.md">true</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> hash:<a href="../type/int.md">int</a> = <a href="../type/contacts.TopPeers.md">contacts.TopPeers</a>;
+
 </pre>
 
 ## Constructors

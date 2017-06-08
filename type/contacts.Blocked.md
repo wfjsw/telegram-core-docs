@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.getBlocked.md">contacts.getBlocked</a>#f57c350f offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/contacts.Blocked.md">contacts.Blocked</a>;
+
 </pre>
 
 ## Constructors

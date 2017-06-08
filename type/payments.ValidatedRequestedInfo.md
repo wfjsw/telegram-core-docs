@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/payments.validateRequestedInfo.md">payments.validateRequestedInfo</a>#770a8e74 flags:<a href="../type/#.md">#</a> save:flags.0?<a href="../type/true.md">true</a> msg_id:<a href="../type/int.md">int</a> info:<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a> = <a href="../type/payments.ValidatedRequestedInfo.md">payments.ValidatedRequestedInfo</a>;
+
 </pre>
 
 ## Constructors

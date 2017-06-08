@@ -9,6 +9,7 @@ Sample Description
 ---functions---
 <a href="../method/messages.getAllStickers.md">messages.getAllStickers</a>#1c9618b1 hash:<a href="../type/int.md">int</a> = <a href="../type/messages.AllStickers.md">messages.AllStickers</a>;
 <a href="../method/messages.getMaskStickers.md">messages.getMaskStickers</a>#65b8c79f hash:<a href="../type/int.md">int</a> = <a href="../type/messages.AllStickers.md">messages.AllStickers</a>;
+
 </pre>
 
 ## Constructors

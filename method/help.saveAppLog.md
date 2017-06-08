@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/help.saveAppLog.md">help.saveAppLog</a>#6f02f748 events:Vector&lt;<a href="../type/InputAppEvent.md">InputAppEvent</a>&gt; = <a href="../type/Bool.md">Bool</a>;</pre>
+<a href="../method/help.saveAppLog.md">help.saveAppLog</a>#6f02f748 events:Vector&lt;<a href="../type/InputAppEvent.md">InputAppEvent</a>&gt; = <a href="../type/Bool.md">Bool</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

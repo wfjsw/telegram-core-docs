@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getAttachedStickers.md">messages.getAttachedStickers</a>#cc5b67cc media:<a href="../type/InputStickeredMedia.md">InputStickeredMedia</a> = Vector&lt;<a href="../type/StickerSetCovered.md">StickerSetCovered</a>&gt;;
+
 </pre>
 
 ## Constructors

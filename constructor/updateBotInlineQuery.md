@@ -3,7 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateBotInlineQuery.md">updateBotInlineQuery</a>#54826690 flags:<a href="../type/#.md">#</a> query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> query:<a href="../type/string.md">string</a> geo:flags.0?<a href="../type/GeoPoint.md">GeoPoint</a> offset:<a href="../type/string.md">string</a> = <a href="../type/Update.md">Update</a>;</pre>
+<a href="../constructor/updateBotInlineQuery.md">updateBotInlineQuery</a>#54826690 flags:<a href="../type/#.md">#</a> query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> query:<a href="../type/string.md">string</a> geo:flags.0?<a href="../type/GeoPoint.md">GeoPoint</a> offset:<a href="../type/string.md">string</a> = <a href="../type/Update.md">Update</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

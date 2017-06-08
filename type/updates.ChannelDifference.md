@@ -9,6 +9,7 @@ Sample Description
 
 ---functions---
 <a href="../method/updates.getChannelDifference.md">updates.getChannelDifference</a>#3173d78 flags:<a href="../type/#.md">#</a> force:flags.0?<a href="../type/true.md">true</a> channel:<a href="../type/InputChannel.md">InputChannel</a> filter:<a href="../type/ChannelMessagesFilter.md">ChannelMessagesFilter</a> pts:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/updates.ChannelDifference.md">updates.ChannelDifference</a>;
+
 </pre>
 
 ## Constructors

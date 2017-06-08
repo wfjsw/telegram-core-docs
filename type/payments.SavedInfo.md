@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/payments.getSavedInfo.md">payments.getSavedInfo</a>#227d824b = <a href="../type/payments.SavedInfo.md">payments.SavedInfo</a>;
+
 </pre>
 
 ## Constructors

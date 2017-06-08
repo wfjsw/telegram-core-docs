@@ -44,6 +44,7 @@ Sample Description
 <a href="../method/channels.updatePinnedMessage.md">channels.updatePinnedMessage</a>#a72ded52 flags:<a href="../type/#.md">#</a> silent:flags.0?<a href="../type/true.md">true</a> channel:<a href="../type/InputChannel.md">InputChannel</a> id:<a href="../type/int.md">int</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/phone.discardCall.md">phone.discardCall</a>#78d413a6 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> duration:<a href="../type/int.md">int</a> reason:<a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a> connection_id:<a href="../type/long.md">long</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/phone.setCallRating.md">phone.setCallRating</a>#1c536a34 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> rating:<a href="../type/int.md">int</a> comment:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
+
 </pre>
 
 ## Constructors

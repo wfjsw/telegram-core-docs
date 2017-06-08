@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/upload.getCdnFile.md">upload.getCdnFile</a>#2000bcc3 file_token:<a href="../type/bytes.md">bytes</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/upload.CdnFile.md">upload.CdnFile</a>;
+
 </pre>
 
 ## Constructors

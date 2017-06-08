@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/channels.exportMessageLink.md">channels.exportMessageLink</a>#c846d22d channel:<a href="../type/InputChannel.md">InputChannel</a> id:<a href="../type/int.md">int</a> = <a href="../type/ExportedMessageLink.md">ExportedMessageLink</a>;
+
 </pre>
 
 ## Constructors

@@ -17,6 +17,7 @@ Defines media content of a message.
 <a href="../constructor/inputMediaDocumentExternal.md">inputMediaDocumentExternal</a>#e5e9607c url:<a href="../type/string.md">string</a> caption:<a href="../type/string.md">string</a> = <a href="../type/InputMedia.md">InputMedia</a>;
 <a href="../constructor/inputMediaGame.md">inputMediaGame</a>#d33f43f3 id:<a href="../type/InputGame.md">InputGame</a> = <a href="../type/InputMedia.md">InputMedia</a>;
 <a href="../constructor/inputMediaInvoice.md">inputMediaInvoice</a>#92153685 flags:<a href="../type/#.md">#</a> title:<a href="../type/string.md">string</a> description:<a href="../type/string.md">string</a> photo:flags.0?<a href="../type/InputWebDocument.md">InputWebDocument</a> invoice:<a href="../type/Invoice.md">Invoice</a> payload:<a href="../type/bytes.md">bytes</a> provider:<a href="../type/string.md">string</a> start_param:<a href="../type/string.md">string</a> = <a href="../type/InputMedia.md">InputMedia</a>;
+
 </pre>
 
 ## Constructors

@@ -8,6 +8,7 @@ Sample Description
 ---functions---
 <a href="../method/messages.getFullChat.md">messages.getFullChat</a>#3b831c66 chat_id:<a href="../type/int.md">int</a> = <a href="../type/messages.ChatFull.md">messages.ChatFull</a>;
 <a href="../method/channels.getFullChannel.md">channels.getFullChannel</a>#8736a09 channel:<a href="../type/InputChannel.md">InputChannel</a> = <a href="../type/messages.ChatFull.md">messages.ChatFull</a>;
+
 </pre>
 
 ## Constructors

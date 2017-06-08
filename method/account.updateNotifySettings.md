@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/account.updateNotifySettings.md">account.updateNotifySettings</a>#84be5b93 peer:<a href="../type/InputNotifyPeer.md">InputNotifyPeer</a> settings:<a href="../type/InputPeerNotifySettings.md">InputPeerNotifySettings</a> = <a href="../type/Bool.md">Bool</a>;</pre>
+<a href="../method/account.updateNotifySettings.md">account.updateNotifySettings</a>#84be5b93 peer:<a href="../type/InputNotifyPeer.md">InputNotifyPeer</a> settings:<a href="../type/InputPeerNotifySettings.md">InputPeerNotifySettings</a> = <a href="../type/Bool.md">Bool</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.searchGifs.md">messages.searchGifs</a>#bf9a776b q:<a href="../type/string.md">string</a> offset:<a href="../type/int.md">int</a> = <a href="../type/messages.FoundGifs.md">messages.FoundGifs</a>;
+
 </pre>
 
 ## Constructors

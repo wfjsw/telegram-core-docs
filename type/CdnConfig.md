@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getCdnConfig.md">help.getCdnConfig</a>#52029342 = <a href="../type/CdnConfig.md">CdnConfig</a>;
+
 </pre>
 
 ## Constructors

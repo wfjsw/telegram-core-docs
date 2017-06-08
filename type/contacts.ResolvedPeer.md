@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.resolveUsername.md">contacts.resolveUsername</a>#f93ccba3 username:<a href="../type/string.md">string</a> = <a href="../type/contacts.ResolvedPeer.md">contacts.ResolvedPeer</a>;
+
 </pre>
 
 ## Constructors

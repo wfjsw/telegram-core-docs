@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.getContacts.md">contacts.getContacts</a>#22c6aa08 hash:<a href="../type/string.md">string</a> = <a href="../type/contacts.Contacts.md">contacts.Contacts</a>;
+
 </pre>
 
 ## Constructors

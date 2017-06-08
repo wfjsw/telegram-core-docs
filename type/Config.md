@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getConfig.md">help.getConfig</a>#c4f9186b = <a href="../type/Config.md">Config</a>;
+
 </pre>
 
 ## Constructors

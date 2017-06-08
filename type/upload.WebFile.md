@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/upload.getWebFile.md">upload.getWebFile</a>#24e6818d location:<a href="../type/InputWebFileLocation.md">InputWebFileLocation</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/upload.WebFile.md">upload.WebFile</a>;
+
 </pre>
 
 ## Constructors

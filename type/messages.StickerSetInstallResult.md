@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.installStickerSet.md">messages.installStickerSet</a>#c78fe460 stickerset:<a href="../type/InputStickerSet.md">InputStickerSet</a> archived:<a href="../type/Bool.md">Bool</a> = <a href="../type/messages.StickerSetInstallResult.md">messages.StickerSetInstallResult</a>;
+
 </pre>
 
 ## Constructors

@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/chatInviteExported.md">chatInviteExported</a>#fc2e05bc link:<a href="../type/string.md">string</a> = <a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;
 
 ---functions---
-<a href="../method/messages.exportChatInvite.md">messages.exportChatInvite</a>#7d885289 chat_id:<a href="../type/int.md">int</a> = <a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;</pre>
+<a href="../method/messages.exportChatInvite.md">messages.exportChatInvite</a>#7d885289 chat_id:<a href="../type/int.md">int</a> = <a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

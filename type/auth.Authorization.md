@@ -12,6 +12,7 @@ Sample Description
 <a href="../method/auth.importBotAuthorization.md">auth.importBotAuthorization</a>#67a3ff2c flags:<a href="../type/int.md">int</a> api_id:<a href="../type/int.md">int</a> api_hash:<a href="../type/string.md">string</a> bot_auth_token:<a href="../type/string.md">string</a> = <a href="../type/auth.Authorization.md">auth.Authorization</a>;
 <a href="../method/auth.checkPassword.md">auth.checkPassword</a>#a63011e password_hash:<a href="../type/bytes.md">bytes</a> = <a href="../type/auth.Authorization.md">auth.Authorization</a>;
 <a href="../method/auth.recoverPassword.md">auth.recoverPassword</a>#4ea56e92 code:<a href="../type/string.md">string</a> = <a href="../type/auth.Authorization.md">auth.Authorization</a>;
+
 </pre>
 
 ## Constructors

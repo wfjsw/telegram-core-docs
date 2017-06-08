@@ -25,6 +25,7 @@ Sample Description
 <a href="../constructor/pageBlockCollage.md">pageBlockCollage</a>#8b31c4f items:Vector&lt;<a href="../type/PageBlock.md">PageBlock</a>&gt; caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;
 <a href="../constructor/pageBlockSlideshow.md">pageBlockSlideshow</a>#130c8963 items:Vector&lt;<a href="../type/PageBlock.md">PageBlock</a>&gt; caption:<a href="../type/RichText.md">RichText</a> = <a href="../type/PageBlock.md">PageBlock</a>;
 <a href="../constructor/pageBlockChannel.md">pageBlockChannel</a>#ef1751b5 channel:<a href="../type/Chat.md">Chat</a> = <a href="../type/PageBlock.md">PageBlock</a>;
+
 </pre>
 
 ## Constructors

@@ -13,6 +13,7 @@ Object describes the file type.
 <a href="../constructor/storage.fileMov.md">storage.fileMov</a>#4b09ebbc = <a href="../type/storage.FileType.md">storage.FileType</a>;
 <a href="../constructor/storage.fileMp4.md">storage.fileMp4</a>#b3cea0e4 = <a href="../type/storage.FileType.md">storage.FileType</a>;
 <a href="../constructor/storage.fileWebp.md">storage.fileWebp</a>#1081464c = <a href="../type/storage.FileType.md">storage.FileType</a>;
+
 </pre>
 
 ## Constructors

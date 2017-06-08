@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getTermsOfService.md">help.getTermsOfService</a>#350170f3 = <a href="../type/help.TermsOfService.md">help.TermsOfService</a>;
+
 </pre>
 
 ## Constructors

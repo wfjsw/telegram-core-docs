@@ -12,7 +12,8 @@ Sample Description
 <a href="../constructor/updateShortSentMessage.md">updateShortSentMessage</a>#11f1331c flags:<a href="../type/#.md">#</a> out:flags.1?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> media:flags.9?<a href="../type/MessageMedia.md">MessageMedia</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
 
 ---functions---
-<a href="../method/channels.updatePinnedMessage.md">channels.updatePinnedMessage</a>#a72ded52 flags:<a href="../type/#.md">#</a> silent:flags.0?<a href="../type/true.md">true</a> channel:<a href="../type/InputChannel.md">InputChannel</a> id:<a href="../type/int.md">int</a> = <a href="../type/Updates.md">Updates</a>;</pre>
+<a href="../method/channels.updatePinnedMessage.md">channels.updatePinnedMessage</a>#a72ded52 flags:<a href="../type/#.md">#</a> silent:flags.0?<a href="../type/true.md">true</a> channel:<a href="../type/InputChannel.md">InputChannel</a> id:<a href="../type/int.md">int</a> = <a href="../type/Updates.md">Updates</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

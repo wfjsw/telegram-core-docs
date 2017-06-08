@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/account.getPasswordSettings.md">account.getPasswordSettings</a>#bc8d11bb current_password_hash:<a href="../type/bytes.md">bytes</a> = <a href="../type/account.PasswordSettings.md">account.PasswordSettings</a>;
+
 </pre>
 
 ## Constructors

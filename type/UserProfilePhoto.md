@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/photos.updateProfilePhoto.md">photos.updateProfilePhoto</a>#f0bb5152 id:<a href="../type/InputPhoto.md">InputPhoto</a> = <a href="../type/UserProfilePhoto.md">UserProfilePhoto</a>;
+
 </pre>
 
 ## Constructors

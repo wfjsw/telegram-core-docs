@@ -10,6 +10,7 @@ Sample Description
 <a href="../method/messages.sendEncrypted.md">messages.sendEncrypted</a>#a9776773 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> random_id:<a href="../type/long.md">long</a> data:<a href="../type/bytes.md">bytes</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
 <a href="../method/messages.sendEncryptedFile.md">messages.sendEncryptedFile</a>#9a901b66 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> random_id:<a href="../type/long.md">long</a> data:<a href="../type/bytes.md">bytes</a> file:<a href="../type/InputEncryptedFile.md">InputEncryptedFile</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
 <a href="../method/messages.sendEncryptedService.md">messages.sendEncryptedService</a>#32d439a4 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> random_id:<a href="../type/long.md">long</a> data:<a href="../type/bytes.md">bytes</a> = <a href="../type/messages.SentEncryptedMessage.md">messages.SentEncryptedMessage</a>;
+
 </pre>
 
 ## Constructors

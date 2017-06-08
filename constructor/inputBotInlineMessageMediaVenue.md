@@ -3,7 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputBotInlineMessageMediaVenue.md">inputBotInlineMessageMediaVenue</a>#aaafadc8 flags:<a href="../type/#.md">#</a> geo_point:<a href="../type/InputGeoPoint.md">InputGeoPoint</a> title:<a href="../type/string.md">string</a> address:<a href="../type/string.md">string</a> provider:<a href="../type/string.md">string</a> venue_id:<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a>;</pre>
+<a href="../constructor/inputBotInlineMessageMediaVenue.md">inputBotInlineMessageMediaVenue</a>#aaafadc8 flags:<a href="../type/#.md">#</a> geo_point:<a href="../type/InputGeoPoint.md">InputGeoPoint</a> title:<a href="../type/string.md">string</a> address:<a href="../type/string.md">string</a> provider:<a href="../type/string.md">string</a> venue_id:<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> = <a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

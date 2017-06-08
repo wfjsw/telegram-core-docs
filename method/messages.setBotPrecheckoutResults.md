@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/messages.setBotPrecheckoutResults.md">messages.setBotPrecheckoutResults</a>#9c2dd95 flags:<a href="../type/#.md">#</a> success:flags.1?<a href="../type/true.md">true</a> query_id:<a href="../type/long.md">long</a> error:flags.0?<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;</pre>
+<a href="../method/messages.setBotPrecheckoutResults.md">messages.setBotPrecheckoutResults</a>#9c2dd95 flags:<a href="../type/#.md">#</a> success:flags.1?<a href="../type/true.md">true</a> query_id:<a href="../type/long.md">long</a> error:flags.0?<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

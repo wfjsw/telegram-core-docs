@@ -12,7 +12,8 @@ Sample Description
 <a href="../constructor/updateShortSentMessage.md">updateShortSentMessage</a>#11f1331c flags:<a href="../type/#.md">#</a> out:flags.1?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> media:flags.9?<a href="../type/MessageMedia.md">MessageMedia</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
 
 ---functions---
-<a href="../method/messages.editChatTitle.md">messages.editChatTitle</a>#dc452855 chat_id:<a href="../type/int.md">int</a> title:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;</pre>
+<a href="../method/messages.editChatTitle.md">messages.editChatTitle</a>#dc452855 chat_id:<a href="../type/int.md">int</a> title:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

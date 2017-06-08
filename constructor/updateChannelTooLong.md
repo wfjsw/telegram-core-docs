@@ -3,7 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateChannelTooLong.md">updateChannelTooLong</a>#eb0467fb flags:<a href="../type/#.md">#</a> channel_id:<a href="../type/int.md">int</a> pts:flags.0?<a href="../type/int.md">int</a> = <a href="../type/Update.md">Update</a>;</pre>
+<a href="../constructor/updateChannelTooLong.md">updateChannelTooLong</a>#eb0467fb flags:<a href="../type/#.md">#</a> channel_id:<a href="../type/int.md">int</a> pts:flags.0?<a href="../type/int.md">int</a> = <a href="../type/Update.md">Update</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

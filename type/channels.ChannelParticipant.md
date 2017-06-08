@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/channels.getParticipant.md">channels.getParticipant</a>#546dd7a6 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/channels.ChannelParticipant.md">channels.ChannelParticipant</a>;
+
 </pre>
 
 ## Constructors

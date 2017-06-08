@@ -6,6 +6,7 @@ Sample Description
 <a href="../constructor/inputPrivacyKeyStatusTimestamp.md">inputPrivacyKeyStatusTimestamp</a>#4f96cb18 = <a href="../type/InputPrivacyKey.md">InputPrivacyKey</a>;
 <a href="../constructor/inputPrivacyKeyChatInvite.md">inputPrivacyKeyChatInvite</a>#bdfb0426 = <a href="../type/InputPrivacyKey.md">InputPrivacyKey</a>;
 <a href="../constructor/inputPrivacyKeyPhoneCall.md">inputPrivacyKeyPhoneCall</a>#fabadc5f = <a href="../type/InputPrivacyKey.md">InputPrivacyKey</a>;
+
 </pre>
 
 ## Constructors

@@ -8,6 +8,7 @@ Object contains info on a wallpaper.
 
 ---functions---
 <a href="../method/account.getWallPapers.md">account.getWallPapers</a>#c04cfac2 = Vector&lt;<a href="../type/WallPaper.md">WallPaper</a>&gt;;
+
 </pre>
 
 ## Constructors

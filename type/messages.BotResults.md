@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getInlineBotResults.md">messages.getInlineBotResults</a>#514e999d flags:<a href="../type/#.md">#</a> bot:<a href="../type/InputUser.md">InputUser</a> peer:<a href="../type/InputPeer.md">InputPeer</a> geo_point:flags.0?<a href="../type/InputGeoPoint.md">InputGeoPoint</a> query:<a href="../type/string.md">string</a> offset:<a href="../type/string.md">string</a> = <a href="../type/messages.BotResults.md">messages.BotResults</a>;
+
 </pre>
 
 ## Constructors

@@ -3,7 +3,8 @@
 Image description.
 
 <pre>
-<a href="../constructor/photoSize.md">photoSize</a>#77bfb61b type:<a href="../type/string.md">string</a> location:<a href="../type/FileLocation.md">FileLocation</a> w:<a href="../type/int.md">int</a> h:<a href="../type/int.md">int</a> size:<a href="../type/int.md">int</a> = <a href="../type/PhotoSize.md">PhotoSize</a>;</pre>
+<a href="../constructor/photoSize.md">photoSize</a>#77bfb61b type:<a href="../type/string.md">string</a> location:<a href="../type/FileLocation.md">FileLocation</a> w:<a href="../type/int.md">int</a> h:<a href="../type/int.md">int</a> size:<a href="../type/int.md">int</a> = <a href="../type/PhotoSize.md">PhotoSize</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

@@ -10,7 +10,8 @@ Sample Description
 <a href="../constructor/encryptedChatDiscarded.md">encryptedChatDiscarded</a>#13d6dd27 id:<a href="../type/int.md">int</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;
 
 ---functions---
-<a href="../method/messages.acceptEncryption.md">messages.acceptEncryption</a>#3dbc0415 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> g_b:<a href="../type/bytes.md">bytes</a> key_fingerprint:<a href="../type/long.md">long</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;</pre>
+<a href="../method/messages.acceptEncryption.md">messages.acceptEncryption</a>#3dbc0415 peer:<a href="../type/InputEncryptedChat.md">InputEncryptedChat</a> g_b:<a href="../type/bytes.md">bytes</a> key_fingerprint:<a href="../type/long.md">long</a> = <a href="../type/EncryptedChat.md">EncryptedChat</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

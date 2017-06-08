@@ -16,6 +16,7 @@ Sample Description
 <a href="../constructor/messageEntityTextUrl.md">messageEntityTextUrl</a>#76a6d327 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> url:<a href="../type/string.md">string</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
 <a href="../constructor/messageEntityMentionName.md">messageEntityMentionName</a>#352dca58 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> user_id:<a href="../type/int.md">int</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
 <a href="../constructor/inputMessageEntityMentionName.md">inputMessageEntityMentionName</a>#208e68c9 offset:<a href="../type/int.md">int</a> length:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/MessageEntity.md">MessageEntity</a>;
+
 </pre>
 
 ## Constructors

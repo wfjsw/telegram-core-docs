@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/payments.getPaymentReceipt.md">payments.getPaymentReceipt</a>#a092a980 msg_id:<a href="../type/int.md">int</a> = <a href="../type/payments.PaymentReceipt.md">payments.PaymentReceipt</a>;
+
 </pre>
 
 ## Constructors

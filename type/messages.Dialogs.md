@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getDialogs.md">messages.getDialogs</a>#191ba9c5 flags:<a href="../type/#.md">#</a> exclude_pinned:flags.0?<a href="../type/true.md">true</a> offset_date:<a href="../type/int.md">int</a> offset_id:<a href="../type/int.md">int</a> offset_peer:<a href="../type/InputPeer.md">InputPeer</a> limit:<a href="../type/int.md">int</a> = <a href="../type/messages.Dialogs.md">messages.Dialogs</a>;
+
 </pre>
 
 ## Constructors

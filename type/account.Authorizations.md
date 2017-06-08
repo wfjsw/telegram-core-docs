@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/account.getAuthorizations.md">account.getAuthorizations</a>#e320c158 = <a href="../type/account.Authorizations.md">account.Authorizations</a>;
+
 </pre>
 
 ## Constructors

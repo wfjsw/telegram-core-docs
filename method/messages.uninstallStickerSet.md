@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/messages.uninstallStickerSet.md">messages.uninstallStickerSet</a>#f96e55de stickerset:<a href="../type/InputStickerSet.md">InputStickerSet</a> = <a href="../type/Bool.md">Bool</a>;</pre>
+<a href="../method/messages.uninstallStickerSet.md">messages.uninstallStickerSet</a>#f96e55de stickerset:<a href="../type/InputStickerSet.md">InputStickerSet</a> = <a href="../type/Bool.md">Bool</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

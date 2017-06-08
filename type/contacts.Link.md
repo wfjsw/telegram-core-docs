@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/contacts.deleteContact.md">contacts.deleteContact</a>#8e953744 id:<a href="../type/InputUser.md">InputUser</a> = <a href="../type/contacts.Link.md">contacts.Link</a>;
+
 </pre>
 
 ## Constructors

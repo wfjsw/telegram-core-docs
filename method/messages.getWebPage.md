@@ -9,7 +9,8 @@ Sample Description
 <a href="../constructor/webPageNotModified.md">webPageNotModified</a>#85849473 = <a href="../type/WebPage.md">WebPage</a>;
 
 ---functions---
-<a href="../method/messages.getWebPage.md">messages.getWebPage</a>#32ca8f91 url:<a href="../type/string.md">string</a> hash:<a href="../type/int.md">int</a> = <a href="../type/WebPage.md">WebPage</a>;</pre>
+<a href="../method/messages.getWebPage.md">messages.getWebPage</a>#32ca8f91 url:<a href="../type/string.md">string</a> hash:<a href="../type/int.md">int</a> = <a href="../type/WebPage.md">WebPage</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

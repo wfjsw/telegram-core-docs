@@ -9,6 +9,7 @@ Sample Description
 ---functions---
 <a href="../method/messages.exportChatInvite.md">messages.exportChatInvite</a>#7d885289 chat_id:<a href="../type/int.md">int</a> = <a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;
 <a href="../method/channels.exportInvite.md">channels.exportInvite</a>#c7560885 channel:<a href="../type/InputChannel.md">InputChannel</a> = <a href="../type/ExportedChatInvite.md">ExportedChatInvite</a>;
+
 </pre>
 
 ## Constructors

@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.checkChatInvite.md">messages.checkChatInvite</a>#3eadb1bb hash:<a href="../type/string.md">string</a> = <a href="../type/ChatInvite.md">ChatInvite</a>;
+
 </pre>
 
 ## Constructors

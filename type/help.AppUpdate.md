@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getAppUpdate.md">help.getAppUpdate</a>#ae2de196 = <a href="../type/help.AppUpdate.md">help.AppUpdate</a>;
+
 </pre>
 
 ## Constructors

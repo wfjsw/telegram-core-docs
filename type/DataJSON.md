@@ -8,6 +8,7 @@ Sample Description
 ---functions---
 <a href="../method/bots.sendCustomRequest.md">bots.sendCustomRequest</a>#aa2769ed custom_method:<a href="../type/string.md">string</a> params:<a href="../type/DataJSON.md">DataJSON</a> = <a href="../type/DataJSON.md">DataJSON</a>;
 <a href="../method/phone.getCallConfig.md">phone.getCallConfig</a>#55451fa9 = <a href="../type/DataJSON.md">DataJSON</a>;
+
 </pre>
 
 ## Constructors

@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getMessageEditData.md">messages.getMessageEditData</a>#fda68d36 peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> = <a href="../type/messages.MessageEditData.md">messages.MessageEditData</a>;
+
 </pre>
 
 ## Constructors

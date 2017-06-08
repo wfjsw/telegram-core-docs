@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/help.getInviteText.md">help.getInviteText</a>#4d392343 = <a href="../type/help.InviteText.md">help.InviteText</a>;
+
 </pre>
 
 ## Constructors

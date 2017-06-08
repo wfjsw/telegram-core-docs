@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/account.getAccountTTL.md">account.getAccountTTL</a>#8fc711d = <a href="../type/AccountDaysTTL.md">AccountDaysTTL</a>;
+
 </pre>
 
 ## Constructors

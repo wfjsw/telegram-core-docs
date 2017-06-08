@@ -3,7 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputMediaPhoto.md">inputMediaPhoto</a>#e9bfb4f3 id:<a href="../type/InputPhoto.md">InputPhoto</a> caption:<a href="../type/string.md">string</a> = <a href="../type/InputMedia.md">InputMedia</a>;</pre>
+<a href="../constructor/inputMediaPhoto.md">inputMediaPhoto</a>#e9bfb4f3 id:<a href="../type/InputPhoto.md">InputPhoto</a> caption:<a href="../type/string.md">string</a> = <a href="../type/InputMedia.md">InputMedia</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

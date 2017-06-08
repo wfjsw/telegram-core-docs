@@ -8,6 +8,7 @@ Object defines a user or group for further interaction.
 <a href="../constructor/inputPeerChat.md">inputPeerChat</a>#179be863 chat_id:<a href="../type/int.md">int</a> = <a href="../type/InputPeer.md">InputPeer</a>;
 <a href="../constructor/inputPeerUser.md">inputPeerUser</a>#7b8e7de6 user_id:<a href="../type/int.md">int</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputPeer.md">InputPeer</a>;
 <a href="../constructor/inputPeerChannel.md">inputPeerChannel</a>#20adaef8 channel_id:<a href="../type/int.md">int</a> access_hash:<a href="../type/long.md">long</a> = <a href="../type/InputPeer.md">InputPeer</a>;
+
 </pre>
 
 ## Constructors

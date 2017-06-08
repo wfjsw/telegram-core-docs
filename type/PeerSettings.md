@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getPeerSettings.md">messages.getPeerSettings</a>#3672e09c peer:<a href="../type/InputPeer.md">InputPeer</a> = <a href="../type/PeerSettings.md">PeerSettings</a>;
+
 </pre>
 
 ## Constructors

@@ -11,6 +11,7 @@ Sample Description
 <a href="../constructor/keyboardButtonSwitchInline.md">keyboardButtonSwitchInline</a>#568a748 flags:<a href="../type/#.md">#</a> same_peer:flags.0?<a href="../type/true.md">true</a> text:<a href="../type/string.md">string</a> query:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
 <a href="../constructor/keyboardButtonGame.md">keyboardButtonGame</a>#50f41ccf text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
 <a href="../constructor/keyboardButtonBuy.md">keyboardButtonBuy</a>#afd93fbb text:<a href="../type/string.md">string</a> = <a href="../type/KeyboardButton.md">KeyboardButton</a>;
+
 </pre>
 
 ## Constructors

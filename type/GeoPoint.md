@@ -5,6 +5,7 @@ Sample Description
 <pre>
 <a href="../constructor/geoPointEmpty.md">geoPointEmpty</a>#1117dd5f = <a href="../type/GeoPoint.md">GeoPoint</a>;
 <a href="../constructor/geoPoint.md">geoPoint</a>#2049d70c long:<a href="../type/double.md">double</a> lat:<a href="../type/double.md">double</a> = <a href="../type/GeoPoint.md">GeoPoint</a>;
+
 </pre>
 
 ## Constructors

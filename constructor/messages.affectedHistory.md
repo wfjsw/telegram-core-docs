@@ -3,7 +3,8 @@
 Affected part of communication history with the user or in a chat.
 
 <pre>
-<a href="../constructor/messages.affectedHistory.md">messages.affectedHistory</a>#b45c69d1 pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> offset:<a href="../type/int.md">int</a> = <a href="../type/messages.AffectedHistory.md">messages.AffectedHistory</a>;</pre>
+<a href="../constructor/messages.affectedHistory.md">messages.affectedHistory</a>#b45c69d1 pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> offset:<a href="../type/int.md">int</a> = <a href="../type/messages.AffectedHistory.md">messages.AffectedHistory</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

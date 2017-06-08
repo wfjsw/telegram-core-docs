@@ -3,7 +3,8 @@
 Description of an image and its content.
 
 <pre>
-<a href="../constructor/photoCachedSize.md">photoCachedSize</a>#e9a734fa type:<a href="../type/string.md">string</a> location:<a href="../type/FileLocation.md">FileLocation</a> w:<a href="../type/int.md">int</a> h:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/PhotoSize.md">PhotoSize</a>;</pre>
+<a href="../constructor/photoCachedSize.md">photoCachedSize</a>#e9a734fa type:<a href="../type/string.md">string</a> location:<a href="../type/FileLocation.md">FileLocation</a> w:<a href="../type/int.md">int</a> h:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/PhotoSize.md">PhotoSize</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

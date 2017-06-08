@@ -9,6 +9,7 @@ Sample Description
 <a href="../constructor/inputPrivacyValueDisallowContacts.md">inputPrivacyValueDisallowContacts</a>#ba52007 = <a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
 <a href="../constructor/inputPrivacyValueDisallowAll.md">inputPrivacyValueDisallowAll</a>#d66b66c9 = <a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
 <a href="../constructor/inputPrivacyValueDisallowUsers.md">inputPrivacyValueDisallowUsers</a>#90110467 users:Vector&lt;<a href="../type/InputUser.md">InputUser</a>&gt; = <a href="../type/InputPrivacyRule.md">InputPrivacyRule</a>;
+
 </pre>
 
 ## Constructors

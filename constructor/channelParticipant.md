@@ -3,7 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/channelParticipant.md">channelParticipant</a>#15ebac1d user_id:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> = <a href="../type/ChannelParticipant.md">ChannelParticipant</a>;</pre>
+<a href="../constructor/channelParticipant.md">channelParticipant</a>#15ebac1d user_id:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> = <a href="../type/ChannelParticipant.md">ChannelParticipant</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

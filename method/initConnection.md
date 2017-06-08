@@ -5,7 +5,8 @@ Sample Description
 <pre>
 
 ---functions---
-<a href="../method/initConnection.md">initConnection</a>#69796de9 api_id:<a href="../type/int.md">int</a> device_model:<a href="../type/string.md">string</a> system_version:<a href="../type/string.md">string</a> app_version:<a href="../type/string.md">string</a> lang_code:<a href="../type/string.md">string</a> query:<a href="../type/!X.md">!X</a> = <a href="../type/X.md">X</a>;</pre>
+<a href="../method/initConnection.md">initConnection</a>#69796de9 api_id:<a href="../type/int.md">int</a> device_model:<a href="../type/string.md">string</a> system_version:<a href="../type/string.md">string</a> app_version:<a href="../type/string.md">string</a> lang_code:<a href="../type/string.md">string</a> query:<a href="../type/!X.md">!X</a> = <a href="../type/X.md">X</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

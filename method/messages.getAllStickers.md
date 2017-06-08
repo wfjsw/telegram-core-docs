@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/messages.allStickers.md">messages.allStickers</a>#edfd405f hash:<a href="../type/int.md">int</a> sets:Vector&lt;<a href="../type/StickerSet.md">StickerSet</a>&gt; = <a href="../type/messages.AllStickers.md">messages.AllStickers</a>;
 
 ---functions---
-<a href="../method/messages.getAllStickers.md">messages.getAllStickers</a>#1c9618b1 hash:<a href="../type/int.md">int</a> = <a href="../type/messages.AllStickers.md">messages.AllStickers</a>;</pre>
+<a href="../method/messages.getAllStickers.md">messages.getAllStickers</a>#1c9618b1 hash:<a href="../type/int.md">int</a> = <a href="../type/messages.AllStickers.md">messages.AllStickers</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

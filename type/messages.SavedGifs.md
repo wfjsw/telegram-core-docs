@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getSavedGifs.md">messages.getSavedGifs</a>#83bf3d52 hash:<a href="../type/int.md">int</a> = <a href="../type/messages.SavedGifs.md">messages.SavedGifs</a>;
+
 </pre>
 
 ## Constructors

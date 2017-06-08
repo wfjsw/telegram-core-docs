@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getFeaturedStickers.md">messages.getFeaturedStickers</a>#2dacca4f hash:<a href="../type/int.md">int</a> = <a href="../type/messages.FeaturedStickers.md">messages.FeaturedStickers</a>;
+
 </pre>
 
 ## Constructors

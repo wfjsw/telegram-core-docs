@@ -7,7 +7,8 @@ Sample Description
 <a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/account.resetAuthorization.md">account.resetAuthorization</a>#df77f3bc hash:<a href="../type/long.md">long</a> = <a href="../type/Bool.md">Bool</a>;</pre>
+<a href="../method/account.resetAuthorization.md">account.resetAuthorization</a>#df77f3bc hash:<a href="../type/long.md">long</a> = <a href="../type/Bool.md">Bool</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

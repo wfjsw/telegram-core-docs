@@ -8,6 +8,7 @@ Sample Description
 
 ---functions---
 <a href="../method/upload.getFile.md">upload.getFile</a>#e3a6cfb5 location:<a href="../type/InputFileLocation.md">InputFileLocation</a> offset:<a href="../type/int.md">int</a> limit:<a href="../type/int.md">int</a> = <a href="../type/upload.File.md">upload.File</a>;
+
 </pre>
 
 ## Constructors

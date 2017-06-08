@@ -3,7 +3,8 @@
 Sample Description
 
 <pre>
-<a href="../constructor/updateChannelMessageViews.md">updateChannelMessageViews</a>#98a12b4b channel_id:<a href="../type/int.md">int</a> id:<a href="../type/int.md">int</a> views:<a href="../type/int.md">int</a> = <a href="../type/Update.md">Update</a>;</pre>
+<a href="../constructor/updateChannelMessageViews.md">updateChannelMessageViews</a>#98a12b4b channel_id:<a href="../type/int.md">int</a> id:<a href="../type/int.md">int</a> views:<a href="../type/int.md">int</a> = <a href="../type/Update.md">Update</a>;
+</pre>
 ## Parameters
 
 | Name | Type | Description |

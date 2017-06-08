@@ -7,6 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/updates.getState.md">updates.getState</a>#edd4882a = <a href="../type/updates.State.md">updates.State</a>;
+
 </pre>
 
 ## Constructors
