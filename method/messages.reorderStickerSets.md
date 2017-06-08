@@ -7,13 +7,13 @@ Sample Description
 <a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
 
 ---functions---
-<a href="../method/messages.reorderStickerSets.md">messages.reorderStickerSets</a>#78337739 flags:<a href="../type/#.md">#</a> masks:flags.0?<a href="../type/true.md">true</a> order:Vector&lt;<a href="../type/long.md">long</a>&gt; = <a href="../type/Bool.md">Bool</a>;
+<a href="../method/messages.reorderStickerSets.md">messages.reorderStickerSets</a>#78337739 flags:# masks:flags.0?<a href="../type/true.md">true</a> order:Vector&lt;<a href="../type/long.md">long</a>&gt; = <a href="../type/Bool.md">Bool</a>;
 </pre>
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **flags** | # | Param description |
 | **masks** | flags.0?<a href="../type/true.md">true</a> | Param description |
 | **order** | Vector&lt;<a href="../type/long.md">long</a>&gt; | Param description |
 

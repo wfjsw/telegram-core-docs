@@ -3,13 +3,13 @@
 Sample Description
 
 <pre>
-<a href="../constructor/inputBotInlineResult.md">inputBotInlineResult</a>#2cbbe15a flags:<a href="../type/#.md">#</a> id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> title:flags.1?<a href="../type/string.md">string</a> description:flags.2?<a href="../type/string.md">string</a> url:flags.3?<a href="../type/string.md">string</a> thumb_url:flags.4?<a href="../type/string.md">string</a> content_url:flags.5?<a href="../type/string.md">string</a> content_type:flags.5?<a href="../type/string.md">string</a> w:flags.6?<a href="../type/int.md">int</a> h:flags.6?<a href="../type/int.md">int</a> duration:flags.7?<a href="../type/int.md">int</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;
+<a href="../constructor/inputBotInlineResult.md">inputBotInlineResult</a>#2cbbe15a flags:# id:<a href="../type/string.md">string</a> type:<a href="../type/string.md">string</a> title:flags.1?<a href="../type/string.md">string</a> description:flags.2?<a href="../type/string.md">string</a> url:flags.3?<a href="../type/string.md">string</a> thumb_url:flags.4?<a href="../type/string.md">string</a> content_url:flags.5?<a href="../type/string.md">string</a> content_type:flags.5?<a href="../type/string.md">string</a> w:flags.6?<a href="../type/int.md">int</a> h:flags.6?<a href="../type/int.md">int</a> duration:flags.7?<a href="../type/int.md">int</a> send_message:<a href="../type/InputBotInlineMessage.md">InputBotInlineMessage</a> = <a href="../type/InputBotInlineResult.md">InputBotInlineResult</a>;
 </pre>
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **flags** | # | Param description |
 | **id** | <a href="../type/string.md">string</a> | Param description |
 | **type** | <a href="../type/string.md">string</a> | Param description |
 | **title** | flags.1?<a href="../type/string.md">string</a> | Param description |

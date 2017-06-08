@@ -7,7 +7,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.readHistory.md">messages.readHistory</a>#e306d3a peer:<a href="../type/InputPeer.md">InputPeer</a> max_id:<a href="../type/int.md">int</a> = <a href="../type/messages.AffectedMessages.md">messages.AffectedMessages</a>;
-<a href="../method/messages.deleteMessages.md">messages.deleteMessages</a>#e58e95d2 flags:<a href="../type/#.md">#</a> revoke:flags.0?<a href="../type/true.md">true</a> id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.AffectedMessages.md">messages.AffectedMessages</a>;
+<a href="../method/messages.deleteMessages.md">messages.deleteMessages</a>#e58e95d2 flags:# revoke:flags.0?<a href="../type/true.md">true</a> id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.AffectedMessages.md">messages.AffectedMessages</a>;
 <a href="../method/messages.readMessageContents.md">messages.readMessageContents</a>#36a73f77 id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.AffectedMessages.md">messages.AffectedMessages</a>;
 <a href="../method/channels.deleteMessages.md">channels.deleteMessages</a>#84c1fd4e channel:<a href="../type/InputChannel.md">InputChannel</a> id:Vector&lt;<a href="../type/int.md">int</a>&gt; = <a href="../type/messages.AffectedMessages.md">messages.AffectedMessages</a>;
 

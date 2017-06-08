@@ -9,13 +9,13 @@ Sample Description
 <a href="../constructor/updates.differenceTooLong.md">updates.differenceTooLong</a>#4afe8f6d pts:<a href="../type/int.md">int</a> = <a href="../type/updates.Difference.md">updates.Difference</a>;
 
 ---functions---
-<a href="../method/updates.getDifference.md">updates.getDifference</a>#25939651 flags:<a href="../type/#.md">#</a> pts:<a href="../type/int.md">int</a> pts_total_limit:flags.0?<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> qts:<a href="../type/int.md">int</a> = <a href="../type/updates.Difference.md">updates.Difference</a>;
+<a href="../method/updates.getDifference.md">updates.getDifference</a>#25939651 flags:# pts:<a href="../type/int.md">int</a> pts_total_limit:flags.0?<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> qts:<a href="../type/int.md">int</a> = <a href="../type/updates.Difference.md">updates.Difference</a>;
 </pre>
 ## Parameters
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **flags** | <a href="../type/#.md">#</a> | Param description |
+| **flags** | # | Param description |
 | **pts** | <a href="../type/int.md">int</a> | Param description |
 | **pts_total_limit** | flags.0?<a href="../type/int.md">int</a> | Param description |
 | **date** | <a href="../type/int.md">int</a> | Param description |

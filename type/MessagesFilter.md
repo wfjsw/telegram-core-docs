@@ -14,7 +14,7 @@ Sample Description
 <a href="../constructor/inputMessagesFilterVoice.md">inputMessagesFilterVoice</a>#50f5c392 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 <a href="../constructor/inputMessagesFilterMusic.md">inputMessagesFilterMusic</a>#3751b49e = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 <a href="../constructor/inputMessagesFilterChatPhotos.md">inputMessagesFilterChatPhotos</a>#3a20ecb8 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
-<a href="../constructor/inputMessagesFilterPhoneCalls.md">inputMessagesFilterPhoneCalls</a>#80c99768 flags:<a href="../type/#.md">#</a> missed:flags.0?<a href="../type/true.md">true</a> = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
+<a href="../constructor/inputMessagesFilterPhoneCalls.md">inputMessagesFilterPhoneCalls</a>#80c99768 flags:# missed:flags.0?<a href="../type/true.md">true</a> = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 <a href="../constructor/inputMessagesFilterRoundVoice.md">inputMessagesFilterRoundVoice</a>#7a7c17a4 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 <a href="../constructor/inputMessagesFilterRoundVideo.md">inputMessagesFilterRoundVideo</a>#b549da53 = <a href="../type/MessagesFilter.md">MessagesFilter</a>;
 
