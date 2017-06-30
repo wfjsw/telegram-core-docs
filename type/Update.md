@@ -63,6 +63,8 @@ Sample Description
 <a href="../constructor/updateBotShippingQuery.md">updateBotShippingQuery</a>#e0cdc940 query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> payload:<a href="../type/bytes.md">bytes</a> shipping_address:<a href="../type/PostAddress.md">PostAddress</a> = <a href="../type/Update.md">Update</a>;
 <a href="../constructor/updateBotPrecheckoutQuery.md">updateBotPrecheckoutQuery</a>#5d2f3aa9 flags:# query_id:<a href="../type/long.md">long</a> user_id:<a href="../type/int.md">int</a> payload:<a href="../type/bytes.md">bytes</a> info:flags.0?<a href="../type/PaymentRequestedInfo.md">PaymentRequestedInfo</a> shipping_option_id:flags.1?<a href="../type/string.md">string</a> currency:<a href="../type/string.md">string</a> total_amount:<a href="../type/long.md">long</a> = <a href="../type/Update.md">Update</a>;
 <a href="../constructor/updatePhoneCall.md">updatePhoneCall</a>#ab0f6b1e phone_call:<a href="../type/PhoneCall.md">PhoneCall</a> = <a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateLangPackTooLong.md">updateLangPackTooLong</a>#10c2404b = <a href="../type/Update.md">Update</a>;
+<a href="../constructor/updateLangPack.md">updateLangPack</a>#56022f4d difference:<a href="../type/LangPackDifference.md">LangPackDifference</a> = <a href="../type/Update.md">Update</a>;
 
 </pre>
 
@@ -130,4 +132,6 @@ Sample Description
 | [updateBotShippingQuery](../constructor/updateBotShippingQuery.md) | Sample Description |
 | [updateBotPrecheckoutQuery](../constructor/updateBotPrecheckoutQuery.md) | Sample Description |
 | [updatePhoneCall](../constructor/updatePhoneCall.md) | Sample Description |
+| [updateLangPackTooLong](../constructor/updateLangPackTooLong.md) | Sample Description |
+| [updateLangPack](../constructor/updateLangPack.md) | Sample Description |
 

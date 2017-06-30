@@ -65,6 +65,8 @@ Boolean type.
 <a href="../method/channels.updateUsername.md">channels.updateUsername</a>#3514b3de channel:<a href="../type/InputChannel.md">InputChannel</a> username:<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/bots.answerWebhookJSONQuery.md">bots.answerWebhookJSONQuery</a>#e6213f4d query_id:<a href="../type/long.md">long</a> data:<a href="../type/DataJSON.md">DataJSON</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/payments.clearSavedInfo.md">payments.clearSavedInfo</a>#d83d70c1 flags:# credentials:flags.0?<a href="../type/true.md">true</a> info:flags.1?<a href="../type/true.md">true</a> = <a href="../type/Bool.md">Bool</a>;
+<a href="../method/stickers.removeStickerFromSet.md">stickers.removeStickerFromSet</a>#4255934 sticker:<a href="../type/InputDocument.md">InputDocument</a> = <a href="../type/Bool.md">Bool</a>;
+<a href="../method/stickers.changeStickerPosition.md">stickers.changeStickerPosition</a>#4ed705ca sticker:<a href="../type/InputDocument.md">InputDocument</a> position:<a href="../type/int.md">int</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/phone.receivedCall.md">phone.receivedCall</a>#17d54f61 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/phone.saveCallDebug.md">phone.saveCallDebug</a>#277add7e peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> debug:<a href="../type/DataJSON.md">DataJSON</a> = <a href="../type/Bool.md">Bool</a>;
 
@@ -101,8 +103,8 @@ Boolean type.
 | [account.updatePasswordSettings](../method/account.updatePasswordSettings.md) | Sample Description |
 | [account.confirmPhone](../method/account.confirmPhone.md) | Sample Description |
 | [contacts.deleteContacts](../method/contacts.deleteContacts.md) | Sample Description |
-| [contacts.block](../method/contacts.block.md) | Sample Description |
-| [contacts.unblock](../method/contacts.unblock.md) | Sample Description |
+| [contacts.block](../method/contacts.block.md) | Adds the user to the blacklist. |
+| [contacts.unblock](../method/contacts.unblock.md) | Deletes the user from the blacklist. |
 | [contacts.resetTopPeerRating](../method/contacts.resetTopPeerRating.md) | Sample Description |
 | [messages.setTyping](../method/messages.setTyping.md) | Sample Description |
 | [messages.reportSpam](../method/messages.reportSpam.md) | Sample Description |
@@ -139,5 +141,7 @@ Boolean type.
 | [channels.updateUsername](../method/channels.updateUsername.md) | Sample Description |
 | [bots.answerWebhookJSONQuery](../method/bots.answerWebhookJSONQuery.md) | Sample Description |
 | [payments.clearSavedInfo](../method/payments.clearSavedInfo.md) | Sample Description |
+| [stickers.removeStickerFromSet](../method/stickers.removeStickerFromSet.md) | Sample Description |
+| [stickers.changeStickerPosition](../method/stickers.changeStickerPosition.md) | Sample Description |
 | [phone.receivedCall](../method/phone.receivedCall.md) | Sample Description |
 | [phone.saveCallDebug](../method/phone.saveCallDebug.md) | Sample Description |

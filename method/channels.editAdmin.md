@@ -12,7 +12,7 @@ Sample Description
 <a href="../constructor/updateShortSentMessage.md">updateShortSentMessage</a>#11f1331c flags:# out:flags.1?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> media:flags.9?<a href="../type/MessageMedia.md">MessageMedia</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
 
 ---functions---
-<a href="../method/channels.editAdmin.md">channels.editAdmin</a>#eb7611d0 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> role:<a href="../type/ChannelParticipantRole.md">ChannelParticipantRole</a> = <a href="../type/Updates.md">Updates</a>;
+<a href="../method/channels.editAdmin.md">channels.editAdmin</a>#20b88214 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> admin_rights:<a href="../type/ChannelAdminRights.md">ChannelAdminRights</a> = <a href="../type/Updates.md">Updates</a>;
 </pre>
 ## Parameters
 
@@ -20,7 +20,7 @@ Sample Description
 |------|:----:|-------------|
 | **channel** | <a href="../type/InputChannel.md">InputChannel</a> | Param description |
 | **user_id** | <a href="../type/InputUser.md">InputUser</a> | Param description |
-| **role** | <a href="../type/ChannelParticipantRole.md">ChannelParticipantRole</a> | Param description |
+| **admin_rights** | <a href="../type/ChannelAdminRights.md">ChannelAdminRights</a> |  |
 
 ## Result
 

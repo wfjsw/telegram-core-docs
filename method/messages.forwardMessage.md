@@ -1,6 +1,6 @@
 # messages.forwardMessage
 
-Sample Description
+Forwards single messages.
 
 <pre>
 <a href="../constructor/updatesTooLong.md">updatesTooLong</a>#e317af7e = <a href="../type/Updates.md">Updates</a>;
@@ -18,9 +18,9 @@ Sample Description
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **peer** | <a href="../type/InputPeer.md">InputPeer</a> | Param description |
-| **id** | <a href="../type/int.md">int</a> | Param description |
-| **random_id** | <a href="../type/long.md">long</a> | Param description |
+| **peer** | <a href="../type/InputPeer.md">InputPeer</a> | User or chat where a message will be forwarded |
+| **id** | <a href="../type/int.md">int</a> | Forwarded message ID |
+| **random_id** | <a href="../type/long.md">long</a> | Unique client message ID required to prevent message resending |
 
 ## Result
 

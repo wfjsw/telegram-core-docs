@@ -31,17 +31,17 @@ Sample Description
 <a href="../method/messages.setGameScore.md">messages.setGameScore</a>#8ef8ecc0 flags:# edit_message:flags.0?<a href="../type/true.md">true</a> force:flags.1?<a href="../type/true.md">true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> score:<a href="../type/int.md">int</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/help.getAppChangelog.md">help.getAppChangelog</a>#9010ef6f prev_app_version:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.createChannel.md">channels.createChannel</a>#f4893d7f flags:# broadcast:flags.0?<a href="../type/true.md">true</a> megagroup:flags.1?<a href="../type/true.md">true</a> title:<a href="../type/string.md">string</a> about:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
-<a href="../method/channels.editAdmin.md">channels.editAdmin</a>#eb7611d0 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> role:<a href="../type/ChannelParticipantRole.md">ChannelParticipantRole</a> = <a href="../type/Updates.md">Updates</a>;
+<a href="../method/channels.editAdmin.md">channels.editAdmin</a>#20b88214 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> admin_rights:<a href="../type/ChannelAdminRights.md">ChannelAdminRights</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.editTitle.md">channels.editTitle</a>#566decd0 channel:<a href="../type/InputChannel.md">InputChannel</a> title:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.editPhoto.md">channels.editPhoto</a>#f12e57c9 channel:<a href="../type/InputChannel.md">InputChannel</a> photo:<a href="../type/InputChatPhoto.md">InputChatPhoto</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.joinChannel.md">channels.joinChannel</a>#24b524c5 channel:<a href="../type/InputChannel.md">InputChannel</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.leaveChannel.md">channels.leaveChannel</a>#f836aa95 channel:<a href="../type/InputChannel.md">InputChannel</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.inviteToChannel.md">channels.inviteToChannel</a>#199f3a6c channel:<a href="../type/InputChannel.md">InputChannel</a> users:Vector&lt;<a href="../type/InputUser.md">InputUser</a>&gt; = <a href="../type/Updates.md">Updates</a>;
-<a href="../method/channels.kickFromChannel.md">channels.kickFromChannel</a>#a672de14 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> kicked:<a href="../type/Bool.md">Bool</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.deleteChannel.md">channels.deleteChannel</a>#c0111fe3 channel:<a href="../type/InputChannel.md">InputChannel</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.toggleInvites.md">channels.toggleInvites</a>#49609307 channel:<a href="../type/InputChannel.md">InputChannel</a> enabled:<a href="../type/Bool.md">Bool</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.toggleSignatures.md">channels.toggleSignatures</a>#1f69b606 channel:<a href="../type/InputChannel.md">InputChannel</a> enabled:<a href="../type/Bool.md">Bool</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.updatePinnedMessage.md">channels.updatePinnedMessage</a>#a72ded52 flags:# silent:flags.0?<a href="../type/true.md">true</a> channel:<a href="../type/InputChannel.md">InputChannel</a> id:<a href="../type/int.md">int</a> = <a href="../type/Updates.md">Updates</a>;
+<a href="../method/channels.editBanned.md">channels.editBanned</a>#bfd915cd channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> banned_rights:<a href="../type/ChannelBannedRights.md">ChannelBannedRights</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/phone.discardCall.md">phone.discardCall</a>#78d413a6 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> duration:<a href="../type/int.md">int</a> reason:<a href="../type/PhoneCallDiscardReason.md">PhoneCallDiscardReason</a> connection_id:<a href="../type/long.md">long</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/phone.setCallRating.md">phone.setCallRating</a>#1c536a34 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> rating:<a href="../type/int.md">int</a> comment:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
 
@@ -65,13 +65,13 @@ Sample Description
 |------|-------------|
 | [messages.sendMessage](../method/messages.sendMessage.md) | Sends a text message. |
 | [messages.sendMedia](../method/messages.sendMedia.md) | Sample Description |
-| [messages.forwardMessages](../method/messages.forwardMessages.md) | Sample Description |
+| [messages.forwardMessages](../method/messages.forwardMessages.md) | Forwards messages by their IDs. |
 | [messages.editChatTitle](../method/messages.editChatTitle.md) | Sample Description |
 | [messages.editChatPhoto](../method/messages.editChatPhoto.md) | Sample Description |
 | [messages.addChatUser](../method/messages.addChatUser.md) | Sample Description |
 | [messages.deleteChatUser](../method/messages.deleteChatUser.md) | Sample Description |
 | [messages.createChat](../method/messages.createChat.md) | Sample Description |
-| [messages.forwardMessage](../method/messages.forwardMessage.md) | Sample Description |
+| [messages.forwardMessage](../method/messages.forwardMessage.md) | Forwards single messages. |
 | [messages.importChatInvite](../method/messages.importChatInvite.md) | Sample Description |
 | [messages.startBot](../method/messages.startBot.md) | Sample Description |
 | [messages.toggleChatAdmins](../method/messages.toggleChatAdmins.md) | Sample Description |
@@ -88,10 +88,10 @@ Sample Description
 | [channels.joinChannel](../method/channels.joinChannel.md) | Sample Description |
 | [channels.leaveChannel](../method/channels.leaveChannel.md) | Sample Description |
 | [channels.inviteToChannel](../method/channels.inviteToChannel.md) | Sample Description |
-| [channels.kickFromChannel](../method/channels.kickFromChannel.md) | Sample Description |
 | [channels.deleteChannel](../method/channels.deleteChannel.md) | Sample Description |
 | [channels.toggleInvites](../method/channels.toggleInvites.md) | Sample Description |
 | [channels.toggleSignatures](../method/channels.toggleSignatures.md) | Sample Description |
 | [channels.updatePinnedMessage](../method/channels.updatePinnedMessage.md) | Sample Description |
+| [channels.editBanned](../method/channels.editBanned.md) | Sample Description |
 | [phone.discardCall](../method/phone.discardCall.md) | Sample Description |
 | [phone.setCallRating](../method/phone.setCallRating.md) | Sample Description |

@@ -1,6 +1,6 @@
 # messages.getDialogs
 
-Sample Description
+Returns the current user dialog list.
 
 <pre>
 <a href="../constructor/messages.dialogs.md">messages.dialogs</a>#15ba6c40 dialogs:Vector&lt;<a href="../type/Dialog.md">Dialog</a>&gt; messages:Vector&lt;<a href="../type/Message.md">Message</a>&gt; chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/messages.Dialogs.md">messages.Dialogs</a>;
@@ -14,11 +14,11 @@ Sample Description
 | Name | Type | Description |
 |------|:----:|-------------|
 | **flags** | # | Param description |
-| **exclude_pinned** | flags.0?<a href="../type/true.md">true</a> | Param description |
+| **exclude_pinned** | flags.0?<a href="../type/true.md">true</a> | Do not include pinned chat |
 | **offset_date** | <a href="../type/int.md">int</a> | Param description |
 | **offset_id** | <a href="../type/int.md">int</a> | Param description |
 | **offset_peer** | <a href="../type/InputPeer.md">InputPeer</a> | Param description |
-| **limit** | <a href="../type/int.md">int</a> | Param description |
+| **limit** | <a href="../type/int.md">int</a> | Number of list elements to be returned |
 
 ## Result
 

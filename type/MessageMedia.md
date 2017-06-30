@@ -16,6 +16,7 @@ Sample Description
 
 ---functions---
 <a href="../method/messages.getWebPagePreview.md">messages.getWebPagePreview</a>#25223e24 message:<a href="../type/string.md">string</a> = <a href="../type/MessageMedia.md">MessageMedia</a>;
+<a href="../method/messages.uploadMedia.md">messages.uploadMedia</a>#519bc2b1 peer:<a href="../type/InputPeer.md">InputPeer</a> media:<a href="../type/InputMedia.md">InputMedia</a> = <a href="../type/MessageMedia.md">MessageMedia</a>;
 
 </pre>
 
@@ -39,3 +40,4 @@ Sample Description
 | Name | Description |
 |------|-------------|
 | [messages.getWebPagePreview](../method/messages.getWebPagePreview.md) | Sample Description |
+| [messages.uploadMedia](../method/messages.uploadMedia.md) | Sample Description |

@@ -1,6 +1,6 @@
 # messages.forwardMessages
 
-Sample Description
+Forwards messages by their IDs.
 
 <pre>
 <a href="../constructor/updatesTooLong.md">updatesTooLong</a>#e317af7e = <a href="../type/Updates.md">Updates</a>;
@@ -19,13 +19,13 @@ Sample Description
 | Name | Type | Description |
 |------|:----:|-------------|
 | **flags** | # | Param description |
-| **silent** | flags.5?<a href="../type/true.md">true</a> | Param description |
+| **silent** | flags.5?<a href="../type/true.md">true</a> | Prevent the message from producing a sound notification |
 | **background** | flags.6?<a href="../type/true.md">true</a> | Param description |
 | **with_my_score** | flags.8?<a href="../type/true.md">true</a> | Param description |
-| **from_peer** | <a href="../type/InputPeer.md">InputPeer</a> | Param description |
-| **id** | Vector&lt;<a href="../type/int.md">int</a>&gt; | Param description |
-| **random_id** | Vector&lt;<a href="../type/long.md">long</a>&gt; | Param description |
-| **to_peer** | <a href="../type/InputPeer.md">InputPeer</a> | Param description |
+| **from_peer** | <a href="../type/InputPeer.md">InputPeer</a> | User or chat where messages are occupied |
+| **id** | Vector&lt;<a href="../type/int.md">int</a>&gt; | Message ID list |
+| **random_id** | Vector&lt;<a href="../type/long.md">long</a>&gt; | Unique client message ID required to prevent message resending |
+| **to_peer** | <a href="../type/InputPeer.md">InputPeer</a> | User or chat where messages will be forwarded |
 
 ## Result
 

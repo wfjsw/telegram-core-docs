@@ -8,6 +8,7 @@ Sample Description
 <a href="../constructor/topPeerCategoryCorrespondents.md">topPeerCategoryCorrespondents</a>#637b7ed = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
 <a href="../constructor/topPeerCategoryGroups.md">topPeerCategoryGroups</a>#bd17a14a = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
 <a href="../constructor/topPeerCategoryChannels.md">topPeerCategoryChannels</a>#161d9628 = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
+<a href="../constructor/topPeerCategoryPhoneCalls.md">topPeerCategoryPhoneCalls</a>#1e76a78c = <a href="../type/TopPeerCategory.md">TopPeerCategory</a>;
 
 </pre>
 
@@ -20,4 +21,5 @@ Sample Description
 | [topPeerCategoryCorrespondents](../constructor/topPeerCategoryCorrespondents.md) | Sample Description |
 | [topPeerCategoryGroups](../constructor/topPeerCategoryGroups.md) | Sample Description |
 | [topPeerCategoryChannels](../constructor/topPeerCategoryChannels.md) | Sample Description |
+| [topPeerCategoryPhoneCalls](../constructor/topPeerCategoryPhoneCalls.md) | Sample Description |
 

@@ -22,4 +22,4 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [messages.getDialogs](../method/messages.getDialogs.md) | Sample Description |
+| [messages.getDialogs](../method/messages.getDialogs.md) | Returns the current user dialog list. |

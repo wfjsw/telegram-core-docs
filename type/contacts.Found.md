@@ -1,6 +1,6 @@
 # contacts.Found
 
-Sample Description
+Object contains info on users found by name substring and auxiliary data.
 
 <pre>
 <a href="../constructor/contacts.found.md">contacts.found</a>#1aa1f784 results:Vector&lt;<a href="../type/Peer.md">Peer</a>&gt; chats:Vector&lt;<a href="../type/Chat.md">Chat</a>&gt; users:Vector&lt;<a href="../type/User.md">User</a>&gt; = <a href="../type/contacts.Found.md">contacts.Found</a>;
@@ -14,10 +14,10 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [contacts.found](../constructor/contacts.found.md) | Sample Description |
+| [contacts.found](../constructor/contacts.found.md) | Users found by name substring and auxiliary data. |
 
 ## Methods
 
 | Name | Description |
 |------|-------------|
-| [contacts.search](../method/contacts.search.md) | Sample Description |
+| [contacts.search](../method/contacts.search.md) | Returns users found by username substring. |

@@ -3,7 +3,7 @@
 Sample Description
 
 <pre>
-<a href="../constructor/channel.md">channel</a>#a14dca52 flags:# creator:flags.0?<a href="../type/true.md">true</a> kicked:flags.1?<a href="../type/true.md">true</a> left:flags.2?<a href="../type/true.md">true</a> editor:flags.3?<a href="../type/true.md">true</a> moderator:flags.4?<a href="../type/true.md">true</a> broadcast:flags.5?<a href="../type/true.md">true</a> verified:flags.7?<a href="../type/true.md">true</a> megagroup:flags.8?<a href="../type/true.md">true</a> restricted:flags.9?<a href="../type/true.md">true</a> democracy:flags.10?<a href="../type/true.md">true</a> signatures:flags.11?<a href="../type/true.md">true</a> min:flags.12?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> access_hash:flags.13?<a href="../type/long.md">long</a> title:<a href="../type/string.md">string</a> username:flags.6?<a href="../type/string.md">string</a> photo:<a href="../type/ChatPhoto.md">ChatPhoto</a> date:<a href="../type/int.md">int</a> version:<a href="../type/int.md">int</a> restriction_reason:flags.9?<a href="../type/string.md">string</a> = <a href="../type/Chat.md">Chat</a>;
+<a href="../constructor/channel.md">channel</a>#cb44b1c flags:# creator:flags.0?<a href="../type/true.md">true</a> left:flags.2?<a href="../type/true.md">true</a> broadcast:flags.5?<a href="../type/true.md">true</a> verified:flags.7?<a href="../type/true.md">true</a> megagroup:flags.8?<a href="../type/true.md">true</a> restricted:flags.9?<a href="../type/true.md">true</a> democracy:flags.10?<a href="../type/true.md">true</a> signatures:flags.11?<a href="../type/true.md">true</a> min:flags.12?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> access_hash:flags.13?<a href="../type/long.md">long</a> title:<a href="../type/string.md">string</a> username:flags.6?<a href="../type/string.md">string</a> photo:<a href="../type/ChatPhoto.md">ChatPhoto</a> date:<a href="../type/int.md">int</a> version:<a href="../type/int.md">int</a> restriction_reason:flags.9?<a href="../type/string.md">string</a> admin_rights:flags.14?<a href="../type/ChannelAdminRights.md">ChannelAdminRights</a> banned_rights:flags.15?<a href="../type/ChannelBannedRights.md">ChannelBannedRights</a> = <a href="../type/Chat.md">Chat</a>;
 </pre>
 ## Parameters
 
@@ -11,10 +11,7 @@ Sample Description
 |------|:----:|-------------|
 | **flags** | # | Param description |
 | **creator** | flags.0?<a href="../type/true.md">true</a> | Param description |
-| **kicked** | flags.1?<a href="../type/true.md">true</a> | Param description |
 | **left** | flags.2?<a href="../type/true.md">true</a> | Param description |
-| **editor** | flags.3?<a href="../type/true.md">true</a> | Param description |
-| **moderator** | flags.4?<a href="../type/true.md">true</a> | Param description |
 | **broadcast** | flags.5?<a href="../type/true.md">true</a> | Param description |
 | **verified** | flags.7?<a href="../type/true.md">true</a> | Param description |
 | **megagroup** | flags.8?<a href="../type/true.md">true</a> | Param description |
@@ -30,6 +27,8 @@ Sample Description
 | **date** | <a href="../type/int.md">int</a> | Param description |
 | **version** | <a href="../type/int.md">int</a> | Param description |
 | **restriction_reason** | flags.9?<a href="../type/string.md">string</a> | Param description |
+| **admin_rights** | flags.14?<a href="../type/ChannelAdminRights.md">ChannelAdminRights</a> |  |
+| **banned_rights** | flags.15?<a href="../type/ChannelBannedRights.md">ChannelBannedRights</a> |  |
 
 ## Type
 

@@ -1,4 +1,4 @@
-# channels.kickFromChannel
+# channels.editBanned
 
 Sample Description
 
@@ -12,7 +12,7 @@ Sample Description
 <a href="../constructor/updateShortSentMessage.md">updateShortSentMessage</a>#11f1331c flags:# out:flags.1?<a href="../type/true.md">true</a> id:<a href="../type/int.md">int</a> pts:<a href="../type/int.md">int</a> pts_count:<a href="../type/int.md">int</a> date:<a href="../type/int.md">int</a> media:flags.9?<a href="../type/MessageMedia.md">MessageMedia</a> entities:flags.7?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
 
 ---functions---
-<a href="../method/channels.kickFromChannel.md">channels.kickFromChannel</a>#a672de14 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> kicked:<a href="../type/Bool.md">Bool</a> = <a href="../type/Updates.md">Updates</a>;
+<a href="../method/channels.editBanned.md">channels.editBanned</a>#bfd915cd channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> banned_rights:<a href="../type/ChannelBannedRights.md">ChannelBannedRights</a> = <a href="../type/Updates.md">Updates</a>;
 </pre>
 ## Parameters
 
@@ -20,7 +20,7 @@ Sample Description
 |------|:----:|-------------|
 | **channel** | <a href="../type/InputChannel.md">InputChannel</a> | Param description |
 | **user_id** | <a href="../type/InputUser.md">InputUser</a> | Param description |
-| **kicked** | <a href="../type/Bool.md">Bool</a> | Param description |
+| **banned_rights** | <a href="../type/ChannelBannedRights.md">ChannelBannedRights</a> | Param description |
 
 ## Result
 

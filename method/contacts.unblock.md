@@ -1,6 +1,6 @@
 # contacts.unblock
 
-Sample Description
+Deletes the user from the blacklist.
 
 <pre>
 <a href="../constructor/boolFalse.md">boolFalse</a>#bc799737 = <a href="../type/Bool.md">Bool</a>;
@@ -13,7 +13,7 @@ Sample Description
 
 | Name | Type | Description |
 |------|:----:|-------------|
-| **id** | <a href="../type/InputUser.md">InputUser</a> | Param description |
+| **id** | <a href="../type/InputUser.md">InputUser</a> | User ID |
 
 ## Result
 

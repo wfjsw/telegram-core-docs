@@ -14,8 +14,8 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [replyKeyboardHide](../constructor/replyKeyboardHide.md) | Sample Description |
-| [replyKeyboardForceReply](../constructor/replyKeyboardForceReply.md) | Sample Description |
+| [replyKeyboardHide](../constructor/replyKeyboardHide.md) | Upon receiving a message with this object, Telegram clients will remove the current custom keyboard and display the default letter-keyboard. By default, custom keyboards are displayed until a new keyboard is sent by a bot. An exception is made for one-time keyboards that are hidden immediately after the user presses a button. |
+| [replyKeyboardForceReply](../constructor/replyKeyboardForceReply.md) | Upon receiving a message with this object, Telegram clients will display a reply interface to the user (act as if the user has selected the bot‘s message and tapped &#39;Reply&#39;). |
 | [replyKeyboardMarkup](../constructor/replyKeyboardMarkup.md) | Sample Description |
-| [replyInlineMarkup](../constructor/replyInlineMarkup.md) | Sample Description |
+| [replyInlineMarkup](../constructor/replyInlineMarkup.md) | This object represents an inline keyboard that appears right next to the message it belongs to. |
 

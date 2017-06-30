@@ -80,7 +80,7 @@
 | [contacts.deleteContacts](method/contacts.deleteContacts.md) | Sample Description |
 | [contacts.exportCard](method/contacts.exportCard.md) | Sample Description |
 | [contacts.importCard](method/contacts.importCard.md) | Sample Description |
-| [contacts.search](method/contacts.search.md) | Sample Description |
+| [contacts.search](method/contacts.search.md) | Returns users found by username substring. |
 | [contacts.getTopPeers](method/contacts.getTopPeers.md) | Sample Description |
 | [contacts.resetTopPeerRating](method/contacts.resetTopPeerRating.md) | Sample Description |
 
@@ -89,8 +89,8 @@
 
 | Method | Description |
 |--------|-------------|
-| [contacts.block](method/contacts.block.md) | Sample Description |
-| [contacts.unblock](method/contacts.unblock.md) | Sample Description |
+| [contacts.block](method/contacts.block.md) | Adds the user to the blacklist. |
+| [contacts.unblock](method/contacts.unblock.md) | Deletes the user from the blacklist. |
 | [contacts.getBlocked](method/contacts.getBlocked.md) | Sample Description |
 
 
@@ -99,7 +99,7 @@
 | Method | Description |
 |--------|-------------|
 | [messages.getMessages](method/messages.getMessages.md) | Sample Description |
-| [messages.getDialogs](method/messages.getDialogs.md) | Sample Description |
+| [messages.getDialogs](method/messages.getDialogs.md) | Returns the current user dialog list. |
 | [messages.getHistory](method/messages.getHistory.md) | Sample Description |
 | [messages.search](method/messages.search.md) | Sample Description |
 | [messages.searchGlobal](method/messages.searchGlobal.md) | Sample Description |
@@ -110,8 +110,8 @@
 | [messages.setTyping](method/messages.setTyping.md) | Sample Description |
 | [messages.sendMessage](method/messages.sendMessage.md) | Sends a text message. |
 | [messages.sendMedia](method/messages.sendMedia.md) | Sample Description |
-| [messages.forwardMessage](method/messages.forwardMessage.md) | Sample Description |
-| [messages.forwardMessages](method/messages.forwardMessages.md) | Sample Description |
+| [messages.forwardMessage](method/messages.forwardMessage.md) | Forwards single messages. |
+| [messages.forwardMessages](method/messages.forwardMessages.md) | Forwards messages by their IDs. |
 | [messages.readMessageContents](method/messages.readMessageContents.md) | Sample Description |
 | [messages.editMessage](method/messages.editMessage.md) | Sample Description |
 | [messages.getMessagesViews](method/messages.getMessagesViews.md) | Sample Description |
@@ -126,6 +126,7 @@
 | [messages.getPeerDialogs](method/messages.getPeerDialogs.md) | Sample Description |
 | [messages.saveDraft](method/messages.saveDraft.md) | Sample Description |
 | [messages.getAllDrafts](method/messages.getAllDrafts.md) | Sample Description |
+| [messages.uploadMedia](method/messages.uploadMedia.md) | Sample Description |
 
 
 ## Working with Link Preview / Instant View™ 
@@ -192,7 +193,6 @@
 | [channels.joinChannel](method/channels.joinChannel.md) | Sample Description |
 | [channels.leaveChannel](method/channels.leaveChannel.md) | Sample Description |
 | [channels.inviteToChannel](method/channels.inviteToChannel.md) | Sample Description |
-| [channels.kickFromChannel](method/channels.kickFromChannel.md) | Sample Description |
 | [channels.exportInvite](method/channels.exportInvite.md) | Sample Description |
 | [channels.deleteChannel](method/channels.deleteChannel.md) | Sample Description |
 | [channels.toggleInvites](method/channels.toggleInvites.md) | Sample Description |
@@ -200,6 +200,8 @@
 | [channels.toggleSignatures](method/channels.toggleSignatures.md) | Sample Description |
 | [channels.updatePinnedMessage](method/channels.updatePinnedMessage.md) | Sample Description |
 | [channels.getAdminedPublicChannels](method/channels.getAdminedPublicChannels.md) | Sample Description |
+| [channels.editBanned](method/channels.editBanned.md) | Sample Description |
+| [channels.getAdminLog](method/channels.getAdminLog.md) | Sample Description |
 
 
 ## Working with Spam Report 
@@ -260,6 +262,10 @@
 | [messages.getSavedGifs](method/messages.getSavedGifs.md) | Sample Description |
 | [messages.saveGif](method/messages.saveGif.md) | Sample Description |
 | [messages.reorderStickerSets](method/messages.reorderStickerSets.md) | Sample Description |
+| [stickers.createStickerSet](method/stickers.createStickerSet.md) | Sample Description |
+| [stickers.removeStickerFromSet](method/stickers.removeStickerFromSet.md) | Sample Description |
+| [stickers.changeStickerPosition](method/stickers.changeStickerPosition.md) | Sample Description |
+| [stickers.addStickerToSet](method/stickers.addStickerToSet.md) | Sample Description |
 
 
 ## Working with Updates 
