@@ -14,7 +14,7 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [accountDaysTTL](../constructor/accountDaysTTL.md) | Sample Description |
+| [accountDaysTTL](../constructor/accountDaysTTL.md) | Define the self-destruction period of an account |
 
 ## Methods
 

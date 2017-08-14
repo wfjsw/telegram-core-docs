@@ -11,5 +11,5 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [null](../constructor/null.md) | Sample Description |
+| [null](../constructor/null.md) | Corresponds to an arbitrary empty object. |
 

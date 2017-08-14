@@ -19,7 +19,7 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [auth.authorization](../constructor/auth.authorization.md) | Sample Description |
+| [auth.authorization](../constructor/auth.authorization.md) | Contains user authorization info. |
 
 ## Methods
 

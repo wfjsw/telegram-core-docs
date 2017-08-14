@@ -55,7 +55,6 @@ Boolean type.
 <a href="../method/messages.setBotPrecheckoutResults.md">messages.setBotPrecheckoutResults</a>#9c2dd95 flags:# success:flags.1?<a href="../type/true.md">true</a> query_id:<a href="../type/long.md">long</a> error:flags.0?<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/upload.saveFilePart.md">upload.saveFilePart</a>#b304a621 file_id:<a href="../type/long.md">long</a> file_part:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/upload.saveBigFilePart.md">upload.saveBigFilePart</a>#de7b673d file_id:<a href="../type/long.md">long</a> file_part:<a href="../type/int.md">int</a> file_total_parts:<a href="../type/int.md">int</a> bytes:<a href="../type/bytes.md">bytes</a> = <a href="../type/Bool.md">Bool</a>;
-<a href="../method/upload.reuploadCdnFile.md">upload.reuploadCdnFile</a>#2e7a2020 file_token:<a href="../type/bytes.md">bytes</a> request_token:<a href="../type/bytes.md">bytes</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/help.saveAppLog.md">help.saveAppLog</a>#6f02f748 events:Vector&lt;<a href="../type/InputAppEvent.md">InputAppEvent</a>&gt; = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/help.setBotUpdatesStatus.md">help.setBotUpdatesStatus</a>#ec22cfcd pending_updates_count:<a href="../type/int.md">int</a> message:<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/channels.readHistory.md">channels.readHistory</a>#cc104937 channel:<a href="../type/InputChannel.md">InputChannel</a> max_id:<a href="../type/int.md">int</a> = <a href="../type/Bool.md">Bool</a>;
@@ -65,8 +64,6 @@ Boolean type.
 <a href="../method/channels.updateUsername.md">channels.updateUsername</a>#3514b3de channel:<a href="../type/InputChannel.md">InputChannel</a> username:<a href="../type/string.md">string</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/bots.answerWebhookJSONQuery.md">bots.answerWebhookJSONQuery</a>#e6213f4d query_id:<a href="../type/long.md">long</a> data:<a href="../type/DataJSON.md">DataJSON</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/payments.clearSavedInfo.md">payments.clearSavedInfo</a>#d83d70c1 flags:# credentials:flags.0?<a href="../type/true.md">true</a> info:flags.1?<a href="../type/true.md">true</a> = <a href="../type/Bool.md">Bool</a>;
-<a href="../method/stickers.removeStickerFromSet.md">stickers.removeStickerFromSet</a>#4255934 sticker:<a href="../type/InputDocument.md">InputDocument</a> = <a href="../type/Bool.md">Bool</a>;
-<a href="../method/stickers.changeStickerPosition.md">stickers.changeStickerPosition</a>#4ed705ca sticker:<a href="../type/InputDocument.md">InputDocument</a> position:<a href="../type/int.md">int</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/phone.receivedCall.md">phone.receivedCall</a>#17d54f61 peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> = <a href="../type/Bool.md">Bool</a>;
 <a href="../method/phone.saveCallDebug.md">phone.saveCallDebug</a>#277add7e peer:<a href="../type/InputPhoneCall.md">InputPhoneCall</a> debug:<a href="../type/DataJSON.md">DataJSON</a> = <a href="../type/Bool.md">Bool</a>;
 
@@ -76,8 +73,8 @@ Boolean type.
 
 | Name | Description |
 |------|-------------|
-| [boolFalse](../constructor/boolFalse.md) | Sample Description |
-| [boolTrue](../constructor/boolTrue.md) | Sample Description |
+| [boolFalse](../constructor/boolFalse.md) | Constructor may be interpreted as a **boolean** `false` value. |
+| [boolTrue](../constructor/boolTrue.md) | The constructor can be interpreted as a **boolean** `true` value. |
 
 ## Methods
 
@@ -131,7 +128,6 @@ Boolean type.
 | [messages.setBotPrecheckoutResults](../method/messages.setBotPrecheckoutResults.md) | Sample Description |
 | [upload.saveFilePart](../method/upload.saveFilePart.md) | Sample Description |
 | [upload.saveBigFilePart](../method/upload.saveBigFilePart.md) | Sample Description |
-| [upload.reuploadCdnFile](../method/upload.reuploadCdnFile.md) | Sample Description |
 | [help.saveAppLog](../method/help.saveAppLog.md) | Sample Description |
 | [help.setBotUpdatesStatus](../method/help.setBotUpdatesStatus.md) | Sample Description |
 | [channels.readHistory](../method/channels.readHistory.md) | Sample Description |
@@ -141,7 +137,5 @@ Boolean type.
 | [channels.updateUsername](../method/channels.updateUsername.md) | Sample Description |
 | [bots.answerWebhookJSONQuery](../method/bots.answerWebhookJSONQuery.md) | Sample Description |
 | [payments.clearSavedInfo](../method/payments.clearSavedInfo.md) | Sample Description |
-| [stickers.removeStickerFromSet](../method/stickers.removeStickerFromSet.md) | Sample Description |
-| [stickers.changeStickerPosition](../method/stickers.changeStickerPosition.md) | Sample Description |
 | [phone.receivedCall](../method/phone.receivedCall.md) | Sample Description |
 | [phone.saveCallDebug](../method/phone.saveCallDebug.md) | Sample Description |

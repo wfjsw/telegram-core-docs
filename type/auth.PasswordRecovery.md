@@ -14,7 +14,7 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [auth.passwordRecovery](../constructor/auth.passwordRecovery.md) | Sample Description |
+| [auth.passwordRecovery](../constructor/auth.passwordRecovery.md) | Contains data needed for 2FA password recovery |
 
 ## Methods
 

@@ -14,7 +14,7 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [account.authorizations](../constructor/account.authorizations.md) | Sample Description |
+| [account.authorizations](../constructor/account.authorizations.md) | Contains login sessions info |
 
 ## Methods
 

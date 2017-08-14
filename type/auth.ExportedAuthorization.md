@@ -14,7 +14,7 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [auth.exportedAuthorization](../constructor/auth.exportedAuthorization.md) | Sample Description |
+| [auth.exportedAuthorization](../constructor/auth.exportedAuthorization.md) | Data for copying of authorization between data centres. |
 
 ## Methods
 

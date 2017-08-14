@@ -11,5 +11,5 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [botInfo](../constructor/botInfo.md) | Sample Description |
+| [botInfo](../constructor/botInfo.md) | Contains info about a bot |
 

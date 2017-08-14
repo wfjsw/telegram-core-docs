@@ -222,6 +222,7 @@
 | [upload.saveFilePart](method/upload.saveFilePart.md) | Sample Description |
 | [upload.getFile](method/upload.getFile.md) | Sample Description |
 | [upload.saveBigFilePart](method/upload.saveBigFilePart.md) | Sample Description |
+| [upload.getCdnFileHashes](method/upload.getCdnFileHashes.md) | Sample Description |
 | [upload.getWebFile](method/upload.getWebFile.md) | Sample Description |
 | [upload.getCdnFile](method/upload.getCdnFile.md) | Sample Description |
 | [upload.reuploadCdnFile](method/upload.reuploadCdnFile.md) | Sample Description |

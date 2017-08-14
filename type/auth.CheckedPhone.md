@@ -14,7 +14,7 @@ Sample Description
 
 | Name | Description |
 |------|-------------|
-| [auth.checkedPhone](../constructor/auth.checkedPhone.md) | Sample Description |
+| [auth.checkedPhone](../constructor/auth.checkedPhone.md) | Contains info on a phone number in the system. |
 
 ## Methods
 

@@ -29,6 +29,7 @@ Sample Description
 <a href="../method/messages.editMessage.md">messages.editMessage</a>#ce91e4ca flags:# no_webpage:flags.1?<a href="../type/true.md">true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> message:flags.11?<a href="../type/string.md">string</a> reply_markup:flags.2?<a href="../type/ReplyMarkup.md">ReplyMarkup</a> entities:flags.3?Vector&lt;<a href="../type/MessageEntity.md">MessageEntity</a>&gt; = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/messages.getAllDrafts.md">messages.getAllDrafts</a>#6a3f8d65 = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/messages.setGameScore.md">messages.setGameScore</a>#8ef8ecc0 flags:# edit_message:flags.0?<a href="../type/true.md">true</a> force:flags.1?<a href="../type/true.md">true</a> peer:<a href="../type/InputPeer.md">InputPeer</a> id:<a href="../type/int.md">int</a> user_id:<a href="../type/InputUser.md">InputUser</a> score:<a href="../type/int.md">int</a> = <a href="../type/Updates.md">Updates</a>;
+<a href="../method/messages.sendScreenshotNotification.md">messages.sendScreenshotNotification</a>#c97df020 peer:<a href="../type/InputPeer.md">InputPeer</a> reply_to_msg_id:<a href="../type/int.md">int</a> random_id:<a href="../type/long.md">long</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/help.getAppChangelog.md">help.getAppChangelog</a>#9010ef6f prev_app_version:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.createChannel.md">channels.createChannel</a>#f4893d7f flags:# broadcast:flags.0?<a href="../type/true.md">true</a> megagroup:flags.1?<a href="../type/true.md">true</a> title:<a href="../type/string.md">string</a> about:<a href="../type/string.md">string</a> = <a href="../type/Updates.md">Updates</a>;
 <a href="../method/channels.editAdmin.md">channels.editAdmin</a>#20b88214 channel:<a href="../type/InputChannel.md">InputChannel</a> user_id:<a href="../type/InputUser.md">InputUser</a> admin_rights:<a href="../type/ChannelAdminRights.md">ChannelAdminRights</a> = <a href="../type/Updates.md">Updates</a>;
@@ -80,6 +81,7 @@ Sample Description
 | [messages.editMessage](../method/messages.editMessage.md) | Sample Description |
 | [messages.getAllDrafts](../method/messages.getAllDrafts.md) | Sample Description |
 | [messages.setGameScore](../method/messages.setGameScore.md) | Sample Description |
+| [messages.sendScreenshotNotification](../method/messages.sendScreenshotNotification.md) | Sample Description |
 | [help.getAppChangelog](../method/help.getAppChangelog.md) | Sample Description |
 | [channels.createChannel](../method/channels.createChannel.md) | Sample Description |
 | [channels.editAdmin](../method/channels.editAdmin.md) | Sample Description |

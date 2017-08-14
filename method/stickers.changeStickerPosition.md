@@ -3,11 +3,10 @@
 Sample Description
 
 <pre>
-<a href="../constructor/boolFalse.md">boolFalse</a>#bc799737 = <a href="../type/Bool.md">Bool</a>;
-<a href="../constructor/boolTrue.md">boolTrue</a>#997275b5 = <a href="../type/Bool.md">Bool</a>;
+<a href="../constructor/messages.stickerSet.md">messages.stickerSet</a>#b60a24a6 set:<a href="../type/StickerSet.md">StickerSet</a> packs:Vector&lt;<a href="../type/StickerPack.md">StickerPack</a>&gt; documents:Vector&lt;<a href="../type/Document.md">Document</a>&gt; = <a href="../type/messages.StickerSet.md">messages.StickerSet</a>;
 
 ---functions---
-<a href="../method/stickers.changeStickerPosition.md">stickers.changeStickerPosition</a>#4ed705ca sticker:<a href="../type/InputDocument.md">InputDocument</a> position:<a href="../type/int.md">int</a> = <a href="../type/Bool.md">Bool</a>;
+<a href="../method/stickers.changeStickerPosition.md">stickers.changeStickerPosition</a>#ffb6d4ca sticker:<a href="../type/InputDocument.md">InputDocument</a> position:<a href="../type/int.md">int</a> = <a href="../type/messages.StickerSet.md">messages.StickerSet</a>;
 </pre>
 ## Parameters
 
@@ -18,5 +17,5 @@ Sample Description
 
 ## Result
 
-<a href="../type/Bool.md">Bool</a>
+<a href="../type/messages.StickerSet.md">messages.StickerSet</a>
 
